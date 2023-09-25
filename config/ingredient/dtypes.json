@@ -1,0 +1,12 @@
+{
+    "ingredient": {
+        "name": "str",
+        "strength": "int",
+        "description": "str",
+        "origin": "str",
+        "images": "list",
+        "ingredient_category_id": "int",
+        "color": "str",
+        "parent_ingredient_id": "int"
+    }
+}
