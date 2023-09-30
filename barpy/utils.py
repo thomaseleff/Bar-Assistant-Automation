@@ -2,10 +2,10 @@
 Information
 ---------------------------------------------------------------------
 Name        : utils.py
-Location    : ~/rocks/utils/
+Location    : ~/barpy/utils/
 Author      : Tom Eleff
 Published   : 2023-07-11
-Revised on  : 2023-09-03
+Revised on  : 2023-09-30
 
 Description
 ---------------------------------------------------------------------
@@ -18,6 +18,7 @@ import json
 import os
 import time
 import datetime as dt
+from dotenv import load_dotenv
 
 
 # Define config-related functions
@@ -241,6 +242,37 @@ def generate_output_directory(
         raise KeyError(
             "ERROR: <config> does not contain the key, 'outputs'."
         )
+
+
+# Define .env-related utility functions
+def load_parameter(
+    envLoc,
+    envParameter
+):
+    """
+    Variables
+    ---------------------------------------------------------------------
+    envLoc                  = <str> Path to ~/.env that contains
+                                the parameters essential to the
+                                application.
+    envParameter            = <str> Name of the environment variable to
+                                return.
+
+    Description
+    ---------------------------------------------------------------------
+    Returns the value of {envParameter}.
+    """
+
+    # Load .env
+    load_dotenv(
+        os.path.join(
+            envLoc,
+            '.env'
+        )
+    )
+
+    # Return .env parameter
+    return os.environ.get(envParameter, None)
 
 
 # Define misc. development utility functions
