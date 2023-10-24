@@ -1,0 +1,15 @@
+{
+    "metadata": {
+        "name": "High West Saloon",
+        "address": "703 Park Ave.",
+        "city": "Park City",
+        "stateCode": "UT",
+        "zipCode": "84060",
+        "lat": "40.646519",
+        "long": "-111.498573",
+        "url": "https://highwest.com/pages/saloon",
+        "affiliation": "High West Distillery",
+        "notableBarkeepers": "Christoper Benton Dorsey",
+        "signature": "Penicillin"
+    }
+}

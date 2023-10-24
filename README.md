@@ -39,7 +39,7 @@ Python wrapper-library for the Bar Assistant API.
 ## Community
 The community archive collection includes cocktail recipes and ingredients from notable US bars indexed by date. The following bar archive collections are available,
 
-- High West Saloon (Park City, UT) _(coming soon)_
+- [High West Saloon](community/high-west-saloon/) (Park City, UT)
 - The Dead Rabbit (New York City, NY)
 - The Violet Hour (Chicago, IL)
 - Bar Leather Apron (Honolulu, HI)
