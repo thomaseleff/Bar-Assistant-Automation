@@ -2,6 +2,7 @@
 *.pyo
 __pycache__
 /archive
+/community/archive
 /planning
 .vscode
 .env
