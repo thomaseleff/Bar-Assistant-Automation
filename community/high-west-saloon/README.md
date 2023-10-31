@@ -966,7 +966,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- A lemon twist.watch a tutorial
 
 Glass:
 
@@ -978,7 +978,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.
+Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial
 
 ---
 
@@ -1097,23 +1097,11 @@ Ingredients:
 - 1.0 Oz Coconut And Peanut Butter Cream
 - 0.5 Oz Demerara Syrup
 - 1.0 Oz Pineapple Juice
-- 0.25 Oz Lemon Juice Dash Saline Solution (5:1)
+- 0.25 Oz Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16 Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge
 
 Garnish:
 
-- A pineapple wedge
-
-Glass:
-
-- Mason Jar
-
-Method:
-
-- Shake
-
-Instructions:
-
-Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.
+- None
 
 ---
 
@@ -1529,15 +1517,15 @@ Chill a martini glass. Add all ingredients to a cocktail shaker with ice and sha
 
 Ingredients:
 
-- 5.0 Oz Double Rye
+- 0.5 Oz Double Rye
 - 2.0 Dashes Angostura
 - 4.0 Dashes Tiki Bitters
-- 33.0 Oz Fino Sherry
-- 5.0 Oz Pina Rosemary Marigold Cordial
+- 0.33 Oz Fino Sherry
+- 0.5 Oz Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 33.0 Oz Neisson Rhum Agricole
-- 5.0 Oz Hamilton 86 Guyana Rum
+- 0.33 Oz Neisson Rhum Agricole
+- 0.5 Oz Hamilton 86 Guyana Rum
 - 1.0 Oz Plantation Pineapple Rum
 
 Garnish:
@@ -3764,8 +3752,8 @@ Method:
 
 Instructions:
 
-Step 1: the hot chocolate base
-yield:  gallon (enough for 25 cocktails)
+Yield:  gallon (enough for 25 cocktails)
+step 1: the hot chocolate base
 1 gallon milk
 2 split vanilla beans
 4 blocks abuelita chocolate
@@ -5380,23 +5368,11 @@ Ingredients:
 - 0.5 Oz Lime Cordial
 - 0.5 Oz Guava Puree
 - 4.0 Oz Shades Kviek
-- 1.0 Oz Golden Sour Ale
+- 1.0 Top With Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge
 
 Garnish:
 
-- A pineapple wedge
-
-Glass:
-
-- Old Fashioned Glass
-
-Method:
-
-- Shake
-
-Instructions:
-
-Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnsih with a pineapple wedge.
+- None
 
 ---
 
@@ -5444,7 +5420,7 @@ Add all ingredients into a mixing glass with ice, stir until chilled, strain ove
 Ingredients:
 
 - 5.0 Oz Ritual Chocolate Syrup
-- 5.0 Oz Averna Amaro
+- 0.5 Oz Averna Amaro
 - 1.0 Oz Cold Brew
 - 1.5 Oz High West Bourbon
 
@@ -5547,11 +5523,11 @@ Stir with ice, strain into chilled coupe with one side dipped in tajin.
 Ingredients:
 
 - 1.5 Oz Coconut Fat Washed Mi Campo Tequila
-- 50.0 Oz High West Double Rye
-- 50.0 Oz Lemongrass Syrup
-- 25.0 Oz Ginger Syrup
-- 25.0 Oz Amontillado Syrup
-- 50.0 Oz Lime Juice
+- 0.5 Oz High West Double Rye
+- 0.5 Oz Lemongrass Syrup
+- 0.25 Oz Ginger Syrup
+- 0.25 Oz Amontillado Syrup
+- 0.5 Oz Lime Juice
 - 2.0 Dashes Peychaud's Bitters
 
 Garnish:
@@ -5831,11 +5807,11 @@ Stir and strain into mason jar with cubed ice. Garnish with luxardo cherries.
 
 Ingredients:
 
-- 5.0 Oz High West Bourbon
+- 0.5 Oz High West Bourbon
 - 1.5 Oz Winter Root Infused Pimms
-- 5.0 Oz Lime Juive
-- 5.0 Oz Tomatillo Juice
-- 5.0 Oz Rhoot Man Cucumber Shrub
+- 0.5 Oz Lime Juive
+- 0.5 Oz Tomatillo Juice
+- 0.5 Oz Rhoot Man Cucumber Shrub
 
 Garnish:
 
@@ -5975,15 +5951,15 @@ Shake and strain into campfire washed coupe. Micro plane chocolate garnish.
 
 Ingredients:
 
-- 5.0 Oz Double Rye
+- 0.5 Oz Double Rye
 - 2.0 Dashes Angostura
 - 4.0 Dashes Tiki Bitters
-- 33.0 Oz Fino Sherry
-- 5.0 Oz Pina Rosemary Marigold Cordial
+- 0.33 Oz Fino Sherry
+- 0.5 Oz Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 33.0 Oz Neisson Rhum Agricole
-- 5.0 Oz Hamilton 86 Guyana Rum
+- 0.33 Oz Neisson Rhum Agricole
+- 0.5 Oz Hamilton 86 Guyana Rum
 - 1.0 Oz Plantation Pineapple Rum
 
 Garnish:

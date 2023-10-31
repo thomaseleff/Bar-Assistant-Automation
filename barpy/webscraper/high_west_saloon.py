@@ -349,7 +349,7 @@ class HighWestSaloon(GenericWebscraper):
 
             # Parse the cocktail recipe ingredients
             for index, line in enumerate(recipe):
-                line = self.cleanse_leading_and_trailing_period(s=line)
+                line = self.cleanse_trailing_period(s=line)
 
                 # Parse ingredient
                 if Patterns.match(

@@ -34,7 +34,7 @@
                 {
                     "sort": 1,
                     "name": "Averna Amaro",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -355,7 +355,7 @@
                 {
                     "sort": 1,
                     "name": "High West Double Rye",
-                    "amount": 50.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -367,7 +367,7 @@
                 {
                     "sort": 2,
                     "name": "Lemongrass Syrup",
-                    "amount": 50.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -379,7 +379,7 @@
                 {
                     "sort": 3,
                     "name": "Ginger Syrup",
-                    "amount": 25.0,
+                    "amount": 0.25,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -391,7 +391,7 @@
                 {
                     "sort": 4,
                     "name": "Amontillado Syrup",
-                    "amount": 25.0,
+                    "amount": 0.25,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -403,7 +403,7 @@
                 {
                     "sort": 5,
                     "name": "Lime Juice",
-                    "amount": 50.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1251,7 +1251,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1275,7 +1275,7 @@
                 {
                     "sort": 2,
                     "name": "Lime Juive",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1287,7 +1287,7 @@
                 {
                     "sort": 3,
                     "name": "Tomatillo Juice",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1299,7 +1299,7 @@
                 {
                     "sort": 4,
                     "name": "Rhoot Man Cucumber Shrub",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,

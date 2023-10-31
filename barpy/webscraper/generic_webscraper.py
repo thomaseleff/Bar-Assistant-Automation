@@ -505,6 +505,19 @@ class GenericWebscraper(object):
 
         return re.sub(r'((^\.)|(\.$))', '', str(s).strip()).strip()
 
+    def cleanse_trailing_period(self, s):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        s                       = <str> String to cleanse
+
+        Description
+        ---------------------------------------------------------------------
+        Cleanses {s} of any leading or trailing periods.
+        """
+
+        return re.sub(r'(\.$)', '', str(s).strip()).strip()
+
     # List comprehension function(s)
     def cleanse_html_tags_from_list(self, lst):
         """

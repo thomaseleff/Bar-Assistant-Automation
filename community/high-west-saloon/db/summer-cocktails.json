@@ -22,7 +22,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -58,7 +58,7 @@
                 {
                     "sort": 3,
                     "name": "Fino Sherry",
-                    "amount": 33.0,
+                    "amount": 0.33,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -70,7 +70,7 @@
                 {
                     "sort": 4,
                     "name": "Pina Rosemary Marigold Cordial",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -106,7 +106,7 @@
                 {
                     "sort": 7,
                     "name": "Neisson Rhum Agricole",
-                    "amount": 33.0,
+                    "amount": 0.33,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -118,7 +118,7 @@
                 {
                     "sort": 8,
                     "name": "Hamilton 86 Guyana Rum",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,

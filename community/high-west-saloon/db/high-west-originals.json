@@ -22,7 +22,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -58,7 +58,7 @@
                 {
                     "sort": 3,
                     "name": "Fino Sherry",
-                    "amount": 33.0,
+                    "amount": 0.33,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -70,7 +70,7 @@
                 {
                     "sort": 4,
                     "name": "Pina Rosemary Marigold Cordial",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -106,7 +106,7 @@
                 {
                     "sort": 7,
                     "name": "Neisson Rhum Agricole",
-                    "amount": 33.0,
+                    "amount": 0.33,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -118,7 +118,7 @@
                 {
                     "sort": 8,
                     "name": "Hamilton 86 Guyana Rum",
-                    "amount": 5.0,
+                    "amount": 0.5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6407,7 +6407,7 @@
         {
             "name": "Remember The Alamo Cocktail Recipe",
             "source": "https://highwest.com/blogs/recipes/remember-the-alamo",
-            "instructions": "Step 1: the hot chocolate base\nyield:  gallon (enough for 25 cocktails)\n1 gallon milk\n2 split vanilla beans\n4 blocks abuelita chocolate\n3 tablespoons cinnamon\n3 tablespoons nutmeg\n2 tablespoons cayenne pepper (season to taste)\ncombine ingredients in a saucepan. Cook over medium heat until chocolate has melted and the mix is integrated. Step 2: the cocktail\n1.5 oz double rye\n0.5 oz coffee liqueur\n6 oz hot chocolate base\nwhipped cream and cinnamon garnish\ncombine double rye, coffee liqueur, and hot chocolate base in a mug and stir. Top with whipped cream and cinnamon sprinkle.",
+            "instructions": "Yield:  gallon (enough for 25 cocktails)\nstep 1: the hot chocolate base\n1 gallon milk\n2 split vanilla beans\n4 blocks abuelita chocolate\n3 tablespoons cinnamon\n3 tablespoons nutmeg\n2 tablespoons cayenne pepper (season to taste)\ncombine ingredients in a saucepan. Cook over medium heat until chocolate has melted and the mix is integrated. Step 2: the cocktail\n1.5 oz double rye\n0.5 oz coffee liqueur\n6 oz hot chocolate base\nwhipped cream and cinnamon garnish\ncombine double rye, coffee liqueur, and hot chocolate base in a mug and stir. Top with whipped cream and cinnamon sprinkle.",
             "garnish": "Whipped cream and cinnamon sprinkle",
             "description": null,
             "tags": [],
@@ -11021,12 +11021,12 @@
         {
             "name": "Off The Wagon",
             "source": "https://highwest.com/blogs/recipes/off-the-wagon-1",
-            "instructions": "Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnsih with a pineapple wedge.",
-            "garnish": "A pineapple wedge",
+            "instructions": null,
+            "garnish": "None",
             "description": null,
             "tags": [],
-            "glass": "Old Fashioned Glass",
-            "method": "Shake",
+            "glass": null,
+            "method": null,
             "images": [
                 {
                     "url": "https://highwest.com/cdn/shop/articles/Off-The-Wagon_626f8a62-5a53-40e7-8b87-2322d6524d97_600x.jpg?v=1679923165",
@@ -11133,9 +11133,9 @@
                 },
                 {
                     "sort": 8,
-                    "name": "Golden Sour Ale",
+                    "name": "Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge",
                     "amount": 1.0,
-                    "units": "Oz",
+                    "units": "Top With",
                     "category": null,
                     "description": null,
                     "strength": null,

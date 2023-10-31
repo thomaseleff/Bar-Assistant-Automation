@@ -2632,8 +2632,8 @@
         {
             "name": "Boulevardier",
             "source": "https://highwest.com/blogs/recipes/boulevardier",
-            "instructions": "Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.",
-            "garnish": "A lemon twist",
+            "instructions": "Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial",
+            "garnish": "A lemon twist.watch a tutorial",
             "description": null,
             "tags": [],
             "glass": "Rocks",
@@ -2972,12 +2972,12 @@
         {
             "name": "Chiseler",
             "source": "https://highwest.com/blogs/recipes/chiseler",
-            "instructions": "Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.",
-            "garnish": "A pineapple wedge",
+            "instructions": null,
+            "garnish": "None",
             "description": null,
             "tags": [],
-            "glass": "Mason Jar",
-            "method": "Shake",
+            "glass": null,
+            "method": null,
             "images": [
                 {
                     "url": "https://highwest.com/cdn/shop/articles/Chiseler-wbottle_600x.jpg?v=1680126700",
@@ -3072,7 +3072,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Lemon Juice Dash Saline Solution (5:1)",
+                    "name": "Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16 Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
