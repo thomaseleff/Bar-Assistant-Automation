@@ -882,6 +882,7 @@ class Patterns():
             'SHOT',
             'TIKI',
             'COLLINS',
+            'COLINS',
             'IRISH COFFEE',
             'PUNCH BOWL',
             'GLENCAIRN',
@@ -898,7 +899,7 @@ class Patterns():
             # Add glasses that can be ingredients last
             'CHAMPAGNE',
             'BRANDY',
-            'ABSINTHE',
+            'ABSINTHE GLASS',
             'WINE',
             'SOUR',
             'PUNCH'

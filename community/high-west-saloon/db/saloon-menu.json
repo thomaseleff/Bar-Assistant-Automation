@@ -433,7 +433,7 @@
             "garnish": "Absinthe",
             "description": null,
             "tags": [],
-            "glass": "Absinthe",
+            "glass": null,
             "method": "Shake",
             "images": [
                 {

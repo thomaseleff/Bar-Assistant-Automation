@@ -1743,7 +1743,7 @@ Garnish:
 
 Glass:
 
-- Absinthe
+- Cocktail
 
 Method:
 
@@ -1779,7 +1779,7 @@ Garnish:
 
 Glass:
 
-- Cocktail
+- Colins
 
 Method:
 
@@ -3989,7 +3989,7 @@ Garnish:
 
 Glass:
 
-- Absinthe
+- Cocktail
 
 Method:
 
@@ -5571,10 +5571,6 @@ Garnish:
 
 - Absinthe
 
-Glass:
-
-- Absinthe
-
 Method:
 
 - Shake
@@ -6246,7 +6242,7 @@ Garnish:
 
 Glass:
 
-- Absinthe
+- Cocktail
 
 Method:
 
@@ -6282,7 +6278,7 @@ Garnish:
 
 Glass:
 
-- Cocktail
+- Colins
 
 Method:
 
