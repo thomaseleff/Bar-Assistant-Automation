@@ -269,9 +269,9 @@ class Patterns():
         # Remove amount
         if amount:
             s = re.sub(
-                '(%s)' % (amount),
-                '',
-                str(s),
+                pattern=r'\b%s\b' % (amount),
+                repl='',
+                string=str(s),
                 count=1,
                 flags=re.IGNORECASE
             )
@@ -279,9 +279,10 @@ class Patterns():
         # Remove units
         if units:
             s = re.sub(
-                '(%s)' % (units),
-                '',
-                str(s),
+                pattern=r'\b%s\b' % (units),
+                repl='',
+                string=str(s),
+                count=1,
                 flags=re.IGNORECASE
             )
 

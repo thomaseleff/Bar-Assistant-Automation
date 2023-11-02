@@ -33,7 +33,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Averna Amaro",
+                    "name": "5 Averna Amaro",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -354,7 +354,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "High West Double Rye",
+                    "name": "50 High West Double Rye",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -366,7 +366,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Lemongrass Syrup",
+                    "name": "50 Lemongrass Syrup",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -378,7 +378,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Ginger Syrup",
+                    "name": "25 Ginger Syrup",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -390,7 +390,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Amontillado Syrup",
+                    "name": "25 Amontillado Syrup",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -402,7 +402,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Lime Juice",
+                    "name": "50 Lime Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -469,7 +469,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Bal Mezcal",
+                    "name": "Bozal Mezcal",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1250,7 +1250,7 @@
             "ingredients": [
                 {
                     "sort": 0,
-                    "name": "High West Bourbon",
+                    "name": "5 High West Bourbon",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1274,7 +1274,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Lime Juive",
+                    "name": "5 Lime Juive",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1286,7 +1286,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Tomatillo Juice",
+                    "name": "5 Tomatillo Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1298,7 +1298,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Rhoot Man Cucumber Shrub",
+                    "name": "5 Rhoot Man Cucumber Shrub",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,

@@ -1097,7 +1097,7 @@ Ingredients:
 - 1.0 Oz Coconut And Peanut Butter Cream
 - 0.5 Oz Demerara Syrup
 - 1.0 Oz Pineapple Juice
-- 0.25 Oz Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16 Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge
+- 0.25 Oz Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16oz Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge
 
 Garnish:
 
@@ -1517,15 +1517,15 @@ Chill a martini glass. Add all ingredients to a cocktail shaker with ice and sha
 
 Ingredients:
 
-- 0.5 Oz Double Rye
+- 0.5 Oz 5. Double Rye
 - 2.0 Dashes Angostura
 - 4.0 Dashes Tiki Bitters
-- 0.33 Oz Fino Sherry
-- 0.5 Oz Pina Rosemary Marigold Cordial
+- 0.33 Oz 33. Fino Sherry
+- 0.5 Oz 5. Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 0.33 Oz Neisson Rhum Agricole
-- 0.5 Oz Hamilton 86 Guyana Rum
+- 0.33 Oz 33. Neisson Rhum Agricole
+- 0.5 Oz 5. Hamilton 86 Guyana Rum
 - 1.0 Oz Plantation Pineapple Rum
 
 Garnish:
@@ -2576,7 +2576,7 @@ Ingredients:
 - 0.5 Oz Amaro Nonino
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Aperol
-- 1.0 Barspoon Lagavulin 6 Year
+- 1.0 Barspoon Lagavulin 16 Year
 
 Garnish:
 
@@ -4930,7 +4930,7 @@ Garnish:
 Ingredients:
 
 - 0.5 Oz High West Bourbon
-- 0.5 Oz Bal
+- 0.5 Oz Bozal
 - 0.5 Oz Aperol
 - 0.5 Oz Yellow Chartreuse
 - 0.5 Oz Lime Juice
@@ -5239,7 +5239,7 @@ Ingredients:
 - 0.75 Oz Matcha Simple Syrup
 - 1.0 Oz Pineapple Juice
 - 2.0 Dashes Of Citra Hop Tincture
-- 1.5 Oz Soda Water
+- 1.5 Oz 1.5 Oz Soda Water
 
 Garnish:
 
@@ -5302,7 +5302,7 @@ Add all ingredients to shaker tin, shake with pebble ice, dirty dump into collin
 Ingredients:
 
 - 1.0 Oz High West Double Rye
-- 6.25 Oz Fren Frost Blend
+- 6.25 Oz Frozen Frost Blend
 
 Garnish:
 
@@ -5420,7 +5420,7 @@ Add all ingredients into a mixing glass with ice, stir until chilled, strain ove
 Ingredients:
 
 - 5.0 Oz Ritual Chocolate Syrup
-- 0.5 Oz Averna Amaro
+- 0.5 Oz 5 Averna Amaro
 - 1.0 Oz Cold Brew
 - 1.5 Oz High West Bourbon
 
@@ -5523,11 +5523,11 @@ Stir with ice, strain into chilled coupe with one side dipped in tajin.
 Ingredients:
 
 - 1.5 Oz Coconut Fat Washed Mi Campo Tequila
-- 0.5 Oz High West Double Rye
-- 0.5 Oz Lemongrass Syrup
-- 0.25 Oz Ginger Syrup
-- 0.25 Oz Amontillado Syrup
-- 0.5 Oz Lime Juice
+- 0.5 Oz 50 High West Double Rye
+- 0.5 Oz 50 Lemongrass Syrup
+- 0.25 Oz 25 Ginger Syrup
+- 0.25 Oz 25 Amontillado Syrup
+- 0.5 Oz 50 Lime Juice
 - 2.0 Dashes Peychaud's Bitters
 
 Garnish:
@@ -5558,7 +5558,7 @@ Ingredients:
 
 - 0.75 Oz High West Double Rye
 - 0.75 Oz Gin
-- 0.5 Oz Bal Mezcal
+- 0.5 Oz Bozal Mezcal
 - 0.25 Oz Fino Sherry
 - 0.25 Oz Midori
 - 0.5 Oz Lime Juice
@@ -5807,11 +5807,11 @@ Stir and strain into mason jar with cubed ice. Garnish with luxardo cherries.
 
 Ingredients:
 
-- 0.5 Oz High West Bourbon
+- 0.5 Oz 5 High West Bourbon
 - 1.5 Oz Winter Root Infused Pimms
-- 0.5 Oz Lime Juive
-- 0.5 Oz Tomatillo Juice
-- 0.5 Oz Rhoot Man Cucumber Shrub
+- 0.5 Oz 5 Lime Juive
+- 0.5 Oz 5 Tomatillo Juice
+- 0.5 Oz 5 Rhoot Man Cucumber Shrub
 
 Garnish:
 
@@ -5951,15 +5951,15 @@ Shake and strain into campfire washed coupe. Micro plane chocolate garnish.
 
 Ingredients:
 
-- 0.5 Oz Double Rye
+- 0.5 Oz 5. Double Rye
 - 2.0 Dashes Angostura
 - 4.0 Dashes Tiki Bitters
-- 0.33 Oz Fino Sherry
-- 0.5 Oz Pina Rosemary Marigold Cordial
+- 0.33 Oz 33. Fino Sherry
+- 0.5 Oz 5. Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 0.33 Oz Neisson Rhum Agricole
-- 0.5 Oz Hamilton 86 Guyana Rum
+- 0.33 Oz 33. Neisson Rhum Agricole
+- 0.5 Oz 5. Hamilton 86 Guyana Rum
 - 1.0 Oz Plantation Pineapple Rum
 
 Garnish:
