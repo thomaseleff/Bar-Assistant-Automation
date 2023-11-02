@@ -19,6 +19,7 @@ import nltk
 # import wordtodigits as w2d
 # from text_to_num import alpha2digit as a2d
 from fractions import Fraction
+from barpy.webscraper.patterns import Patterns
 
 
 # Define the Generic Webscraper class
@@ -486,11 +487,15 @@ class GenericWebscraper(object):
                 except ValueError:
                     s = s
 
-            return float(s)
+            # Format number
+            if s == round(s):
+                return round(s)
+            else:
+                return float(s)
 
         # Otherwise, return a default
         else:
-            return float(1)
+            return int(Patterns.Amounts.default())
 
     def cleanse_leading_and_trailing_period(self, s):
         """

@@ -34,7 +34,7 @@
                 {
                     "sort": 1,
                     "name": "Angostura",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -46,7 +46,7 @@
                 {
                     "sort": 2,
                     "name": "Tiki Bitters",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -130,7 +130,7 @@
                 {
                     "sort": 9,
                     "name": "Plantation Pineapple Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -161,7 +161,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -209,7 +209,7 @@
                 {
                     "sort": 4,
                     "name": "Angostura Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -221,7 +221,7 @@
                 {
                     "sort": 5,
                     "name": "Saline Solution",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -252,7 +252,7 @@
                 {
                     "sort": 0,
                     "name": "Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -312,7 +312,7 @@
                 {
                     "sort": 5,
                     "name": "Campari",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -324,7 +324,7 @@
                 {
                     "sort": 6,
                     "name": "Strawberry Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -348,7 +348,7 @@
                 {
                     "sort": 8,
                     "name": "Ginger Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -360,7 +360,7 @@
                 {
                     "sort": 9,
                     "name": "Rhubarb Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -372,7 +372,7 @@
                 {
                     "sort": 10,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -403,7 +403,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -427,7 +427,7 @@
                 {
                     "sort": 2,
                     "name": "Lychee Vanilla Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -590,7 +590,7 @@
                 {
                     "sort": 6,
                     "name": "Yellow Chartreuse",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -602,7 +602,7 @@
                 {
                     "sort": 7,
                     "name": "Mole Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -645,7 +645,7 @@
                 {
                     "sort": 1,
                     "name": "Gin",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -717,7 +717,7 @@
                 {
                     "sort": 7,
                     "name": "Tomatillo Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -760,7 +760,7 @@
                 {
                     "sort": 1,
                     "name": "Pineapple Infused Ron Zacapa",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -808,7 +808,7 @@
                 {
                     "sort": 5,
                     "name": "Seeker Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -923,7 +923,7 @@
                 {
                     "sort": 7,
                     "name": "Thai Basil",
-                    "amount": 5.0,
+                    "amount": 5,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -935,7 +935,7 @@
                 {
                     "sort": 8,
                     "name": "Hops Tincture",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -1062,7 +1062,7 @@
                 {
                     "sort": 8,
                     "name": "Yuzu Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -1093,7 +1093,7 @@
                 {
                     "sort": 0,
                     "name": "High West 7000'",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1165,7 +1165,7 @@
                 {
                     "sort": 6,
                     "name": "Fernet",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Barspoons",
                     "category": null,
                     "description": null,
@@ -1177,7 +1177,7 @@
                 {
                     "sort": 7,
                     "name": "Orange Blossom Water",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -1189,7 +1189,7 @@
                 {
                     "sort": 8,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1201,7 +1201,7 @@
                 {
                     "sort": 9,
                     "name": "Chilled Fever Tree Soda Water",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1280,7 +1280,7 @@
                 {
                     "sort": 4,
                     "name": "Simple Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1292,7 +1292,7 @@
                 {
                     "sort": 5,
                     "name": "Mint",
-                    "amount": 5.0,
+                    "amount": 5,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -1304,7 +1304,7 @@
                 {
                     "sort": 6,
                     "name": "Pineapple",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Chunks",
                     "category": null,
                     "description": null,
@@ -1347,7 +1347,7 @@
                 {
                     "sort": 0,
                     "name": "High West 7000'",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1407,7 +1407,7 @@
                 {
                     "sort": 5,
                     "name": "Bouvet Rose",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1438,7 +1438,7 @@
                 {
                     "sort": 0,
                     "name": "High West 7000'",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1450,7 +1450,7 @@
                 {
                     "sort": 1,
                     "name": "Tanquery 10",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1498,7 +1498,7 @@
                 {
                     "sort": 5,
                     "name": "Peychaud's Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -1510,7 +1510,7 @@
                 {
                     "sort": 6,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1522,7 +1522,7 @@
                 {
                     "sort": 7,
                     "name": "Fever Tree Soda Water",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1553,7 +1553,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1601,7 +1601,7 @@
                 {
                     "sort": 4,
                     "name": "Angostura Orange Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -1680,7 +1680,7 @@
                 {
                     "sort": 4,
                     "name": "Of English Cucumber",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Slices",
                     "category": null,
                     "description": null,
@@ -1692,7 +1692,7 @@
                 {
                     "sort": 5,
                     "name": "Of Sage",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -1704,7 +1704,7 @@
                 {
                     "sort": 6,
                     "name": "Of Boston Bitahs",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -1771,7 +1771,7 @@
                 {
                     "sort": 3,
                     "name": "Spiced Ginger Shrub",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1783,7 +1783,7 @@
                 {
                     "sort": 4,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -1826,7 +1826,7 @@
                 {
                     "sort": 1,
                     "name": "Drambuie",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1850,7 +1850,7 @@
                 {
                     "sort": 3,
                     "name": "Boulevard Tank 7",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1905,7 +1905,7 @@
                 {
                     "sort": 2,
                     "name": "Chamomile Tea",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -1929,7 +1929,7 @@
                 {
                     "sort": 4,
                     "name": "Boston Bitahs",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -1941,7 +1941,7 @@
                 {
                     "sort": 5,
                     "name": "Fever Tree Sparkling Lemon Soda",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2027,7 +2027,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2039,7 +2039,7 @@
                 {
                     "sort": 1,
                     "name": "Wray And Nephew Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2087,7 +2087,7 @@
                 {
                     "sort": 5,
                     "name": "Coconut Milk",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2111,7 +2111,7 @@
                 {
                     "sort": 7,
                     "name": "Creme De Cacao",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -2142,7 +2142,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2257,7 +2257,7 @@
                 {
                     "sort": 3,
                     "name": "Coffee",
-                    "amount": 5.0,
+                    "amount": 5,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2372,7 +2372,7 @@
                 {
                     "sort": 7,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2415,7 +2415,7 @@
                 {
                     "sort": 1,
                     "name": "Fresh Lemon Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2451,7 +2451,7 @@
                 {
                     "sort": 4,
                     "name": "Peychauds Bitters",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -2482,7 +2482,7 @@
                 {
                     "sort": 0,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2506,7 +2506,7 @@
                 {
                     "sort": 2,
                     "name": "Manzanilla Sherry",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2542,7 +2542,7 @@
                 {
                     "sort": 5,
                     "name": "Fig Jam",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Tablespoon",
                     "category": null,
                     "description": null,
@@ -2554,7 +2554,7 @@
                 {
                     "sort": 6,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -2585,7 +2585,7 @@
                 {
                     "sort": 0,
                     "name": "Lemon",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Slices",
                     "category": null,
                     "description": null,
@@ -2621,7 +2621,7 @@
                 {
                     "sort": 3,
                     "name": "Hot Water",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2700,7 +2700,7 @@
                 {
                     "sort": 4,
                     "name": "Allspice Dram",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -2712,7 +2712,7 @@
                 {
                     "sort": 5,
                     "name": "Angostura Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -2810,7 +2810,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2925,7 +2925,7 @@
                 {
                     "sort": 4,
                     "name": "Grenadine",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2949,7 +2949,7 @@
                 {
                     "sort": 6,
                     "name": "Peychaud Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -2961,7 +2961,7 @@
                 {
                     "sort": 7,
                     "name": "Orange Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -2973,7 +2973,7 @@
                 {
                     "sort": 8,
                     "name": "Rose",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -2985,7 +2985,7 @@
                 {
                     "sort": 9,
                     "name": "Chilled Soda Water",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3155,7 +3155,7 @@
                 {
                     "sort": 4,
                     "name": "Lagavulin 16 Year",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -3198,7 +3198,7 @@
                 {
                     "sort": 1,
                     "name": "Drambuie",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3502,7 +3502,7 @@
                 {
                     "sort": 4,
                     "name": "Angostura Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -3533,7 +3533,7 @@
                 {
                     "sort": 0,
                     "name": "Hot Water",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3593,7 +3593,7 @@
                 {
                     "sort": 5,
                     "name": "Of Cinnamon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -3648,7 +3648,7 @@
                 {
                     "sort": 1,
                     "name": "Dark Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3684,7 +3684,7 @@
                 {
                     "sort": 4,
                     "name": "Blueberry Cardamom Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -3727,7 +3727,7 @@
                 {
                     "sort": 1,
                     "name": "Mezcal",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3751,7 +3751,7 @@
                 {
                     "sort": 3,
                     "name": "Chocolate Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -3763,7 +3763,7 @@
                 {
                     "sort": 4,
                     "name": "Mole Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -3794,7 +3794,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -3933,7 +3933,7 @@
                 {
                     "sort": 4,
                     "name": "Allspice Dram",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -3969,7 +3969,7 @@
                 {
                     "sort": 7,
                     "name": "Angostura Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -4024,7 +4024,7 @@
                 {
                     "sort": 2,
                     "name": "Mezcal",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -4103,7 +4103,7 @@
                 {
                     "sort": 1,
                     "name": "Tanqueray 10",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4163,7 +4163,7 @@
                 {
                     "sort": 6,
                     "name": "Boston Bitahs",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -4254,7 +4254,7 @@
                 {
                     "sort": 5,
                     "name": "Yuzu",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Bar Spoon",
                     "category": null,
                     "description": null,
@@ -4357,7 +4357,7 @@
                 {
                     "sort": 6,
                     "name": "Of Vanilla Ice Cream",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Tablespoon",
                     "category": null,
                     "description": null,
@@ -4388,7 +4388,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4400,7 +4400,7 @@
                 {
                     "sort": 1,
                     "name": "Smith And Cross Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4460,7 +4460,7 @@
                 {
                     "sort": 6,
                     "name": "Of Sea Salt",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Pinch",
                     "category": null,
                     "description": null,
@@ -4472,7 +4472,7 @@
                 {
                     "sort": 7,
                     "name": "Orange Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -4503,7 +4503,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4515,7 +4515,7 @@
                 {
                     "sort": 1,
                     "name": "Ron Zacapa Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4587,7 +4587,7 @@
                 {
                     "sort": 7,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -4618,7 +4618,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4690,7 +4690,7 @@
                 {
                     "sort": 6,
                     "name": "Oskar Blues G'night",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4721,7 +4721,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4733,7 +4733,7 @@
                 {
                     "sort": 1,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4757,7 +4757,7 @@
                 {
                     "sort": 3,
                     "name": "Chai Tea Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4793,7 +4793,7 @@
                 {
                     "sort": 6,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4836,7 +4836,7 @@
                 {
                     "sort": 1,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4872,7 +4872,7 @@
                 {
                     "sort": 4,
                     "name": "Gt's Gingeraide Kombucha",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4915,7 +4915,7 @@
                 {
                     "sort": 1,
                     "name": "El Dorado 12 Year Old Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -4939,7 +4939,7 @@
                 {
                     "sort": 3,
                     "name": "Peychaud's Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -4951,7 +4951,7 @@
                 {
                     "sort": 4,
                     "name": "Chocolate Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -4994,7 +4994,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5006,7 +5006,7 @@
                 {
                     "sort": 1,
                     "name": "Reposado Tequila",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5078,7 +5078,7 @@
                 {
                     "sort": 7,
                     "name": "Cilantro",
-                    "amount": 8.0,
+                    "amount": 8,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -5090,7 +5090,7 @@
                 {
                     "sort": 8,
                     "name": "Ballast Point Pineapple Sculpin",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5121,7 +5121,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5133,7 +5133,7 @@
                 {
                     "sort": 1,
                     "name": "Calvados",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5212,7 +5212,7 @@
                 {
                     "sort": 1,
                     "name": "Leblon Cachaca",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5272,7 +5272,7 @@
                 {
                     "sort": 6,
                     "name": "Blackberries",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5303,7 +5303,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5315,7 +5315,7 @@
                 {
                     "sort": 1,
                     "name": "Ron Zacapa Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5351,7 +5351,7 @@
                 {
                     "sort": 4,
                     "name": "Lychee / Demerara Simple Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5363,7 +5363,7 @@
                 {
                     "sort": 5,
                     "name": "Allspice Dram",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -5466,7 +5466,7 @@
                 {
                     "sort": 6,
                     "name": "Coffee Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -5478,7 +5478,7 @@
                 {
                     "sort": 7,
                     "name": "Modelo Negra",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5581,7 +5581,7 @@
                 {
                     "sort": 6,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -5679,7 +5679,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5691,7 +5691,7 @@
                 {
                     "sort": 1,
                     "name": "Del Maguey Vida Mezcal",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5751,7 +5751,7 @@
                 {
                     "sort": 6,
                     "name": "Cucumber",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Slices",
                     "category": null,
                     "description": null,
@@ -5763,7 +5763,7 @@
                 {
                     "sort": 7,
                     "name": "Diced Watermelon",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Pieces",
                     "category": null,
                     "description": null,
@@ -5794,7 +5794,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5866,7 +5866,7 @@
                 {
                     "sort": 6,
                     "name": "Soda Water",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5909,7 +5909,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5921,7 +5921,7 @@
                 {
                     "sort": 1,
                     "name": "Goslings Black Seal Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -5993,7 +5993,7 @@
                 {
                     "sort": 7,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -6024,7 +6024,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6036,7 +6036,7 @@
                 {
                     "sort": 1,
                     "name": "Amontillado Sherry",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6072,7 +6072,7 @@
                 {
                     "sort": 4,
                     "name": "Of Cold Brew Coffee",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -6084,7 +6084,7 @@
                 {
                     "sort": 5,
                     "name": "Of Salt",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Pinch",
                     "category": null,
                     "description": null,
@@ -6187,7 +6187,7 @@
                 {
                     "sort": 6,
                     "name": "Basil",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -6230,7 +6230,7 @@
                 {
                     "sort": 1,
                     "name": "Ron Zacapa Rum",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6290,7 +6290,7 @@
                 {
                     "sort": 6,
                     "name": "Angostura Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -6302,7 +6302,7 @@
                 {
                     "sort": 7,
                     "name": "Fever Tree Soda Water",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6333,7 +6333,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6345,7 +6345,7 @@
                 {
                     "sort": 1,
                     "name": "Yamazaki 12 Year Old Whisky",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6381,7 +6381,7 @@
                 {
                     "sort": 4,
                     "name": "Yuzu",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -6393,7 +6393,7 @@
                 {
                     "sort": 5,
                     "name": "Of Tamari",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -6533,7 +6533,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6605,7 +6605,7 @@
                 {
                     "sort": 6,
                     "name": "Suze",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -6617,7 +6617,7 @@
                 {
                     "sort": 7,
                     "name": "Of Salt",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Pinch",
                     "category": null,
                     "description": null,
@@ -6648,7 +6648,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6660,7 +6660,7 @@
                 {
                     "sort": 1,
                     "name": "Mezcal",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6672,7 +6672,7 @@
                 {
                     "sort": 2,
                     "name": "Fresh Lime Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -6842,7 +6842,7 @@
                 {
                     "sort": 3,
                     "name": "Calamansi Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -7127,7 +7127,7 @@
                 {
                     "sort": 3,
                     "name": "Fresh Tarragon",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -7170,7 +7170,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7333,7 +7333,7 @@
                 {
                     "sort": 4,
                     "name": "Coffee",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7345,7 +7345,7 @@
                 {
                     "sort": 5,
                     "name": "Heavy Whipping Cream",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7448,7 +7448,7 @@
                 {
                     "sort": 5,
                     "name": "Calamansi Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -7460,7 +7460,7 @@
                 {
                     "sort": 6,
                     "name": "St. George Absinthe",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -7472,7 +7472,7 @@
                 {
                     "sort": 7,
                     "name": "Egg White",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7484,7 +7484,7 @@
                 {
                     "sort": 8,
                     "name": "Mint",
-                    "amount": 8.0,
+                    "amount": 8,
                     "units": "Leaves",
                     "category": null,
                     "description": null,
@@ -7515,7 +7515,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7678,7 +7678,7 @@
                 {
                     "sort": 5,
                     "name": "Creme De Cacao",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -7690,7 +7690,7 @@
                 {
                     "sort": 6,
                     "name": "Chocolate Bitters",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -7781,7 +7781,7 @@
                 {
                     "sort": 5,
                     "name": "Peychaud's Syrup",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -7812,7 +7812,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7884,7 +7884,7 @@
                 {
                     "sort": 6,
                     "name": "Soda Water",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7896,7 +7896,7 @@
                 {
                     "sort": 7,
                     "name": "Bouvet Rose",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7963,7 +7963,7 @@
                 {
                     "sort": 3,
                     "name": "Pistachio Simple Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -7987,7 +7987,7 @@
                 {
                     "sort": 5,
                     "name": "Absinthe",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -8018,7 +8018,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8102,7 +8102,7 @@
                 {
                     "sort": 7,
                     "name": "Peychaud's Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -8114,7 +8114,7 @@
                 {
                     "sort": 8,
                     "name": "Muddled Cucumber",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Wheels",
                     "category": null,
                     "description": null,
@@ -8145,7 +8145,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8193,7 +8193,7 @@
                 {
                     "sort": 4,
                     "name": "Jasmine / Fresh Pineapple Tea Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8272,7 +8272,7 @@
                 {
                     "sort": 4,
                     "name": "Fresh Pineapple Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8296,7 +8296,7 @@
                 {
                     "sort": 6,
                     "name": "Angostura Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -8375,7 +8375,7 @@
                 {
                     "sort": 4,
                     "name": "Cold Brew Coffee",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Bar Spoon",
                     "category": null,
                     "description": null,
@@ -8473,7 +8473,7 @@
                 {
                     "sort": 0,
                     "name": "Campfire",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8485,7 +8485,7 @@
                 {
                     "sort": 1,
                     "name": "Noilly Prat Extra Dry Vermouth",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8564,7 +8564,7 @@
                 {
                     "sort": 3,
                     "name": "Cold Brew Coffee",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8643,7 +8643,7 @@
                 {
                     "sort": 3,
                     "name": "Avua Cachaca",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Bar Spoon",
                     "category": null,
                     "description": null,
@@ -8679,7 +8679,7 @@
                 {
                     "sort": 6,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -8691,7 +8691,7 @@
                 {
                     "sort": 7,
                     "name": "Mole Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -8722,7 +8722,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8806,7 +8806,7 @@
                 {
                     "sort": 7,
                     "name": "Green Chartreuse",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Bar Spoon",
                     "category": null,
                     "description": null,
@@ -8818,7 +8818,7 @@
                 {
                     "sort": 8,
                     "name": "Angostura Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -8849,7 +8849,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -8885,7 +8885,7 @@
                 {
                     "sort": 3,
                     "name": "Of Allspice Dram",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -8897,7 +8897,7 @@
                 {
                     "sort": 4,
                     "name": "Of Mole Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -8988,7 +8988,7 @@
                 {
                     "sort": 5,
                     "name": "Jasmine Pineapple Syrup",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9031,7 +9031,7 @@
                 {
                     "sort": 1,
                     "name": "Ciociaro",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9086,7 +9086,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9146,7 +9146,7 @@
                 {
                     "sort": 5,
                     "name": "Oloroso Sherry",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9158,7 +9158,7 @@
                 {
                     "sort": 6,
                     "name": "Banane Du Bresil",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9170,7 +9170,7 @@
                 {
                     "sort": 7,
                     "name": "Of Angostura Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -9201,7 +9201,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9213,7 +9213,7 @@
                 {
                     "sort": 1,
                     "name": "El Silencio",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9249,7 +9249,7 @@
                 {
                     "sort": 4,
                     "name": "Pamplemousse",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9261,7 +9261,7 @@
                 {
                     "sort": 5,
                     "name": "Orange Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -9273,7 +9273,7 @@
                 {
                     "sort": 6,
                     "name": "Mole Bitters",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Drops",
                     "category": null,
                     "description": null,
@@ -9304,7 +9304,7 @@
                 {
                     "sort": 0,
                     "name": "Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9316,7 +9316,7 @@
                 {
                     "sort": 1,
                     "name": "Avua",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9364,7 +9364,7 @@
                 {
                     "sort": 5,
                     "name": "Of Angostura Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -9376,7 +9376,7 @@
                 {
                     "sort": 6,
                     "name": "Of Peychards Bitters",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -9407,7 +9407,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9546,7 +9546,7 @@
                 {
                     "sort": 6,
                     "name": "Healthy Of Chocolate Bitters",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -9577,7 +9577,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9637,7 +9637,7 @@
                 {
                     "sort": 5,
                     "name": "Aperol",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9692,7 +9692,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -9740,7 +9740,7 @@
                 {
                     "sort": 4,
                     "name": "Of Benedictine",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9867,7 +9867,7 @@
                 {
                     "sort": 6,
                     "name": "Of Yuzu",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9879,7 +9879,7 @@
                 {
                     "sort": 7,
                     "name": "Of Banane Du Bresil",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -9982,7 +9982,7 @@
                 {
                     "sort": 6,
                     "name": "Calamansi",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -10013,7 +10013,7 @@
                 {
                     "sort": 0,
                     "name": "Rendezvous Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10116,7 +10116,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10195,7 +10195,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10267,7 +10267,7 @@
                 {
                     "sort": 6,
                     "name": "Of Angostura Bitters",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -10298,7 +10298,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10334,7 +10334,7 @@
                 {
                     "sort": 3,
                     "name": "Creme De Banane",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -10346,7 +10346,7 @@
                 {
                     "sort": 4,
                     "name": "Cold Brew Concentrate",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10401,7 +10401,7 @@
                 {
                     "sort": 1,
                     "name": "Mango Oftd",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10437,7 +10437,7 @@
                 {
                     "sort": 4,
                     "name": "Mango Brandy",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,
@@ -10449,7 +10449,7 @@
                 {
                     "sort": 5,
                     "name": "Timbimboo Bitters (Equal Parts Elemankule , Peychaud's , Angostura)",
-                    "amount": 3.0,
+                    "amount": 3,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -10480,7 +10480,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10492,7 +10492,7 @@
                 {
                     "sort": 1,
                     "name": "Neisson Rhum Agricole",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10504,7 +10504,7 @@
                 {
                     "sort": 2,
                     "name": "Of Absinthe",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -10571,7 +10571,7 @@
                 {
                     "sort": 0,
                     "name": "High West Bourbon",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10607,7 +10607,7 @@
                 {
                     "sort": 3,
                     "name": "Of Absinthe",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -10674,7 +10674,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10734,7 +10734,7 @@
                 {
                     "sort": 5,
                     "name": "Pineapple Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10746,7 +10746,7 @@
                 {
                     "sort": 6,
                     "name": "Of Citra Hop Tincture",
-                    "amount": 2.0,
+                    "amount": 2,
                     "units": "Dashes",
                     "category": null,
                     "description": null,
@@ -10789,7 +10789,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10801,7 +10801,7 @@
                 {
                     "sort": 1,
                     "name": "Cachaca",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -10892,7 +10892,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -11007,7 +11007,7 @@
                 {
                     "sort": 6,
                     "name": "Saline Solution (1:5)",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Dash",
                     "category": null,
                     "description": null,
@@ -11038,7 +11038,7 @@
                 {
                     "sort": 0,
                     "name": "High West Double Rye",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -11050,7 +11050,7 @@
                 {
                     "sort": 1,
                     "name": "Ron Zacapa",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -11074,7 +11074,7 @@
                 {
                     "sort": 3,
                     "name": "Pineapple Juice",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -11122,7 +11122,7 @@
                 {
                     "sort": 7,
                     "name": "Shades Kviek",
-                    "amount": 4.0,
+                    "amount": 4,
                     "units": "Oz",
                     "category": null,
                     "description": null,
@@ -11134,7 +11134,7 @@
                 {
                     "sort": 8,
                     "name": "Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Top With",
                     "category": null,
                     "description": null,
@@ -11225,7 +11225,7 @@
                 {
                     "sort": 5,
                     "name": "Cold Brew Coffee",
-                    "amount": 1.0,
+                    "amount": 1,
                     "units": "Barspoon",
                     "category": null,
                     "description": null,

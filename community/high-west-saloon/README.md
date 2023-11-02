@@ -17,8 +17,8 @@ Ingredients:
 - 0.75 Oz Hyde Park 12yr
 - 0.25 Oz Cinnamon Syrup
 - 0.25 Oz Fino Sherry
-- 1.0 Barspoon Laphroaig
-- 3.0 Dashes Tiki Bitters
+- 1 Barspoon Laphroaig
+- 3 Dashes Tiki Bitters
 
 Garnish:
 
@@ -47,13 +47,13 @@ Stir and strain into cocktail glass with cubed ice. Express with a lemon peel an
 Ingredients:
 
 - 0.5 Oz Bourbon
-- 1.0 Oz Gin
+- 1 Oz Gin
 - 0.5 Oz Cardamaro
 - 0.5 Oz Mezcal
 - 0.75 Oz Lavender Honey
 - 0.75 Oz Lemon Juice
-- 1.0 Barspoon Yuzu Juice
-- 3.0 Dashes Absinthe
+- 1 Barspoon Yuzu Juice
+- 3 Dashes Absinthe
 
 Garnish:
 
@@ -81,7 +81,7 @@ Shake and strain into chilled cocktail glass. Garnish with lavender sprig.
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.25 Oz Aperol
 - 0.25 Oz Campari
 - 0.25 Oz Yellow Chartreuse
@@ -121,8 +121,8 @@ Ingredients:
 - 0.25 Oz Creme De Menthe
 - 0.25 Oz Averna
 - 0.5 Oz Cinnamon Syrup
-- 1.0 Dash Black Walnut Bitters
-- 5.0 Oz Hot Coffee
+- 1 Dash Black Walnut Bitters
+- 5 Oz Hot Coffee
 
 Garnish:
 
@@ -150,12 +150,12 @@ Pre-heat a goblet, then build in glass. Add two oz heavy cream to a shaker tin w
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Mezcal
 - 0.5 Oz Cardamaro
 - 0.25 Oz Cynar
-- 2.0 Dash Orange Bitters
-- 1.0 Dash Chocolate Bitters
+- 2 Dash Orange Bitters
+- 1 Dash Chocolate Bitters
 
 Garnish:
 
@@ -189,8 +189,8 @@ Ingredients:
 - 0.5 Oz Yellow Chartreuse
 - 0.25 Oz Rosemary Syrup
 - 0.5 Oz Fino Sherry
-- 1.0 Barspoon Passion Fruit Liqueur
-- 2.0 Dashes Orange Bitters
+- 1 Barspoon Passion Fruit Liqueur
+- 2 Dashes Orange Bitters
 
 Garnish:
 
@@ -224,7 +224,7 @@ Ingredients:
 - 0.5 Oz Five-spice-infused Px Sherry
 - 0.25 Oz Campari
 - 0.75 Oz Blood Orange-infused Carpano Antica
-- 2.0 Dash Chocolate Bitters
+- 2 Dash Chocolate Bitters
 
 Garnish:
 
@@ -252,17 +252,17 @@ Add all ingredients to a mixing glass with ice, stir, strain into an old fashion
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.75 Oz Brown Butter-washed Rum
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Averna
 - 0.25 Oz Creme De Cacao
 - 0.25 Oz Cinnamon Syrup
-- 1.0 Barspoon Apricot Liqueur
-- 1.0 Barspoon Cold Brew Concentrate
-- 6.0 Drops Curry Tincture
-- 3.0 Drops Piri Piri Tincture
-- 2.0 Dash Mole Bitters
+- 1 Barspoon Apricot Liqueur
+- 1 Barspoon Cold Brew Concentrate
+- 6 Drops Curry Tincture
+- 3 Drops Piri Piri Tincture
+- 2 Dash Mole Bitters
 
 Garnish:
 
@@ -290,13 +290,13 @@ Add all ingredients to a mixing glass with ice, stir, strain into an old fashion
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Carpano Antica
 - 0.5 Oz Cynar
 - 0.5 Oz Cold Brew Concentrate
 - 0.25 Oz Vanilla Syrup
-- 2.0 Dashes Chocolate Bitters
-- 1.0 Oz Porter
+- 2 Dashes Chocolate Bitters
+- 1 Oz Porter
 
 Garnish:
 
@@ -329,8 +329,8 @@ Ingredients:
 - 0.5 Oz Campari
 - 0.5 Oz Chrysanthemum-infused Falernum
 - 0.25 Oz Passionfruit Puree
-- 1.0 Barspoon Yuzu Juice
-- 3.0 Oz Kimino Yuzu Soda
+- 1 Barspoon Yuzu Juice
+- 3 Oz Kimino Yuzu Soda
 
 Garnish:
 
@@ -365,8 +365,8 @@ Ingredients:
 - 0.5 Oz Abricot Du Roussillon
 - 0.5 Oz Lemon Juice
 - 0.5 Oz Mango Puree
-- 2.0 Dashes Absinthe
-- 2.0 Oz Soda
+- 2 Dashes Absinthe
+- 2 Oz Soda
 - 1.5 Oz Prosecco
 
 Garnish:
@@ -395,13 +395,13 @@ Add all ingredients to cocktail shaker except prosecco and soda. Shake with ice 
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Ancho Reyes
+- 1 Oz Double Rye
+- 1 Oz Ancho Reyes
 - 0.25 Oz Fernet Branca
 - 0.5 Oz Ginger Cinnamon Balsamic Syrup
 - 0.75 Oz Strawberry Juice
 - 0.5 Oz Lemon Juice
-- 3.0 Dashes Mezcal
+- 3 Dashes Mezcal
 
 Garnish:
 
@@ -429,12 +429,12 @@ Add all ingredients to cocktail shaker with ice, shake, strain into an old fashi
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.75 Oz Macallan 12
 - 0.75 Oz Lavender Chamomile Syrup
 - 0.5 Oz Amaro Montenegro
 - 0.5 Oz Lemon Juice
-- 1.0 Barspoon Yuzu Juice
+- 1 Barspoon Yuzu Juice
 
 Garnish:
 
@@ -462,7 +462,7 @@ Add all ingredients to cocktail shaker with ice, shake, double strain into a cou
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.75 Oz Appleton Estate 12 Yr
 - 0.25 Oz Hw Gin
 - 0.25 Oz Cinnamon Syrup
@@ -470,7 +470,7 @@ Ingredients:
 - 0.5 Oz Byrrh
 - 0.5 Oz Lime Juice
 - 0.75 Oz Pineapple Juice
-- 2.0 Dashes Spruce Tincture
+- 2 Dashes Spruce Tincture
 
 Garnish:
 
@@ -499,8 +499,8 @@ Add all ingredients to cocktail shaker with ice, shake, strain into an old fashi
 Ingredients:
 
 - 1.5 Oz High West 7000'
-- 1.0 Oz Benedictine
-- 2.0 Dashes Angostura Bitters
+- 1 Oz Benedictine
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -531,7 +531,7 @@ Ingredients:
 - 1.5 Oz High West 7000'
 - 0.25 Oz Fresh Ginger Juice
 - 0.25 Oz Fresh Lime Juice
-- 2.0 Oz Fever Tree Ginger Beer
+- 2 Oz Fever Tree Ginger Beer
 
 Garnish:
 
@@ -558,8 +558,8 @@ Ingredients:
 - 1.5 Oz High West Double Rye
 - 0.5 Oz Ramazotti Amaro
 - 0.5 Oz Bayleaf Syrup
-- 1.0 Barspoon Allspice Dram
-- 2.0 Dashes Angostura Bitters
+- 1 Barspoon Allspice Dram
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -588,10 +588,10 @@ Add all ingredients into a mixing glass with cube ice and stir until chilled. St
 Ingredients:
 
 - 1.5 Oz High West Double Rye
-- 1.0 Oz High West Bourbon
-- 1.0 Slice Orange
+- 1 Oz High West Bourbon
+- 1 Slice Orange
 - 0.5 Oz Demerara Simple Syrup
-- 4.0 Dashes Of Angostura Bitters
+- 4 Dashes Of Angostura Bitters
 
 Garnish:
 
@@ -623,7 +623,7 @@ Ingredients:
 - 0.5 Oz Rendezvous Rye
 - 0.25 Oz Fernet
 - 0.25 Oz Demerara Simple Syrup
-- 2.0 Dashes Angostura Bitters
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -683,8 +683,8 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.5 Oz Honey Syrup
-- 2.0 Slices Lemon
-- 3.0 Oz Hot Water
+- 2 Slices Lemon
+- 3 Oz Hot Water
 
 Garnish:
 
@@ -716,7 +716,7 @@ Ingredients:
 - 0.5 Oz Allspice Dram
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Demerara Simple Syrup
-- 4.0 Dashes Angostura Bitters
+- 4 Dashes Angostura Bitters
 
 Garnish:
 
@@ -748,7 +748,7 @@ Ingredients:
 - 0.75 Oz Fresh Grapefruit Juice
 - 0.5 Oz Honey Syrup
 - 0.25 Oz Fresh Lime Juice
-- 1.0 Dash Angostura Bitters
+- 1 Dash Angostura Bitters
 
 Garnish:
 
@@ -779,7 +779,7 @@ Ingredients:
 - 1.5 Oz High West Double Rye
 - 0.75 Oz Dry Vermouth
 - 0.25 Oz Maraschino Liqueur
-- 1.0 Barspoon Amer Picon Or - 2 Dashes Of Angostura Bitters
+- 1 Barspoon Amer Picon Or - 2 Dashes Of Angostura Bitters
 
 Garnish:
 
@@ -809,9 +809,9 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.5 Oz Double Rye
-- 1.0 Oz Fresh Lemon Juice
+- 1 Oz Fresh Lemon Juice
 - 0.75 Oz Simple Syrup
-- 3.0 Dashes Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -840,7 +840,7 @@ Combine all ingredients except soda water in a shaker with cube ice and shake un
 Ingredients:
 
 - 1.5 Oz Rendezvous Rye
-- 5.0 Leaves Mint
+- 5 Leaves Mint
 - 0.5 Oz Simple Syrup
 
 Garnish:
@@ -866,8 +866,8 @@ Muddle 4 -5 mint leaves in 0.5 oz simple syrup. Add rendezvous rye, fill glass w
 Ingredients:
 
 - 1.5 Oz Rendezvous Rye
-- 1.0 Wedge Lemon
-- 4.0 Leaves Mint
+- 1 Wedge Lemon
+- 4 Leaves Mint
 - 0.25 Oz Demerara Simple Syrup
 
 Garnish:
@@ -926,13 +926,13 @@ Combine ingredients in a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Campfire
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Fresh Lemon Juice
+- 1 Oz Campfire
+- 1 Oz Rendezvous Rye
+- 1 Oz Fresh Lemon Juice
 - 1.25 Oz Drambuie
 - 0.5 Oz Maple Syrup
 - 0.5 Oz Fresh Ginger Juice
-- 3.0 Dashes Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -991,9 +991,9 @@ Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and 
 Ingredients:
 
 - 1.5 Oz High West Double Rye
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Rendezvous Rye
 - 0.5 Oz Demerara Simple Syrup
-- 3.0 Dashes Peychaud Bitters
+- 3 Dashes Peychaud Bitters
 
 Garnish:
 
@@ -1026,8 +1026,8 @@ Ingredients:
 - 0.5 Oz Punt E Mes
 - 0.5 Oz Dry Curacao
 - 0.25 Oz Barrel Aged Maple Syrup
-- 2.0 Dashes Angostura Bitters
-- 2.0 Dashes Orange Bitters
+- 2 Dashes Angostura Bitters
+- 2 Dashes Orange Bitters
 
 Garnish:
 
@@ -1055,14 +1055,14 @@ Add all ingredients to a mixing glass with ice, stir for 10 seconds. Strain into
 
 Ingredients:
 
-- 1.0 Oz Egg White
+- 1 Oz Egg White
 - 1.5 Oz High West Double Rye
 - 0.25 Oz Amaro Ciociaro
 - 0.25 Oz Averna
 - 0.25 Oz Creme De Cacao
-- 1.0 Oz Cold Brew Coffee Concentrate
+- 1 Oz Cold Brew Coffee Concentrate
 - 0.25 Oz Cinnamon Syrup
-- 3.0 Dashes Coffee Cherry Bitters
+- 3 Dashes Coffee Cherry Bitters
 
 Garnish:
 
@@ -1090,13 +1090,13 @@ Add all ingredients to shaker tin and dry shake for 10 seconds without ice. Add 
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
-- 1.0 Oz Zacapa 23
+- 1 Oz High West Double Rye
+- 1 Oz Zacapa 23
 - 0.5 Oz Oloroso Sherry
 - 0.5 Oz Creme De Cacao
-- 1.0 Oz Coconut And Peanut Butter Cream
+- 1 Oz Coconut And Peanut Butter Cream
 - 0.5 Oz Demerara Syrup
-- 1.0 Oz Pineapple Juice
+- 1 Oz Pineapple Juice
 - 0.25 Oz Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16oz Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge
 
 Garnish:
@@ -1113,13 +1113,13 @@ Garnish:
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
-- 1.0 Oz Zacapa 23
-- 1.0 Oz Blackberry Mango Syrup
+- 1 Oz High West Double Rye
+- 1 Oz Zacapa 23
+- 1 Oz Blackberry Mango Syrup
 - 0.75 Oz Lime
 - 0.25 Oz Guava Puree
-- 1.0 Dash Absinthe
-- 2.0 Dashes Hops Tincture
+- 1 Dash Absinthe
+- 2 Dashes Hops Tincture
 
 Garnish:
 
@@ -1151,7 +1151,7 @@ Ingredients:
 - 0.5 Oz High West Bourbon
 - 0.25 Oz Fresh Ginger Juice
 - 0.25 Oz Fresh Lemon Juice
-- 2.0 Oz Fever Tree Ginger Beer
+- 2 Oz Fever Tree Ginger Beer
 
 Garnish:
 
@@ -1175,12 +1175,12 @@ Fill an old fashioned glass with chip ice. Pour all ingredients into the glass. 
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
-- 1.0 Oz Cognac
-- 1.0 Oz Sweet Vermouth
+- 1 Oz High West Double Rye
+- 1 Oz Cognac
+- 1 Oz Sweet Vermouth
 - 0.25 Oz Benedictine
-- 2.0 Dashes Angostura Bitters
-- 2.0 Dashes Peychaud's Bitters
+- 2 Dashes Angostura Bitters
+- 2 Dashes Peychaud's Bitters
 
 Garnish:
 
@@ -1208,9 +1208,9 @@ Combine all ingredients in a mixing glass with cube ice and stir until diluted. 
 
 Ingredients:
 
-- 2.0 Oz High West Double Rye
+- 2 Oz High West Double Rye
 - 0.75 Oz Sweet Vermouth
-- 3.0 Dashes Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -1240,7 +1240,7 @@ Ingredients:
 
 - 2.5 Oz High West Double Rye
 - 0.5 Oz Demerara Simple Syrup
-- 3.0 Dashes Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -1269,7 +1269,7 @@ Combine ingredients in a rocks glass with cubed ice and stir until chilled. Garn
 Ingredients:
 
 - 1.5 Oz High West Double Rye
-- 1.0 Oz Reposado Tequila
+- 1 Oz Reposado Tequila
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
 
@@ -1306,8 +1306,8 @@ Ingredients:
 - 0.5 Oz Midori
 - 0.5 Oz Pineapple Juice
 - 0.75 Oz Lime Juice
-- 1.0 Barspoon Yuzu
-- 3.0 Dashes Hops Tincture
+- 1 Barspoon Yuzu
+- 3 Dashes Hops Tincture
 
 Garnish:
 
@@ -1335,8 +1335,8 @@ Add all ingredients to shaker tin with ice, shake well, double strain into a cou
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
-- 1.0 Oz El Silencio Mezcal
+- 1 Oz High West Bourbon
+- 1 Oz El Silencio Mezcal
 - 0.75 Oz Cappelletti
 - 0.25 Oz Fino Sherry
 - 0.75 Oz Lime Juice
@@ -1370,8 +1370,8 @@ Add all ingredients but prosecco and soda to a shaker tin with ice, short shake,
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
-- 1.0 Oz Avua Amburana
+- 1 Oz High West Bourbon
+- 1 Oz Avua Amburana
 - 0.5 Oz Amaro Ciociaro
 - 0.75 Oz Fennel Syrup
 - 0.75 Oz Lemon Juice
@@ -1403,16 +1403,16 @@ Add all ingredients but soda to shaker tin with ice, short shake, strain into a 
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Aperol
 - 0.5 Oz Banane Du Bresil
 - 0.5 Oz Cinnamon Syrup
 - 0.75 Oz Lemon Juice
-- 1.0 Barspoon Yuzu Juice
-- 1.0 Oz Fresh Strawberry Juice
-- 2.0 Dashes Absinthe
-- 2.0 Oz Prosecco
-- 1.0 Oz Chilled Soda
+- 1 Barspoon Yuzu Juice
+- 1 Oz Fresh Strawberry Juice
+- 2 Dashes Absinthe
+- 2 Oz Prosecco
+- 1 Oz Chilled Soda
 
 Garnish:
 
@@ -1484,10 +1484,10 @@ in a rocks glass add 1.5 oz of high west double rye then fill with high west lem
 
 Ingredients:
 
-- 2.0 Oz High West Double Rye
+- 2 Oz High West Double Rye
 - 0.75 Oz Fresh Lemon Juice
 - 0.5 Oz Simple Syrup
-- 1.0 Oz Egg White
+- 1 Oz Egg White
 
 Garnish:
 
@@ -1518,15 +1518,15 @@ Chill a martini glass. Add all ingredients to a cocktail shaker with ice and sha
 Ingredients:
 
 - 0.5 Oz 5. Double Rye
-- 2.0 Dashes Angostura
-- 4.0 Dashes Tiki Bitters
+- 2 Dashes Angostura
+- 4 Dashes Tiki Bitters
 - 0.33 Oz 33. Fino Sherry
 - 0.5 Oz 5. Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
 - 0.33 Oz 33. Neisson Rhum Agricole
 - 0.5 Oz 5. Hamilton 86 Guyana Rum
-- 1.0 Oz Plantation Pineapple Rum
+- 1 Oz Plantation Pineapple Rum
 
 Garnish:
 
@@ -1554,12 +1554,12 @@ Whip, shake, strain over popcorn ice in high west camping mug. Garnish with mari
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Gin
 - 0.5 Oz Amaro Nonino
 - 0.25 Oz Rosemary Infused Punt E Mes
-- 1.0 Dash Angostura Bitters
-- 4.0 Drops Saline Solution
+- 1 Dash Angostura Bitters
+- 4 Drops Saline Solution
 
 Garnish:
 
@@ -1587,17 +1587,17 @@ Torch a rosemary sprig and close in upside down cocktail glass. Add ingredients 
 
 Ingredients:
 
-- 1.0 Oz Bourbon
+- 1 Oz Bourbon
 - 0.75 Oz Gin
 - 0.5 Oz Fernet
 - 0.25 Oz Kalani
 - 0.5 Oz Cinnamon Syrup
-- 1.0 Barspoon Campari
-- 1.0 Oz Strawberry Juice
+- 1 Barspoon Campari
+- 1 Oz Strawberry Juice
 - 0.75 Oz Lemon Juice
-- 1.0 Barspoon Ginger Juice
-- 1.0 Barspoon Rhubarb Juice
-- 1.0 Oz Egg White
+- 1 Barspoon Ginger Juice
+- 1 Barspoon Rhubarb Juice
+- 1 Oz Egg White
 
 Garnish:
 
@@ -1625,9 +1625,9 @@ Dry shake ingredients. Then add ice and shake until chilled. Double strain into 
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Gin
-- 1.0 Oz Lychee Vanilla Syrup
+- 1 Oz Lychee Vanilla Syrup
 - 0.5 Oz Osmanthus Tea
 - 0.25 Oz Coconut Vinegar
 - 0.25 Oz Monetenegro
@@ -1666,8 +1666,8 @@ Ingredients:
 - 0.25 Oz Banane Du Bresil
 - 0.25 Oz Vanilla Syrup
 - 1.5 Oz Cold Brew
-- 1.0 Barspoon Yellow Chartreuse
-- 1.0 Dash Mole Bitters
+- 1 Barspoon Yellow Chartreuse
+- 1 Dash Mole Bitters
 
 Garnish:
 
@@ -1696,13 +1696,13 @@ Shake and double strain into chilled coupe.
 Ingredients:
 
 - 0.5 Oz Double Rye
-- 1.0 Oz Gin
+- 1 Oz Gin
 - 0.5 Oz Strega
 - 0.25 Oz Mezcal
 - 0.25 Oz Basil Eau D Vie
 - 0.5 Oz Lime Juice
 - 0.25 Oz Yuzu Juice
-- 1.0 Oz Tomatillo Syrup
+- 1 Oz Tomatillo Syrup
 
 Garnish:
 
@@ -1731,11 +1731,11 @@ Shake and double strain into chilled wine glass with cubed ice. Top with half so
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Pineapple Infused Ron Zacapa
+- 1 Oz Pineapple Infused Ron Zacapa
 - 0.25 Oz Jasmine Syrup
 - 0.25 Oz Cacao Infused Campari
 - 0.25 Oz Amontillado Sherry
-- 3.0 Dashes Seeker Bitters
+- 3 Dashes Seeker Bitters
 
 Garnish:
 
@@ -1770,8 +1770,8 @@ Ingredients:
 - 0.75 Oz Lime Juice
 - 0.5 Oz Montenegro
 - 0.25 Oz Amontillado Sherry
-- 5.0 Leaves Thai Basil
-- 3.0 Dashes Hops Tincture
+- 5 Leaves Thai Basil
+- 3 Dashes Hops Tincture
 
 Garnish:
 
@@ -1812,7 +1812,7 @@ Ingredients:
 - 0.5 Oz Orgeat
 - 0.5 Oz Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)
 - 0.75 Oz Lime Juice
-- 1.0 Barspoon Yuzu Juice
+- 1 Barspoon Yuzu Juice
 
 Garnish:
 
@@ -1840,16 +1840,16 @@ Short shake and strain over popcorn ice. Swizzle into collins glass. Garnish wit
 
 Ingredients:
 
-- 1.0 Oz High West 7000'
+- 1 Oz High West 7000'
 - 1.5 Oz Tanquery 10
 - 0.75 Oz Mint Simple Syrup
 - 0.5 Oz Fresh Lemon Juice
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Heavy Whipping Cream
-- 2.0 Barspoons Fernet
-- 3.0 Drops Orange Blossom Water
-- 1.0 Oz Egg White
-- 2.0 Oz Chilled Fever Tree Soda Water
+- 2 Barspoons Fernet
+- 3 Drops Orange Blossom Water
+- 1 Oz Egg White
+- 2 Oz Chilled Fever Tree Soda Water
 
 Garnish:
 
@@ -1881,9 +1881,9 @@ Ingredients:
 - 0.25 Oz Maraschino Liqueur
 - 1.5 Oz Fresh Grapefruit Juice
 - 0.5 Oz Fresh Lime Juice
-- 1.0 Oz Simple Syrup
-- 5.0 Leaves Mint
-- 2.0 Chunks Pineapple
+- 1 Oz Simple Syrup
+- 5 Leaves Mint
+- 2 Chunks Pineapple
 - 0.75 Oz Champagne Or Cava
 
 Garnish:
@@ -1912,12 +1912,12 @@ Muddle mint and pineapple in a cocktail shaker. Add all ingredients except spark
 
 Ingredients:
 
-- 1.0 Oz High West 7000'
+- 1 Oz High West 7000'
 - 0.75 Oz Loganberry Liqueur
 - 0.75 Oz Amaro Montenegro
 - 0.25 Oz Fresh Lime Juice
 - 0.25 Oz Simple Syrup
-- 2.0 Oz Bouvet Rose
+- 2 Oz Bouvet Rose
 
 Garnish:
 
@@ -1945,14 +1945,14 @@ Add all ingredients except rose into a cocktail shaker with ice and shake until 
 
 Ingredients:
 
-- 1.0 Oz High West 7000'
-- 1.0 Oz Tanquery 10
+- 1 Oz High West 7000'
+- 1 Oz Tanquery 10
 - 0.5 Oz Green Chartreuse
 - 0.5 Oz Lemon Juice
 - 0.25 Oz Simple Syrup
-- 3.0 Dashes Peychaud's Bitters
-- 1.0 Oz Egg White
-- 2.0 Oz Fever Tree Soda Water
+- 3 Dashes Peychaud's Bitters
+- 1 Oz Egg White
+- 2 Oz Fever Tree Soda Water
 
 Garnish:
 
@@ -1980,11 +1980,11 @@ Chill an old fashioned glass. Add all ingredients except soda water to a cocktai
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Aperol
 - 0.5 Oz Muscat Wine
 - 0.5 Oz Amontillado Sherry
-- 2.0 Dashes Angostura Orange Bitters
+- 2 Dashes Angostura Orange Bitters
 
 Garnish:
 
@@ -2016,9 +2016,9 @@ Ingredients:
 - 0.5 Oz Hendricks Gin
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
-- 2.0 Slices Of English Cucumber
-- 3.0 Leaves Of Sage
-- 3.0 Drops Of Boston Bitahs
+- 2 Slices Of English Cucumber
+- 3 Leaves Of Sage
+- 3 Drops Of Boston Bitahs
 
 Garnish:
 
@@ -2049,8 +2049,8 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.5 Oz Cocchi Americano
 - 0.5 Oz Kijafa Cherry Wine
-- 1.0 Oz Spiced Ginger Shrub
-- 2.0 Dashes Angostura Bitters
+- 1 Oz Spiced Ginger Shrub
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -2079,9 +2079,9 @@ Add all ingredients to mixing glass with ice and stir until chilled. Strain into
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Drambuie
+- 1 Oz Drambuie
 - 0.5 Oz Fresh Lemon Juice
-- 2.0 Oz Boulevard Tank 7
+- 2 Oz Boulevard Tank 7
 
 Garnish:
 
@@ -2111,10 +2111,10 @@ Ingredients:
 
 - 1.5 Oz Double Rye
 - 0.5 Oz Cocchi Americano
-- 1.0 Oz Chamomile Tea
+- 1 Oz Chamomile Tea
 - 0.5 Oz Chamomile Meyer Lemon Shrub
-- 3.0 Drops Boston Bitahs
-- 1.0 Oz Fever Tree Sparkling Lemon Soda
+- 3 Drops Boston Bitahs
+- 1 Oz Fever Tree Sparkling Lemon Soda
 
 Garnish:
 
@@ -2172,14 +2172,14 @@ Add all ingredients in a cocktail shaker with ice and shake until chilled. Doubl
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
-- 1.0 Oz Wray And Nephew Rum
+- 1 Oz High West Bourbon
+- 1 Oz Wray And Nephew Rum
 - 0.25 Oz Avocado
 - 1.5 Oz Fresh Pineapple Juice
 - 0.5 Oz Fresh Lime Juice
-- 1.0 Oz Coconut Milk
+- 1 Oz Coconut Milk
 - 0.5 Oz Demerara Simple Syrup
-- 1.0 Barspoon Creme De Cacao
+- 1 Barspoon Creme De Cacao
 
 Garnish:
 
@@ -2207,7 +2207,7 @@ Muddle avocado in a shaker. Add all ingredients to the shaker with ice and shake
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Oloroso Sherry
 - 0.5 Oz Tawny Port
 - 0.75 Oz Vanilla Syrup
@@ -2238,7 +2238,7 @@ Ingredients:
 - 1.5 Oz High West Double Rye
 - 0.5 Oz Fernet Menta
 - 0.5 Oz Vanilla Syrup
-- 5.0 Oz Coffee
+- 5 Oz Coffee
 
 Garnish:
 
@@ -2280,7 +2280,7 @@ Ingredients:
 - 0.25 Oz Allspice Dram
 - 0.5 Oz Condensed Milk Blend
 - 0.5 Oz Fresh Squeezed Grapefruit Juice
-- 1.0 Oz Egg White
+- 1 Oz Egg White
 
 Garnish:
 
@@ -2309,10 +2309,10 @@ Add all ingredients except soda water to cocktail shaker with cube ice and shake
 Ingredients:
 
 - 1.5 Oz High West Bourbon
-- 1.0 Oz Fresh Lemon Juice
+- 1 Oz Fresh Lemon Juice
 - 0.5 Oz Demerara Simple Syrup
 - 0.5 Oz Maraschino Liqueur
-- 4.0 Dashes Peychauds Bitters
+- 4 Dashes Peychauds Bitters
 
 Garnish:
 
@@ -2342,13 +2342,13 @@ add all ingredients except soda water to cocktail shaker with cube ice and shake
 
 Ingredients:
 
-- 1.0 Oz Egg White
+- 1 Oz Egg White
 - 1.5 Oz High West Bourbon
-- 1.0 Oz Manzanilla Sherry
+- 1 Oz Manzanilla Sherry
 - 0.5 Oz Smoked Tea Syrup
 - 0.5 Oz Fresh Squeezed Lemon Juice
-- 1.0 Tablespoon Fig Jam
-- 2.0 Dashes Angostura Bitters
+- 1 Tablespoon Fig Jam
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -2376,10 +2376,10 @@ Add all ingredients except club soda into a cocktail shaker with cube ice and sh
 
 Ingredients:
 
-- 2.0 Slices Lemon
+- 2 Slices Lemon
 - 1.5 Oz A Midwinter Nights Dram
 - 0.5 Oz Hazelnut Syrup
-- 3.0 Oz Hot Water
+- 3 Oz Hot Water
 
 Garnish:
 
@@ -2411,8 +2411,8 @@ Ingredients:
 - 0.5 Oz Pedro Ximenez Sherry
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Punt E Mes
-- 1.0 Barspoon Allspice Dram
-- 1.0 Dash Angostura Bitters
+- 1 Barspoon Allspice Dram
+- 1 Dash Angostura Bitters
 
 Garnish:
 
@@ -2471,7 +2471,7 @@ Chill an old fashioned glass. Add all ingredients to a mixing glass with ice and
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.75 Oz Cognac
 - 0.5 Oz Yellow Chartreuse
 - 0.5 Oz Fino Sherry
@@ -2506,12 +2506,12 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.75 Oz Green Chartreuse
 - 0.75 Oz Maraschino Liqueur
-- 1.0 Oz Grenadine
+- 1 Oz Grenadine
 - 0.5 Oz Fresh Squeezed Lemon Juice
-- 1.0 Dash Peychaud Bitters
-- 1.0 Dash Orange Bitters
-- 1.0 Oz Rose
-- 1.0 Oz Chilled Soda Water
+- 1 Dash Peychaud Bitters
+- 1 Dash Orange Bitters
+- 1 Oz Rose
+- 1 Oz Chilled Soda Water
 
 Garnish:
 
@@ -2576,7 +2576,7 @@ Ingredients:
 - 0.5 Oz Amaro Nonino
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Aperol
-- 1.0 Barspoon Lagavulin 16 Year
+- 1 Barspoon Lagavulin 16 Year
 
 Garnish:
 
@@ -2605,7 +2605,7 @@ Add all ingredients into a mixing glass with cube ice and stir until chilled. St
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Drambuie
+- 1 Oz Drambuie
 
 Garnish:
 
@@ -2732,7 +2732,7 @@ Ingredients:
 - 0.5 Oz Tuaca
 - 0.25 Oz Amaro Santa Maria
 - 0.25 Oz Maraschino Liqueur
-- 3.0 Dashes Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -2760,12 +2760,12 @@ Add all ingredients into a mixing glass, stir with cube ice until chilled. Strai
 
 Ingredients:
 
-- 4.0 Oz Hot Water
+- 4 Oz Hot Water
 - 1.5 Oz Double Rye
 - 0.75 Oz Applejack
 - 0.25 Oz Allspice Dram
 - 0.5 Oz Maple Syrup
-- 1.0 Dash Of Cinnamon
+- 1 Dash Of Cinnamon
 - 0.5 Tbsp Butter
 
 Garnish:
@@ -2795,10 +2795,10 @@ Fill a goblet with hot water to warm the glass, and discard the hot water when g
 Ingredients:
 
 - 1.5 Oz Rendezvous Rye
-- 1.0 Oz Dark Rum
+- 1 Oz Dark Rum
 - 0.25 Oz Creme De Cacao
 - 0.25 Oz Demerara Simple Syrup
-- 2.0 Dashes Blueberry Cardamom Bitters
+- 2 Dashes Blueberry Cardamom Bitters
 
 Garnish:
 
@@ -2827,10 +2827,10 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Mezcal
+- 1 Oz Mezcal
 - 0.5 Oz Rosemary Syrup
-- 1.0 Dash Chocolate Bitters
-- 1.0 Dash Mole Bitters
+- 1 Dash Chocolate Bitters
+- 1 Dash Mole Bitters
 
 Garnish:
 
@@ -2858,7 +2858,7 @@ Brulee a rosemary sprig, and place an old fashioned glass over the top. Combine 
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Oloroso Sherry
 - 0.5 Oz Banane Liqueur
 - 0.5 Oz Pecan Syrup
@@ -2895,10 +2895,10 @@ Ingredients:
 - 0.5 Oz Cardamaro
 - 0.5 Oz Calvados
 - 0.5 Oz Spice Tea Syrup
-- 1.0 Barspoon Allspice Dram
+- 1 Barspoon Allspice Dram
 - 0.5 Oz Fresh Grapefruit Juice
 - 0.25 Oz Fresh Lime Juice
-- 1.0 Dash Angostura Bitters
+- 1 Dash Angostura Bitters
 
 Garnish:
 
@@ -2928,7 +2928,7 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.25 Oz Amaro Nonino
-- 1.0 Barspoon Mezcal
+- 1 Barspoon Mezcal
 - 0.75 Oz Fresh Lemon Juice
 - 0.5 Oz Fresh Grapefruit Juice
 - 0.5 Oz Cinnamon Syrup
@@ -2960,12 +2960,12 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Tanqueray 10
+- 1 Oz Tanqueray 10
 - 0.5 Oz Creme De Violette
 - 0.5 Oz Pamplemousse Liqueur
 - 0.5 Oz Demerara Simple Syrup
 - 0.75 Oz Fresh Lemon Juice
-- 4.0 Drops Boston Bitahs
+- 4 Drops Boston Bitahs
 
 Garnish:
 
@@ -2998,7 +2998,7 @@ Ingredients:
 - 0.25 Oz Amaro Montenegro
 - 0.75 Oz Miso Syrup
 - 0.75 Oz Lime Juice
-- 1.0 Bar Spoon Yuzu
+- 1 Bar Spoon Yuzu
 
 Garnish:
 
@@ -3032,7 +3032,7 @@ Ingredients:
 - 0.25 Oz High West Spiced Syrup (See Whiskey Lemonade For Recipe)
 - 0.25 Oz Fresh Lemon Juice
 - 0.25 Oz Heavy Whipping Cream
-- 1.0 Tablespoon Of Vanilla Ice Cream
+- 1 Tablespoon Of Vanilla Ice Cream
 
 Garnish:
 
@@ -3060,14 +3060,14 @@ Add all ingredients except the red rock drioma into a cocktail shaker with ice a
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Smith And Cross Rum
+- 1 Oz Rendezvous Rye
+- 1 Oz Smith And Cross Rum
 - 0.25 Oz Maraschino Liqueur
 - 0.25 Oz Yellow Chartreuse
 - 0.5 Oz Honey Syrup
 - 0.5 Oz Lemon Juice
-- 1.0 Pinch Of Sea Salt
-- 2.0 Dashes Orange Bitters
+- 1 Pinch Of Sea Salt
+- 2 Dashes Orange Bitters
 
 Garnish:
 
@@ -3096,14 +3096,14 @@ add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Ron Zacapa Rum
+- 1 Oz Rendezvous Rye
+- 1 Oz Ron Zacapa Rum
 - 0.5 Oz Cointreau
 - 0.25 Oz Smith And Cross Rum
 - 0.75 Oz Fresh Pineapple Juice
 - 0.75 Oz Fresh Lime Juice
 - 0.25 Oz Demerara Simple Syrup
-- 2.0 Dashes Angostura Bitters
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -3131,13 +3131,13 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Rendezvous Rye
 - 0.25 Oz Maraschino Liqueur
 - 0.5 Oz Orange Liqueur
 - 0.5 Oz Drambuie
 - 0.5 Oz Tart Cherry Juice
 - 0.25 Oz Lemon Juice
-- 2.0 Oz Oskar Blues G'night
+- 2 Oz Oskar Blues G'night
 
 Garnish:
 
@@ -3165,13 +3165,13 @@ Add all ingredients except g'night to a cocktail shaker with ice and shake until
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Double Rye
+- 1 Oz Rendezvous Rye
 - 0.5 Oz Cointreau
-- 1.0 Oz Chai Tea Syrup
+- 1 Oz Chai Tea Syrup
 - 0.5 Oz Amontillado Sherry
 - 0.5 Oz Lemon Juice
-- 1.0 Oz Egg White
+- 1 Oz Egg White
 
 Garnish:
 
@@ -3200,10 +3200,10 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Strai
 Ingredients:
 
 - 1.5 Oz High West Bourbon
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Rosemary Strawberry Rhubarb Preserve
 - 0.75 Oz Fresh Squeezed Lemon Juice
-- 2.0 Oz Gt's Gingeraide Kombucha
+- 2 Oz Gt's Gingeraide Kombucha
 
 Garnish:
 
@@ -3232,10 +3232,10 @@ Add all ingredients except kombucha into a cocktail shaker and shake with cube i
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz El Dorado 12 Year Old Rum
+- 1 Oz El Dorado 12 Year Old Rum
 - 0.5 Oz Lavender Cold Brew Syrup
-- 2.0 Dashes Peychaud's Bitters
-- 2.0 Dashes Chocolate Bitters
+- 2 Dashes Peychaud's Bitters
+- 2 Dashes Chocolate Bitters
 - 0.25 Oz Absinthe
 
 Garnish:
@@ -3264,15 +3264,15 @@ Absinthe rinse an old fashioned glass. Add all ingredients to a mixing glass wit
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Reposado Tequila
+- 1 Oz Double Rye
+- 1 Oz Reposado Tequila
 - 0.5 Oz Cointreau
 - 0.25 Oz Fresh Ginger Juice
 - 1.5 Oz Fresh Mango Juice
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
-- 8.0 Leaves Cilantro
-- 2.0 Oz Ballast Point Pineapple Sculpin
+- 8 Leaves Cilantro
+- 2 Oz Ballast Point Pineapple Sculpin
 
 Garnish:
 
@@ -3300,8 +3300,8 @@ Muddle cilantro in a cocktail shaker. Add all ingredients except pineapple sculp
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Calvados
+- 1 Oz Double Rye
+- 1 Oz Calvados
 - 0.25 Oz Pear Brandy
 - 0.5 Oz Cocchi Americano
 - 0.5 Oz Apple Balsamic Vinaigrette
@@ -3333,12 +3333,12 @@ Chill a cocktail glass. Add all ingredients to a mixing glass with ice and stir 
 Ingredients:
 
 - 0.5 Oz Double Rye
-- 1.0 Oz Leblon Cachaca
+- 1 Oz Leblon Cachaca
 - 0.5 Oz Punt E Mes
 - 0.5 Oz Smith And Cross Rum
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Coco Lopez
-- 4.0 Oz Blackberries
+- 4 Oz Blackberries
 
 Garnish:
 
@@ -3366,12 +3366,12 @@ Muddle blackberries in a cocktail shaker. Add all ingredients to shaker with ice
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Ron Zacapa Rum
+- 1 Oz Rendezvous Rye
+- 1 Oz Ron Zacapa Rum
 - 0.75 Oz Cynar
 - 0.75 Oz Fresh Lime Juice
-- 1.0 Oz Lychee / Demerara Simple Syrup
-- 1.0 Barspoon Allspice Dram
+- 1 Oz Lychee / Demerara Simple Syrup
+- 1 Barspoon Allspice Dram
 
 Garnish:
 
@@ -3405,8 +3405,8 @@ Ingredients:
 - 0.25 Oz Cynar
 - 1.5 Oz Chipotle Hibiscus Balsamic Reduction
 - 0.25 Oz Lime Juice
-- 1.0 Barspoon Coffee Syrup
-- 2.0 Oz Modelo Negra
+- 1 Barspoon Coffee Syrup
+- 2 Oz Modelo Negra
 
 Garnish:
 
@@ -3440,7 +3440,7 @@ Ingredients:
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Cold Brew Coffee
 - 0.5 Oz Demerara Simple Syrup
-- 2.0 Dashes Angostura Bitters
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -3501,14 +3501,14 @@ chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
-- 1.0 Oz Del Maguey Vida Mezcal
+- 1 Oz High West Bourbon
+- 1 Oz Del Maguey Vida Mezcal
 - 0.5 Oz High West Barrel Aged Maple Syrup
 - 0.5 Oz Kabosu Juice
 - 0.5 Oz Sudachi Ponzu Juice
 - 0.25 Oz Fresh Lime Juice
-- 3.0 Slices Cucumber
-- 4.0 Pieces Diced Watermelon
+- 3 Slices Cucumber
+- 4 Pieces Diced Watermelon
 
 Garnish:
 
@@ -3536,13 +3536,13 @@ Muddle cucumber and watermelon in a cocktail shaker. Add all ingredients to the 
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.75 Oz High West Campfire
 - 0.75 Oz Aperol
 - 0.5 Oz Chambord
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
-- 2.0 Oz Soda Water
+- 2 Oz Soda Water
 - 0.25 Oz 151 Rum
 
 Garnish:
@@ -3571,14 +3571,14 @@ Add all ingredients except 151 rum and soda water to a collins glass with ice an
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Goslings Black Seal Rum
+- 1 Oz Rendezvous Rye
+- 1 Oz Goslings Black Seal Rum
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Ruby Port
 - 0.75 Oz Carmenere Wine
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
-- 2.0 Dashes Angostura Bitters
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -3606,12 +3606,12 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Amontillado Sherry
+- 1 Oz Rendezvous Rye
+- 1 Oz Amontillado Sherry
 - 0.5 Oz Dry Curacao
 - 0.75 Oz Amaro Montenegro
-- 1.0 Barspoon Of Cold Brew Coffee
-- 1.0 Pinch Of Salt
+- 1 Barspoon Of Cold Brew Coffee
+- 1 Pinch Of Salt
 
 Garnish:
 
@@ -3645,7 +3645,7 @@ Ingredients:
 - 0.5 Oz Fresh Lemon Juice
 - 0.5 Oz Pink Peppercorn Syrup
 - 0.25 Oz Fresh Ginger Juice
-- 4.0 Leaves Basil
+- 4 Leaves Basil
 
 Garnish:
 
@@ -3674,13 +3674,13 @@ Muddle 3 basil leaves in a cocktail shaker. Add all ingredients to the cocktail 
 Ingredients:
 
 - 0.5 Oz High West Bourbon
-- 1.0 Oz Ron Zacapa Rum
+- 1 Oz Ron Zacapa Rum
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Goslings Black Seal Rum
 - 0.25 Oz Fresh Ginger Juice
 - 0.5 Oz Demerara Simple Syrup
-- 3.0 Dashes Angostura Bitters
-- 2.0 Oz Fever Tree Soda Water
+- 3 Dashes Angostura Bitters
+- 2 Oz Fever Tree Soda Water
 
 Garnish:
 
@@ -3704,12 +3704,12 @@ Add all ingredients except rum and angostura bitters to a collins glass with cru
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
-- 1.0 Oz Yamazaki 12 Year Old Whisky
+- 1 Oz Rendezvous Rye
+- 1 Oz Yamazaki 12 Year Old Whisky
 - 0.5 Oz Fresh Lemon Juice
 - 0.75 Oz Green Tea Syrup
-- 1.0 Barspoon Yuzu
-- 2.0 Drops Of Tamari
+- 1 Barspoon Yuzu
+- 2 Drops Of Tamari
 
 Garnish:
 
@@ -3810,14 +3810,14 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.75 Oz Fino Sherry
 - 0.5 Oz Cocchi Americano
 - 0.25 Oz Aperol
 - 0.25 Oz Pamplemousse Liqueur
 - 0.25 Oz Mezcal
-- 1.0 Barspoon Suze
-- 1.0 Pinch Of Salt
+- 1 Barspoon Suze
+- 1 Pinch Of Salt
 
 Garnish:
 
@@ -3845,9 +3845,9 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Mezcal
-- 1.0 Oz Fresh Lime Juice
+- 1 Oz Double Rye
+- 1 Oz Mezcal
+- 1 Oz Fresh Lime Juice
 - 0.5 Oz Serrano Agave
 - 0.25 Oz Pamplemousse Liqueur
 - 0.25 Oz Ancho Reyes
@@ -3912,7 +3912,7 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.75 Oz El Dorado 12 - Year-old Rum
 - 0.25 Oz Oloroso Sherry
-- 1.0 Barspoon Calamansi Juice
+- 1 Barspoon Calamansi Juice
 - 0.75 Oz Curry Syrup
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Kefir Yogurt
@@ -4012,7 +4012,7 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.5 Oz Guava Juice
 - 0.75 Oz Earl Grey Syrup
-- 2.0 Leaves Fresh Tarragon
+- 2 Leaves Fresh Tarragon
 - 0.75 Oz Fresh Lime Juice
 
 Garnish:
@@ -4041,7 +4041,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.75 Oz Stiggins Pineapple Rum
 - 0.25 Oz Creme De Cacao
 - 0.5 Oz Tawny Port
@@ -4080,8 +4080,8 @@ Ingredients:
 - 0.75 Oz Oloroso Sherry
 - 0.5 Oz Ron Zacapa Rum
 - 0.5 Oz Cinnamon Syrup
-- 4.0 Oz Coffee
-- 2.0 Oz Heavy Whipping Cream
+- 4 Oz Coffee
+- 2 Oz Heavy Whipping Cream
 - 0.25 Oz Creme De Cacao
 
 Garnish:
@@ -4115,10 +4115,10 @@ Ingredients:
 - 0.25 Oz Pamplemousse Liqueur
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Matcha Syrup
-- 1.0 Barspoon Calamansi Juice
-- 1.0 Dash St. George Absinthe
-- 1.0 Oz Egg White
-- 8.0 Leaves Mint
+- 1 Barspoon Calamansi Juice
+- 1 Dash St. George Absinthe
+- 1 Oz Egg White
+- 8 Leaves Mint
 
 Garnish:
 
@@ -4146,7 +4146,7 @@ Add all ingredients to a cocktail shaker with cubed ice and shake until chilled.
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Averna
 - 0.5 Oz Ron Zacapa Rum
 - 0.25 Oz Banane Liqueur
@@ -4185,8 +4185,8 @@ Ingredients:
 - 0.5 Oz Cardamaro
 - 0.75 Oz Clove Syrup
 - 0.75 Oz Fresh Lemon Juice
-- 1.0 Barspoon Creme De Cacao
-- 4.0 Dashes Chocolate Bitters
+- 1 Barspoon Creme De Cacao
+- 4 Dashes Chocolate Bitters
 
 Garnish:
 
@@ -4219,7 +4219,7 @@ Ingredients:
 - 0.25 Oz Amaro Montenegro
 - 0.25 Oz Tawny Port
 - 0.25 Oz Demerara Simple Syrup
-- 4.0 Dashes Peychaud's Syrup
+- 4 Dashes Peychaud's Syrup
 
 Garnish:
 
@@ -4247,14 +4247,14 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.75 Oz Tanqueray 10
 - 0.25 Oz Pamplemousse Liqueur
 - 0.5 Oz Byrrh
 - 0.75 Oz Fresh Lime Juice
 - 0.25 Oz Cinnamon Syrup
-- 1.0 Oz Soda Water
-- 1.0 Oz Bouvet Rose
+- 1 Oz Soda Water
+- 1 Oz Bouvet Rose
 
 Garnish:
 
@@ -4285,9 +4285,9 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.75 Oz Cachaca
 - 0.5 Oz Amontillado Sherry
-- 1.0 Oz Pistachio Simple Syrup
+- 1 Oz Pistachio Simple Syrup
 - 0.75 Oz Fresh Lime Juice
-- 1.0 Dash Absinthe
+- 1 Dash Absinthe
 
 Garnish:
 
@@ -4316,15 +4316,15 @@ add all ingredients to a cocktail shaker with ice and shake until chilled. Strai
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Ancho Reyes Ancho Chile Liqueur
 - 0.25 Oz Mezcal
 - 0.25 Oz Pamplemousse
 - 0.05 Oz Fresh Guava Juice
 - 0.75 Oz Fresh Lime Juice
 - 0.25 Oz Simple Syrup
-- 1.0 Dash Peychaud's Bitters
-- 2.0 Wheels Muddled Cucumber
+- 1 Dash Peychaud's Bitters
+- 2 Wheels Muddled Cucumber
 
 Garnish:
 
@@ -4352,11 +4352,11 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Strai
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Ron Zacapa Rum
 - 0.5 Oz Rhum Clement
 - 0.5 Oz Fino Sherry
-- 1.0 Oz Jasmine / Fresh Pineapple Tea Syrup
+- 1 Oz Jasmine / Fresh Pineapple Tea Syrup
 
 Garnish:
 
@@ -4388,9 +4388,9 @@ Ingredients:
 - 0.5 Oz Smith And Cross Rum
 - 0.5 Oz Campari
 - 0.5 Oz St. Germain Elderflower Liqueur
-- 1.0 Oz Fresh Pineapple Juice
+- 1 Oz Fresh Pineapple Juice
 - 0.75 Oz Fresh Lemon Juice
-- 1.0 Dash Angostura Bitters
+- 1 Dash Angostura Bitters
 
 Garnish:
 
@@ -4422,7 +4422,7 @@ Ingredients:
 - 0.5 Oz Amaro Ciociaro
 - 0.75 Oz Carpano Antica Sweet Vermouth
 - 0.75 Oz Fresh Raspberry Infused High West Bourbon Tincture
-- 1.0 Bar Spoon Cold Brew Coffee
+- 1 Bar Spoon Cold Brew Coffee
 
 Garnish:
 
@@ -4481,8 +4481,8 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Campfire
-- 1.0 Oz Noilly Prat Extra Dry Vermouth
+- 1 Oz Campfire
+- 1 Oz Noilly Prat Extra Dry Vermouth
 - 0.75 Oz House Passionfruit And Yuzu Syrup
 
 Garnish:
@@ -4514,7 +4514,7 @@ Ingredients:
 - 0.5 Oz Double Rye
 - 0.25 Oz Banane Liqueur
 - 1.5 Oz Amaro Averna
-- 2.0 Oz Cold Brew Coffee
+- 2 Oz Cold Brew Coffee
 - 0.75 Oz Heavy Whipping Cream
 
 Garnish:
@@ -4546,11 +4546,11 @@ Ingredients:
 - 0.75 Oz Double Rye
 - 0.75 Oz O. F. T. D. Rum
 - 0.5 Oz Hennessy
-- 1.0 Bar Spoon Avua Cachaca
+- 1 Bar Spoon Avua Cachaca
 - 0.5 Oz Pan Dan Syrup
 - 1.5 Oz Coconut Water
-- 2.0 Dashes Angostura Bitters
-- 1.0 Dash Mole Bitters
+- 2 Dashes Angostura Bitters
+- 1 Dash Mole Bitters
 
 Garnish:
 
@@ -4578,15 +4578,15 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 1.5 Oz Aquavit
 - 0.25 Oz Banane Liqueur
 - 1.5 Oz Fresh Pineapple Juice
 - 0.75 Oz Coconut Milk
 - 0.75 Oz Fresh Lime Juice
 - 0.5 Oz Caraway Simple Syrup
-- 1.0 Bar Spoon Green Chartreuse
-- 2.0 Dashes Angostura Bitters
+- 1 Bar Spoon Green Chartreuse
+- 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -4614,11 +4614,11 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour 
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Rendezvous Rye
 - 0.75 Oz Averna
 - 0.5 Oz Smith And Cross
-- 1.0 Barspoon Of Allspice Dram
-- 3.0 Dashes Of Mole Bitters
+- 1 Barspoon Of Allspice Dram
+- 3 Dashes Of Mole Bitters
 
 Garnish:
 
@@ -4651,7 +4651,7 @@ Ingredients:
 - 0.75 Oz Plum Liquor
 - 0.25 Oz Aperol
 - 0.25 Oz Yuzu
-- 1.0 Oz Jasmine Pineapple Syrup
+- 1 Oz Jasmine Pineapple Syrup
 
 Garnish:
 
@@ -4676,7 +4676,7 @@ Add all ingredients into a heated goblet, top off with boiling hot water.
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Ciociaro
+- 1 Oz Ciociaro
 - 0.5 Oz Cinnamon Simple Syrup
 - 0.25 Oz Lemon Juice
 
@@ -4703,14 +4703,14 @@ add all ingredients into a heated goblet, top off with boiling hot water. Garnis
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Rendezvous Rye
 - 0.5 Oz Ron Zacapa
 - 0.5 Oz Oftd Rum
 - 0.25 Oz Highland Park 12 Yo
 - 0.25 Oz Px Sherry
-- 1.0 Barspoon Oloroso Sherry
-- 1.0 Barspoon Banane Du Bresil
-- 3.0 Dashes Of Angostura Bitters
+- 1 Barspoon Oloroso Sherry
+- 1 Barspoon Banane Du Bresil
+- 3 Dashes Of Angostura Bitters
 
 Garnish:
 
@@ -4738,13 +4738,13 @@ Add all ingredients into a mixing glass, stir until chilled, strain into an old 
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz El Silencio
+- 1 Oz Double Rye
+- 1 Oz El Silencio
 - 0.25 Oz Ancho Verde
 - 0.5 Oz Demerara Simple Syrup
-- 1.0 Barspoon Pamplemousse
-- 3.0 Dashes Orange Bitters
-- 4.0 Drops Mole Bitters
+- 1 Barspoon Pamplemousse
+- 3 Dashes Orange Bitters
+- 4 Drops Mole Bitters
 
 Garnish:
 
@@ -4772,13 +4772,13 @@ Add all ingredients into an old fashioned glass, add 1x1 ice, stir until chilled
 
 Ingredients:
 
-- 1.0 Oz Double Rye
-- 1.0 Oz Avua
+- 1 Oz Double Rye
+- 1 Oz Avua
 - 0.5 Oz Banane Du Bresil
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Demerara Simple Syrup
-- 1.0 Dash Of Angostura Bitters
-- 2.0 Dashes Of Peychards Bitters
+- 1 Dash Of Angostura Bitters
+- 2 Dashes Of Peychards Bitters
 
 Garnish:
 
@@ -4807,7 +4807,7 @@ add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Stiggins'Pineapple Rum
 - 0.5 Oz Amaro Montenegro
 - 0.5 Oz Aperol
@@ -4844,7 +4844,7 @@ Ingredients:
 - 0.25 Oz Banane Du Bresil
 - 0.25 Oz Creme De Cacao
 - 0.25 Oz Cinnamon Simple Syrup
-- 1.0 Dash Healthy Of Chocolate Bitters
+- 1 Dash Healthy Of Chocolate Bitters
 
 Garnish:
 
@@ -4872,12 +4872,12 @@ Add all ingredients into a cocktail shaker. Double strain into a chilled coupe g
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Smith And Cross
 - 0.5 Oz Oftd
 - 0.5 Oz Px Sherry
 - 0.25 Oz Amaretto
-- 1.0 Barspoon Aperol
+- 1 Barspoon Aperol
 - 0.75 Oz Lime Juice
 - 0.25 Oz Orgeat Syrup
 
@@ -4907,11 +4907,11 @@ Add all ingredients into a cocktail shaker, shake until chilled. Double strain i
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 0.5 Oz Cherry Heering
 - 0.5 Oz Antica Vermouth
 - 0.5 Oz Oloroso Sherry
-- 1.0 Barspoon Of Benedictine
+- 1 Barspoon Of Benedictine
 - 0.75 Oz Orange Juice
 - 0.5 Oz Lemon Juice
 
@@ -4935,8 +4935,8 @@ Ingredients:
 - 0.5 Oz Yellow Chartreuse
 - 0.5 Oz Lime Juice
 - 0.5 Oz Passion Fruit Pure
-- 1.0 Barspoon Of Yuzu
-- 1.0 Barspoon Of Banane Du Bresil
+- 1 Barspoon Of Yuzu
+- 1 Barspoon Of Banane Du Bresil
 
 Garnish:
 
@@ -4970,7 +4970,7 @@ Ingredients:
 - 0.5 Oz Earl Gray Syrup
 - 0.5 Oz Lime Juice
 - 0.25 Oz Guava Pure
-- 1.0 Barspoon Calamansi
+- 1 Barspoon Calamansi
 
 Garnish:
 
@@ -4998,7 +4998,7 @@ Add all ingredients except sippin pretty into a cocktail shaker, shake until chi
 
 Ingredients:
 
-- 1.0 Oz Rendezvous Rye
+- 1 Oz Rendezvous Rye
 - 0.75 Oz El Silencio
 - 0.5 Oz Yellow Chartreuse
 - 0.25 Oz Aperol
@@ -5032,7 +5032,7 @@ Add all ingredients except blood orange soda into a cocktail shaker, shake until
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Highland Park 12 Yo
 - 0.5 Oz Avua
 - 0.75 Oz Lime Juice
@@ -5064,13 +5064,13 @@ Add all ingredients into a cocktail shaker. Double strain into a chilled coupe g
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.75 Oz Amontillado Sherry
 - 0.25 Oz Falernum
 - 0.75 Oz Lemon Juice
 - 0.75 Oz Pineapple Juice
 - 0.5 Oz Tamarind Simple Syrup
-- 3.0 Dashes Of Angostura Bitters
+- 3 Dashes Of Angostura Bitters
 
 Garnish:
 
@@ -5098,11 +5098,11 @@ Add all ingredients except soda water into a cocktail shaker. Double strain into
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.75 Oz Averna
 - 0.5 Oz Highland Park 12
-- 1.0 Barspoon Creme De Banane
-- 1.0 Oz Cold Brew Concentrate
+- 1 Barspoon Creme De Banane
+- 1 Oz Cold Brew Concentrate
 - 0.5 Oz Cinnamon Syrup
 
 Garnish:
@@ -5132,11 +5132,11 @@ Add all ingredients into a mixing glass with ice, stir until chilled, strain ove
 Ingredients:
 
 - 0.75 Oz High West Double Rye
-- 1.0 Oz Mango Oftd
+- 1 Oz Mango Oftd
 - 0.25 Oz Demerara
 - 0.5 Oz Madeira
-- 1.0 Barspoon Mango Brandy
-- 3.0 Dashes Timbimboo Bitters (Equal Parts Elemankule , Peychaud's , Angostura)
+- 1 Barspoon Mango Brandy
+- 3 Dashes Timbimboo Bitters (Equal Parts Elemankule , Peychaud's , Angostura)
 
 Garnish:
 
@@ -5165,9 +5165,9 @@ chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixin
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
-- 1.0 Oz Neisson Rhum Agricole
-- 1.0 Dash Of Absinthe
+- 1 Oz High West Bourbon
+- 1 Oz Neisson Rhum Agricole
+- 1 Dash Of Absinthe
 - 0.25 Oz Lime Cordial
 - 0.25 Oz Cocchi Americano
 - 0.75 Oz Peach Syrup
@@ -5198,10 +5198,10 @@ Build in an old fashioned glass, add ice, stir until chilled thoroughly. Squeeze
 
 Ingredients:
 
-- 1.0 Oz High West Bourbon
+- 1 Oz High West Bourbon
 - 1.25 Oz Fino Sherry
 - 0.5 Oz Vergano Maraschino
-- 1.0 Dash Of Absinthe
+- 1 Dash Of Absinthe
 - 1.5 Oz Lime Cordial
 - 0.5 Oz Lime Juice
 - 1.5 Oz Topo Chico Lime
@@ -5232,13 +5232,13 @@ Add all ingredients to shaker tin with ice, shake, double strain into mason jar 
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Tanqueray 10
 - 0.25 Oz Cocchi Americano
 - 0.75 Oz Lemon Juice
 - 0.75 Oz Matcha Simple Syrup
-- 1.0 Oz Pineapple Juice
-- 2.0 Dashes Of Citra Hop Tincture
+- 1 Oz Pineapple Juice
+- 2 Dashes Of Citra Hop Tincture
 - 1.5 Oz 1.5 Oz Soda Water
 
 Garnish:
@@ -5267,8 +5267,8 @@ Add all ingredients to shaker tin, shake with pebble ice, short shake, double st
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
-- 1.0 Oz Cachaca
+- 1 Oz High West Double Rye
+- 1 Oz Cachaca
 - 0.5 Oz Falernum
 - 0.25 Oz Passion Fruit Puree
 - 1.25 Oz Coconut Hibiscus Cream
@@ -5301,7 +5301,7 @@ Add all ingredients to shaker tin, shake with pebble ice, dirty dump into collin
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 6.25 Oz Frozen Frost Blend
 
 Garnish:
@@ -5332,7 +5332,7 @@ Ingredients:
 - 0.5 Oz Lemon Juice
 - 0.25 Oz Sudachi Juice
 - 0.5 Oz Garam Masala Syrup
-- 1.0 Dash Saline Solution (1:5)
+- 1 Dash Saline Solution (1:5)
 
 Garnish:
 
@@ -5360,15 +5360,15 @@ Muddle watermelon in shaker tin, add remaining ingredients. Shake with ice then 
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
-- 1.0 Oz Ron Zacapa
+- 1 Oz High West Double Rye
+- 1 Oz Ron Zacapa
 - 0.25 Oz Cappelletti
-- 1.0 Oz Pineapple Juice
+- 1 Oz Pineapple Juice
 - 0.5 Oz Lime Juice
 - 0.5 Oz Lime Cordial
 - 0.5 Oz Guava Puree
-- 4.0 Oz Shades Kviek
-- 1.0 Top With Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge
+- 4 Oz Shades Kviek
+- 1 Top With Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge
 
 Garnish:
 
@@ -5389,7 +5389,7 @@ Ingredients:
 - 0.5 Oz Cappelletti
 - 0.5 Oz Ancho Reyes
 - 0.5 Oz Poblano Simple Syrup
-- 1.0 Barspoon Cold Brew Coffee
+- 1 Barspoon Cold Brew Coffee
 
 Garnish:
 
@@ -5419,9 +5419,9 @@ Add all ingredients into a mixing glass with ice, stir until chilled, strain ove
 
 Ingredients:
 
-- 5.0 Oz Ritual Chocolate Syrup
+- 5 Oz Ritual Chocolate Syrup
 - 0.5 Oz 5 Averna Amaro
-- 1.0 Oz Cold Brew
+- 1 Oz Cold Brew
 - 1.5 Oz High West Bourbon
 
 Garnish:
@@ -5456,9 +5456,9 @@ Ingredients:
 - 0.25 Oz Plantation O. F. T. D Rum
 - 1.5 Oz Apricot Infused Plantation Campfire Blend
 - 0.25 Oz Brown Sugar Simple Syrup
-- 3.0 Dashes Tiki Bitters
-- 2.0 Dashes Lagavulin 16 Yr. Scotch
-- 1.0 Dash Saline Solution
+- 3 Dashes Tiki Bitters
+- 2 Dashes Lagavulin 16 Yr. Scotch
+- 1 Dash Saline Solution
 
 Garnish:
 
@@ -5493,8 +5493,8 @@ Ingredients:
 - 0.25 Oz Velvet Falernum
 - 0.25 Oz Agave Syrup
 - 0.25 Oz Lime Acid
-- 1.0 Barspoon Green Chartreuse
-- 3.0 Dashes Orange Bitters
+- 1 Barspoon Green Chartreuse
+- 3 Dashes Orange Bitters
 
 Garnish:
 
@@ -5528,7 +5528,7 @@ Ingredients:
 - 0.25 Oz 25 Ginger Syrup
 - 0.25 Oz 25 Amontillado Syrup
 - 0.5 Oz 50 Lime Juice
-- 2.0 Dashes Peychaud's Bitters
+- 2 Dashes Peychaud's Bitters
 
 Garnish:
 
@@ -5563,9 +5563,9 @@ Ingredients:
 - 0.25 Oz Midori
 - 0.5 Oz Lime Juice
 - 0.25 Oz Yuzu Juice
-- 1.0 Oz Matcha Syrup (Recipe Below)
-- 1.0 Barspoon Creme De Cacao
-- 3.0 Dash Chocolate Bitters
+- 1 Oz Matcha Syrup (Recipe Below)
+- 1 Barspoon Creme De Cacao
+- 3 Dash Chocolate Bitters
 
 Garnish:
 
@@ -5601,9 +5601,9 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.25 Oz Ancho Reyes
 - 0.25 Oz Cynar
-- 1.0 Oz Ron Zacapa
-- 1.0 Oz Biscoff Syrup
-- 1.0 Top With Hot Drinking Chocolate
+- 1 Oz Ron Zacapa
+- 1 Oz Biscoff Syrup
+- 1 Top With Hot Drinking Chocolate
 
 Garnish:
 
@@ -5637,7 +5637,7 @@ Ingredients:
 - 0.25 Oz Creme De Cacao
 - 0.25 Oz Banane Du Bresil
 - 0.75 Oz Vanilla
-- 3.0 Dashes Orange Bitter
+- 3 Dashes Orange Bitter
 
 Garnish:
 
@@ -5673,8 +5673,8 @@ Ingredients:
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Yuzu Juice
 - 0.5 Oz Brown Sugar Simple Syrup
-- 3.0 Dashes Tiki Bitters
-- 1.0 Barspoon Lagavulin
+- 3 Dashes Tiki Bitters
+- 1 Barspoon Lagavulin
 
 Garnish:
 
@@ -5705,11 +5705,11 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.75 Oz Banana Rum
 - 0.5 Oz Averna
-- 1.0 Barspoon Allspice Dram
+- 1 Barspoon Allspice Dram
 - 0.25 Oz Sweet Vermouth
 - 0.5 Oz Campari Infused Coco Nibs (750 Ml Campri 280 Ml Coco Nibs For 18 Hours)
-- 2.0 Dashes Mole Bitters
-- 1.0 Dash Angostura Bitters
+- 2 Dashes Mole Bitters
+- 1 Dash Angostura Bitters
 
 Garnish:
 
@@ -5738,14 +5738,14 @@ Stir and strain into cocktail glass with cubed ice. Garnish with a bruleed banan
 Ingredients:
 
 - 0.5 Oz High West Double Rye
-- 1.0 Oz Brown Butter Washed Macallan 12yr
+- 1 Oz Brown Butter Washed Macallan 12yr
 - 0.25 Oz Frangelico
 - 0.25 Oz Averna
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Cinnamon Syrup
 - 0.25 Oz Vanilla Syrup
 - 0.75 Oz Cold Brew
-- 1.0 Dash Mole Bitters
+- 1 Dash Mole Bitters
 
 Garnish:
 
@@ -5773,13 +5773,13 @@ Stir and strain into cocktail glass with cubed ice. Garnish with an orange peel.
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Brown Ale White Sugar Syrup
 - 0.5 Oz Amaro Nonino
 - 0.75 Oz Cold Brew
 - 0.25 Oz Creme De Cacao
-- 1.0 Barspoon Allspice Dram
-- 2.0 Dashes Molebitters
+- 1 Barspoon Allspice Dram
+- 2 Dashes Molebitters
 
 Garnish:
 
@@ -5840,15 +5840,15 @@ Build in collins glass with cubed ice. Top with ginger beer. Garnish with cucumb
 Ingredients:
 
 - 0.5 Oz High West Campfire
-- 1.0 Oz El Silencio Mezcal
+- 1 Oz El Silencio Mezcal
 - 0.75 Oz Demerara Syrup
 - 0.75 Oz Lime Juice
 - 0.5 Oz Grapefruit Juice
 - 0.25 Oz Ginger Juice
 - 0.25 Oz Ginger Infused Campari
 - 0.25 Oz Pamplemousse
-- 3.0 Dashes Spicy Death Bitters
-- 1.0 Dash Saline Solution
+- 3 Dashes Spicy Death Bitters
+- 1 Dash Saline Solution
 
 Garnish:
 
@@ -5880,7 +5880,7 @@ Ingredients:
 - 0.5 Oz Raspberry Infused Double Rye
 - 0.75 Oz Aperol
 - 0.5 Oz Px Sherry
-- 4.0 Dashes Hop Bitters
+- 4 Dashes Hop Bitters
 - 0.25 Oz Strega
 - 0.25 Oz Yuzu Juice
 - 0.25 Oz Guava Juice
@@ -5912,16 +5912,16 @@ Shake and strain into cocktail glass. Top with sour beer (kveik from shades of p
 
 Ingredients:
 
-- 1.0 Oz High West Double Rye
+- 1 Oz High West Double Rye
 - 0.5 Oz Copper And Kings Brandy
 - 0.5 Oz Creme De Cacao
 - 0.25 Oz Cardamaro
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Cinnamon Syrup
 - 0.5 Oz Cold Brew
-- 1.0 Oz Heavy Cream
-- 1.0 Dash Angostura Bitters
-- 1.0 Dash Sasparilla Bitters
+- 1 Oz Heavy Cream
+- 1 Dash Angostura Bitters
+- 1 Dash Sasparilla Bitters
 
 Garnish:
 
@@ -5952,15 +5952,15 @@ Shake and strain into campfire washed coupe. Micro plane chocolate garnish.
 Ingredients:
 
 - 0.5 Oz 5. Double Rye
-- 2.0 Dashes Angostura
-- 4.0 Dashes Tiki Bitters
+- 2 Dashes Angostura
+- 4 Dashes Tiki Bitters
 - 0.33 Oz 33. Fino Sherry
 - 0.5 Oz 5. Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
 - 0.33 Oz 33. Neisson Rhum Agricole
 - 0.5 Oz 5. Hamilton 86 Guyana Rum
-- 1.0 Oz Plantation Pineapple Rum
+- 1 Oz Plantation Pineapple Rum
 
 Garnish:
 
@@ -5988,12 +5988,12 @@ Whip, shake, strain over popcorn ice in high west camping mug. Garnish with mari
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Gin
 - 0.5 Oz Amaro Nonino
 - 0.25 Oz Rosemary Infused Punt E Mes
-- 1.0 Dash Angostura Bitters
-- 4.0 Drops Saline Solution
+- 1 Dash Angostura Bitters
+- 4 Drops Saline Solution
 
 Garnish:
 
@@ -6026,8 +6026,8 @@ Ingredients:
 - 0.75 Oz Hyde Park 12yr
 - 0.25 Oz Cinnamon Syrup
 - 0.25 Oz Fino Sherry
-- 1.0 Barspoon Laphroaig
-- 3.0 Dashes Tiki Bitters
+- 1 Barspoon Laphroaig
+- 3 Dashes Tiki Bitters
 
 Garnish:
 
@@ -6055,17 +6055,17 @@ Stir and strain into cocktail glass with cubed ice. Express with a lemon peel an
 
 Ingredients:
 
-- 1.0 Oz Bourbon
+- 1 Oz Bourbon
 - 0.75 Oz Gin
 - 0.5 Oz Fernet
 - 0.25 Oz Kalani
 - 0.5 Oz Cinnamon Syrup
-- 1.0 Barspoon Campari
-- 1.0 Oz Strawberry Juice
+- 1 Barspoon Campari
+- 1 Oz Strawberry Juice
 - 0.75 Oz Lemon Juice
-- 1.0 Barspoon Ginger Juice
-- 1.0 Barspoon Rhubarb Juice
-- 1.0 Oz Egg White
+- 1 Barspoon Ginger Juice
+- 1 Barspoon Rhubarb Juice
+- 1 Oz Egg White
 
 Garnish:
 
@@ -6094,13 +6094,13 @@ Dry shake ingredients. Then add ice and shake until chilled. Double strain into 
 Ingredients:
 
 - 0.5 Oz Bourbon
-- 1.0 Oz Gin
+- 1 Oz Gin
 - 0.5 Oz Cardamaro
 - 0.5 Oz Mezcal
 - 0.75 Oz Lavender Honey
 - 0.75 Oz Lemon Juice
-- 1.0 Barspoon Yuzu Juice
-- 3.0 Dashes Absinthe
+- 1 Barspoon Yuzu Juice
+- 3 Dashes Absinthe
 
 Garnish:
 
@@ -6128,9 +6128,9 @@ Shake and strain into chilled cocktail glass. Garnish with lavender sprig.
 
 Ingredients:
 
-- 1.0 Oz Double Rye
+- 1 Oz Double Rye
 - 0.5 Oz Gin
-- 1.0 Oz Lychee Vanilla Syrup
+- 1 Oz Lychee Vanilla Syrup
 - 0.5 Oz Osmanthus Tea
 - 0.25 Oz Coconut Vinegar
 - 0.25 Oz Monetenegro
@@ -6169,8 +6169,8 @@ Ingredients:
 - 0.25 Oz Banane Du Bresil
 - 0.25 Oz Vanilla Syrup
 - 1.5 Oz Cold Brew
-- 1.0 Barspoon Yellow Chartreuse
-- 1.0 Dash Mole Bitters
+- 1 Barspoon Yellow Chartreuse
+- 1 Dash Mole Bitters
 
 Garnish:
 
@@ -6199,13 +6199,13 @@ Shake and double strain into chilled coupe.
 Ingredients:
 
 - 0.5 Oz Double Rye
-- 1.0 Oz Gin
+- 1 Oz Gin
 - 0.5 Oz Strega
 - 0.25 Oz Mezcal
 - 0.25 Oz Basil Eau D Vie
 - 0.5 Oz Lime Juice
 - 0.25 Oz Yuzu Juice
-- 1.0 Oz Tomatillo Syrup
+- 1 Oz Tomatillo Syrup
 
 Garnish:
 
@@ -6234,11 +6234,11 @@ Shake and double strain into chilled wine glass with cubed ice. Top with half so
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 1.0 Oz Pineapple Infused Ron Zacapa
+- 1 Oz Pineapple Infused Ron Zacapa
 - 0.25 Oz Jasmine Syrup
 - 0.25 Oz Cacao Infused Campari
 - 0.25 Oz Amontillado Sherry
-- 3.0 Dashes Seeker Bitters
+- 3 Dashes Seeker Bitters
 
 Garnish:
 
@@ -6273,8 +6273,8 @@ Ingredients:
 - 0.75 Oz Lime Juice
 - 0.5 Oz Montenegro
 - 0.25 Oz Amontillado Sherry
-- 5.0 Leaves Thai Basil
-- 3.0 Dashes Hops Tincture
+- 5 Leaves Thai Basil
+- 3 Dashes Hops Tincture
 
 Garnish:
 
@@ -6315,7 +6315,7 @@ Ingredients:
 - 0.5 Oz Orgeat
 - 0.5 Oz Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)
 - 0.75 Oz Lime Juice
-- 1.0 Barspoon Yuzu Juice
+- 1 Barspoon Yuzu Juice
 
 Garnish:
 
