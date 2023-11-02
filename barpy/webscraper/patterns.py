@@ -307,7 +307,16 @@ class Patterns():
         return re.sub(
             pattern=pattern,
             repl='',
-            string=str(s),
+            string=re.sub(
+                pattern=r'\b(%s)\b' % (
+                    '|'.join(
+                        Patterns.Garnishes.filtr
+                    )
+                ),
+                repl='',
+                string=str(s),
+                flags=re.IGNORECASE
+            ),
             flags=re.IGNORECASE
         ).strip().replace('  ', ' ')
 
@@ -801,17 +810,26 @@ class Patterns():
             r'^GARNSIH WITH ',
             r'^FINISH WITH ',
             r'^SPRITZ WITH ',
-            r'^EXPRESS WITH '
+            r'^EXPRESS WITH ',
+            r'^EXPRESS ',
+            r'^AND SPRINKLE '
         ]
 
         as_phrase = [
-            r' OVER THE DRINK BEFORE SERVING$',
             r' TO GARNISH$',
             r'^TOP WITH ',
             r'^TOP OFF WITH',
             r'^TOP UP WITH',
             r' GARNISH$',
             r' GARNISH\.$'
+        ]
+
+        filtr = [
+            r'OVER THE DRINK BEFORE SERVING',
+            r'ON TOP',
+            r'THE',
+            r'A',
+            r'AN'
         ]
 
         def all():

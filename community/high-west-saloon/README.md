@@ -92,7 +92,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist and jasmine pearls
+- Lemon twist and jasmine pearls
 
 Glass:
 
@@ -126,7 +126,7 @@ Ingredients:
 
 Garnish:
 
-- Grated nutmeg and a mint leaf
+- Grated nutmeg and mint leaf
 
 Glass:
 
@@ -159,7 +159,7 @@ Ingredients:
 
 Garnish:
 
-- An orange zest
+- Orange zest
 
 Glass:
 
@@ -194,7 +194,7 @@ Ingredients:
 
 Garnish:
 
-- A rosemary sprig
+- Rosemary sprig
 
 Glass:
 
@@ -228,7 +228,7 @@ Ingredients:
 
 Garnish:
 
-- A blood orange
+- Blood orange
 
 Glass:
 
@@ -266,7 +266,7 @@ Ingredients:
 
 Garnish:
 
-- An apricot
+- Apricot
 
 Glass:
 
@@ -371,7 +371,7 @@ Ingredients:
 
 Garnish:
 
-- A blood orange
+- Blood orange
 
 Glass:
 
@@ -405,7 +405,7 @@ Ingredients:
 
 Garnish:
 
-- A piece of candied ginger
+- Piece of candied ginger
 
 Glass:
 
@@ -438,7 +438,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -474,7 +474,7 @@ Ingredients:
 
 Garnish:
 
-- A pineapple wedge
+- Pineapple wedge
 
 Glass:
 
@@ -504,7 +504,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -535,7 +535,7 @@ Ingredients:
 
 Garnish:
 
-- A lime wedge
+- Lime wedge
 
 Glass:
 
@@ -563,7 +563,7 @@ Ingredients:
 
 Garnish:
 
-- An orange and lemon twist
+- Orange and lemon twist
 
 Glass:
 
@@ -657,7 +657,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist
+- Orange twist
 
 Glass:
 
@@ -688,7 +688,7 @@ Ingredients:
 
 Garnish:
 
-- A cinnamon stick
+- Cinnamon stick
 
 Glass:
 
@@ -720,7 +720,7 @@ Ingredients:
 
 Garnish:
 
-- A lime wheel
+- Lime wheel
 
 Glass:
 
@@ -752,7 +752,7 @@ Ingredients:
 
 Garnish:
 
-- An orange peel
+- Orange peel
 
 Glass:
 
@@ -872,7 +872,7 @@ Ingredients:
 
 Garnish:
 
-- A mint sprig and lemon wedge
+- Mint sprig and lemon wedge
 
 Glass:
 
@@ -966,7 +966,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist.watch a tutorial
+- Lemon twist.watch tutorial
 
 Glass:
 
@@ -997,7 +997,7 @@ Ingredients:
 
 Garnish:
 
-- A flamed lemon peel
+- Flamed lemon peel
 
 Glass:
 
@@ -1031,7 +1031,7 @@ Ingredients:
 
 Garnish:
 
-- An orange peel
+- Orange peel
 
 Glass:
 
@@ -1066,7 +1066,7 @@ Ingredients:
 
 Garnish:
 
-- None
+- Orange peel
 
 Glass:
 
@@ -1155,7 +1155,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -1275,7 +1275,7 @@ Ingredients:
 
 Garnish:
 
-- A lime wedge
+- Lime wedge
 
 Glass:
 
@@ -1311,7 +1311,7 @@ Ingredients:
 
 Garnish:
 
-- A lime wheel
+- Lime wheel
 
 Glass:
 
@@ -1346,7 +1346,7 @@ Ingredients:
 
 Garnish:
 
-- A strawberry
+- Strawberry
 
 Glass:
 
@@ -1379,7 +1379,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon wheel
+- Lemon wheel
 
 Glass:
 
@@ -1416,7 +1416,7 @@ Ingredients:
 
 Garnish:
 
-- A strawberry
+- Strawberry
 
 Glass:
 
@@ -1443,7 +1443,7 @@ Ingredients:
 
 Garnish:
 
-- A fresh mint sprig
+- Fresh mint sprig
 
 Glass:
 
@@ -1530,7 +1530,7 @@ Ingredients:
 
 Garnish:
 
-- Marigolds, grated nutmeg, and a rosemary sprig
+- Marigolds, grated nutmeg, and rosemary sprig
 
 Glass:
 
@@ -1636,7 +1636,7 @@ Ingredients:
 
 Garnish:
 
-- Lychee candy on a clothespin
+- Lychee candy on clothespin
 
 Glass:
 
@@ -1706,7 +1706,7 @@ Ingredients:
 
 Garnish:
 
-- A shiso leaf
+- Shiso leaf
 
 Glass:
 
@@ -1739,7 +1739,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon peel
+- Lemon peel
 
 Glass:
 
@@ -1853,7 +1853,7 @@ Ingredients:
 
 Garnish:
 
-- A mint sprig
+- Mint sprig
 
 Glass:
 
@@ -1888,7 +1888,7 @@ Ingredients:
 
 Garnish:
 
-- A long lemon twist
+- Long lemon twist
 
 Glass:
 
@@ -1921,7 +1921,7 @@ Ingredients:
 
 Garnish:
 
-- An orchid flower
+- Orchid flower
 
 Glass:
 
@@ -1988,7 +1988,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -2022,7 +2022,7 @@ Ingredients:
 
 Garnish:
 
-- A sage leaf
+- Sage leaf
 
 Glass:
 
@@ -2118,7 +2118,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon peel and chamomile flowers
+- Lemon peel and chamomile flowers
 
 Glass:
 
@@ -2352,7 +2352,7 @@ Ingredients:
 
 Garnish:
 
-- Chilled club soda and garnish with a fig
+- Chilled club soda and garnish with fig
 
 Glass:
 
@@ -2416,7 +2416,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist
+- Orange twist
 
 Glass:
 
@@ -2478,7 +2478,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist wrapped around branded cherries
+- Orange twist wrapped around branded cherries
 
 Glass:
 
@@ -2515,7 +2515,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -2580,7 +2580,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist
+- Orange twist
 
 Glass:
 
@@ -2609,7 +2609,7 @@ Ingredients:
 
 Garnish:
 
-- An orange peel
+- Orange peel
 
 Glass:
 
@@ -2802,7 +2802,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist
+- Orange twist
 
 Glass:
 
@@ -2834,7 +2834,7 @@ Ingredients:
 
 Garnish:
 
-- The brulee rosemary sprig
+- Brulee rosemary sprig
 
 Glass:
 
@@ -2902,7 +2902,7 @@ Ingredients:
 
 Garnish:
 
-- An orange wheel
+- Orange wheel
 
 Glass:
 
@@ -2935,7 +2935,7 @@ Ingredients:
 
 Garnish:
 
-- A grapefruit twist
+- Grapefruit twist
 
 Glass:
 
@@ -2969,7 +2969,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon wheel
+- Lemon wheel
 
 Glass:
 
@@ -3002,7 +3002,7 @@ Ingredients:
 
 Garnish:
 
-- A pinch of chinese 5 spice and a mint sprig
+- Pinch of chinese 5 spice and mint sprig
 
 Glass:
 
@@ -3071,7 +3071,7 @@ Ingredients:
 
 Garnish:
 
-- A pineapple wedge
+- Pineapple wedge
 
 Glass:
 
@@ -3141,7 +3141,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist and star anise
+- Orange twist and star anise
 
 Glass:
 
@@ -3207,7 +3207,7 @@ Ingredients:
 
 Garnish:
 
-- Kombucha and garnish with a rosemary sprig
+- Kombucha and garnish with rosemary sprig
 
 Glass:
 
@@ -3308,7 +3308,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -3342,7 +3342,7 @@ Ingredients:
 
 Garnish:
 
-- A mint sprig
+- Mint sprig
 
 Glass:
 
@@ -3375,7 +3375,7 @@ Ingredients:
 
 Garnish:
 
-- A lime wheel
+- Lime wheel
 
 Glass:
 
@@ -3410,7 +3410,7 @@ Ingredients:
 
 Garnish:
 
-- A dried chipotle chili
+- Dried chipotle chili
 
 Glass:
 
@@ -3512,7 +3512,7 @@ Ingredients:
 
 Garnish:
 
-- A cucumber slice
+- Cucumber slice
 
 Glass:
 
@@ -3615,7 +3615,7 @@ Ingredients:
 
 Garnish:
 
-- An orange twist
+- Orange twist
 
 Glass:
 
@@ -3649,7 +3649,7 @@ Ingredients:
 
 Garnish:
 
-- A basil leaf
+- Basil leaf
 
 Glass:
 
@@ -3684,7 +3684,7 @@ Ingredients:
 
 Garnish:
 
-- A mint sprig
+- Mint sprig
 
 Glass:
 
@@ -3821,7 +3821,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -3854,7 +3854,7 @@ Ingredients:
 
 Garnish:
 
-- A grapefruit twist
+- Grapefruit twist
 
 Glass:
 
@@ -3952,7 +3952,7 @@ Ingredients:
 
 Garnish:
 
-- A mint sprig
+- Mint sprig
 
 Glass:
 
@@ -3985,7 +3985,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist wrapped around brandied cherries
+- Lemon twist wrapped around brandied cherries
 
 Glass:
 
@@ -4122,7 +4122,7 @@ Ingredients:
 
 Garnish:
 
-- A mint leaf
+- Mint leaf
 
 Glass:
 
@@ -4223,7 +4223,7 @@ Ingredients:
 
 Garnish:
 
-- A flamed orange twist
+- Flamed orange twist
 
 Glass:
 
@@ -4258,7 +4258,7 @@ Ingredients:
 
 Garnish:
 
-- A grapefruit twist
+- Grapefruit twist
 
 Glass:
 
@@ -4360,7 +4360,7 @@ Ingredients:
 
 Garnish:
 
-- Jasmine pearls float and a lemon twist
+- Jasmine pearls float and lemon twist
 
 Glass:
 
@@ -4426,7 +4426,7 @@ Ingredients:
 
 Garnish:
 
-- A fresh raspberry
+- Fresh raspberry
 
 Glass:
 
@@ -4590,7 +4590,7 @@ Ingredients:
 
 Garnish:
 
-- A pineapple slice
+- Pineapple slice
 
 Glass:
 
@@ -4682,7 +4682,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon wheel
+- Lemon wheel
 
 Glass:
 
@@ -4714,7 +4714,7 @@ Ingredients:
 
 Garnish:
 
-- An orange and lemon twist
+- Orange and lemon twist
 
 Glass:
 
@@ -4748,7 +4748,7 @@ Ingredients:
 
 Garnish:
 
-- An grapefruit twist
+- Grapefruit twist
 
 Glass:
 
@@ -4782,7 +4782,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon twist
+- Lemon twist
 
 Glass:
 
@@ -4814,7 +4814,7 @@ Ingredients:
 
 Garnish:
 
-- An orange and lemon twist
+- Orange and lemon twist
 
 Glass:
 
@@ -5008,7 +5008,7 @@ Ingredients:
 
 Garnish:
 
-- A blood orange wheel
+- Blood orange wheel
 
 Glass:
 
@@ -5040,7 +5040,7 @@ Ingredients:
 
 Garnish:
 
-- A thyme sprig
+- Thyme sprig
 
 Glass:
 
@@ -5074,7 +5074,7 @@ Ingredients:
 
 Garnish:
 
-- A star anise
+- Star anise
 
 Glass:
 
@@ -5107,7 +5107,7 @@ Ingredients:
 
 Garnish:
 
-- An orange zest
+- Orange zest
 
 Glass:
 
@@ -5140,7 +5140,7 @@ Ingredients:
 
 Garnish:
 
-- Express a lemon twist over the drink to
+- Lemon twist over drink to garnish
 
 Glass:
 
@@ -5208,7 +5208,7 @@ Ingredients:
 
 Garnish:
 
-- A bright red maraschino cherry
+- Bright red maraschino cherry
 
 Glass:
 
@@ -5243,7 +5243,7 @@ Ingredients:
 
 Garnish:
 
-- A pineapple frond
+- Pineapple frond
 
 Glass:
 
@@ -5277,7 +5277,7 @@ Ingredients:
 
 Garnish:
 
-- An edible orchid
+- Edible orchid
 
 Glass:
 
@@ -5336,7 +5336,7 @@ Ingredients:
 
 Garnish:
 
-- A fresh curry leaf
+- Fresh curry leaf
 
 Glass:
 
@@ -5426,7 +5426,7 @@ Ingredients:
 
 Garnish:
 
-- Honey mascarpone foam
+- Flakey salt
 
 Glass:
 
@@ -5713,7 +5713,7 @@ Ingredients:
 
 Garnish:
 
-- A bruleed banana
+- Bruleed banana
 
 Glass:
 
@@ -5749,7 +5749,7 @@ Ingredients:
 
 Garnish:
 
-- An orange peel
+- Orange peel
 
 Glass:
 
@@ -5964,7 +5964,7 @@ Ingredients:
 
 Garnish:
 
-- Marigolds, grated nutmeg, and a rosemary sprig
+- Marigolds, grated nutmeg, and rosemary sprig
 
 Glass:
 
@@ -6139,7 +6139,7 @@ Ingredients:
 
 Garnish:
 
-- Lychee candy on a clothespin
+- Lychee candy on clothespin
 
 Glass:
 
@@ -6209,7 +6209,7 @@ Ingredients:
 
 Garnish:
 
-- A shiso leaf
+- Shiso leaf
 
 Glass:
 
@@ -6242,7 +6242,7 @@ Ingredients:
 
 Garnish:
 
-- A lemon peel
+- Lemon peel
 
 Glass:
 
