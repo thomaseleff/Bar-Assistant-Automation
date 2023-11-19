@@ -5,7 +5,7 @@ Name        : patterns.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : ~
+Revised on  : 2023-11-19
 
 Description
 ---------------------------------------------------------------------
@@ -33,6 +33,19 @@ class Patterns():
                 Patterns.ingredients_unit_start(),
                 Patterns.ingredients_missing_unit()
             ])
+        )
+
+    def egg_ingredients():
+        """
+        Description
+        ---------------------------------------------------------------------
+        Compiles all regex-patterns for cocktail ingredients.
+        """
+
+        return r'(^%s)' % (
+            '|'.join(
+                [r'\b'+i+r'\b' for i in Patterns.Eggs.all()]
+            )
         )
 
     def ingredients_amount_start():
@@ -189,6 +202,33 @@ class Patterns():
         )
 
     # Cocktail attribute extraction function(s)
+    def extract_ingredient_defaults(
+        pattern,
+        s,
+        lookup
+    ):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        pattern                 = <str> Regex-pattern
+        s                       = <str> String to search
+        lookup                  = <dict> Dictionary of default ingredient
+                                    amounts, units and names
+
+        Description
+        ---------------------------------------------------------------------
+        Returns the default ingredient amount, units and name that matches
+        {pattern} from {s} within {lookup}.
+        """
+
+        return lookup[
+            re.search(
+                pattern=pattern,
+                string=s,
+                flags=re.IGNORECASE
+            ).group(0).upper()
+        ]
+
     def extract_amount(
         pattern,
         s
@@ -696,6 +736,34 @@ class Patterns():
             """
             return Patterns.Ingredients.ingredients
 
+    class Eggs():
+        
+        eggs = {
+            'EGG WHITE': {
+                'amount': 1,
+                'units': 'WHOLE',
+                'name': 'EGG WHITE'
+            },
+            'EGG YOLK': {
+                'amount': 1,
+                'units': 'WHOLE',
+                'name': 'EGG YOLK'
+            },
+            'EGG': {
+                'amount': 1,
+                'units': 'WHOLE',
+                'name': 'EGG'
+            }
+        }
+
+        def all():
+            """
+            Description
+            ---------------------------------------------------------------------
+            Returns all regex-patterns for egg ingredients.
+            """
+            return list(Patterns.Eggs.eggs.keys())
+
     class Fruits():
 
         fruit = [
@@ -809,6 +877,7 @@ class Patterns():
         as_instruction = [
             r'^GARNISH WITH ',
             r'^GARNSIH WITH ',
+            r'^AND GARNISH WITH',
             r'^FINISH WITH ',
             r'^SPRITZ WITH ',
             r'^EXPRESS WITH ',
@@ -862,8 +931,8 @@ class Patterns():
 
         cocktail = [
             'MARTINI',
-            'CHAMPAIGNE GLASS',
-            'CHAMPAIGNE FLUTE',
+            'CHAMPAGNE GLASS',
+            'CHAMPAGNE FLUTE',
             'COUPE GLASS',
             'WINE GLASS',
             'COPPER MUG',

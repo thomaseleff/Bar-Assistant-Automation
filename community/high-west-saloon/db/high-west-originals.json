@@ -386,7 +386,7 @@
         {
             "name": "Little Blossom",
             "source": "https://highwest.com/blogs/recipes/little-blossom",
-            "instructions": "Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.",
+            "instructions": "Combine in glass of your choice and enjoy. Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.",
             "garnish": "Lychee candy on clothespin",
             "description": null,
             "tags": [],
@@ -1334,7 +1334,7 @@
             "garnish": "Orchid flower",
             "description": null,
             "tags": [],
-            "glass": "Champagne",
+            "glass": "Champagne Glass",
             "method": "Shake",
             "images": [
                 {
@@ -1801,7 +1801,7 @@
             "garnish": "Lemon zest and grains of paradise",
             "description": null,
             "tags": [],
-            "glass": "Champagne",
+            "glass": "Champagne Flute",
             "method": "Shake",
             "images": [
                 {
@@ -2386,8 +2386,8 @@
         {
             "name": "Astor Hotel Special",
             "source": "https://highwest.com/blogs/recipes/astor-hotel-special",
-            "instructions": "Egg white\nlemon peel garnish\nadd all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.",
-            "garnish": "Chilled soda",
+            "instructions": "Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.",
+            "garnish": "Lemon peel",
             "description": null,
             "tags": [],
             "glass": "Old Fashioned Glass",
@@ -2453,6 +2453,18 @@
                     "name": "Peychauds Bitters",
                     "amount": 4,
                     "units": "Dashes",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 5,
+                    "name": "Egg White",
+                    "amount": 1,
+                    "units": "Whole",
                     "category": null,
                     "description": null,
                     "strength": null,
@@ -2864,7 +2876,7 @@
             "garnish": "Lemon twist",
             "description": null,
             "tags": [],
-            "glass": "Champagne",
+            "glass": "Champagne Glass",
             "method": "Shake",
             "images": [
                 {
@@ -7910,7 +7922,7 @@
         {
             "name": "Cackleberry Cocktail Recipe",
             "source": "https://highwest.com/blogs/recipes/cackleberry",
-            "instructions": "Egg white\nadd all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.",
+            "instructions": "Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.",
             "garnish": "Microplaned pistachios",
             "description": null,
             "tags": [],
@@ -7989,6 +8001,18 @@
                     "name": "Absinthe",
                     "amount": 1,
                     "units": "Dash",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 6,
+                    "name": "Egg White",
+                    "amount": 1,
+                    "units": "Whole",
                     "category": null,
                     "description": null,
                     "strength": null,
@@ -9675,7 +9699,7 @@
         {
             "name": "Bangtail",
             "source": "https://highwest.com/blogs/recipes/bangtail",
-            "instructions": null,
+            "instructions": "Mix in the glass of your choice and enjoy.",
             "garnish": "None",
             "description": null,
             "tags": [],

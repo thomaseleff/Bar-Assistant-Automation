@@ -2632,8 +2632,8 @@
         {
             "name": "Boulevardier",
             "source": "https://highwest.com/blogs/recipes/boulevardier",
-            "instructions": "Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial",
-            "garnish": "Lemon twist.watch tutorial",
+            "instructions": "Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial download",
+            "garnish": "Lemon twist.watch tutorial download",
             "description": null,
             "tags": [],
             "glass": "Rocks",
@@ -3269,7 +3269,7 @@
         {
             "name": "Vieux Carre",
             "source": "https://highwest.com/blogs/recipes/vieux-carre",
-            "instructions": "Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries.",
+            "instructions": "Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries. Download",
             "garnish": "Brandied cherries",
             "description": null,
             "tags": [],
@@ -3857,145 +3857,6 @@
                     "sort": 5,
                     "name": "Club Soda",
                     "amount": 1.5,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                }
-            ]
-        },
-        {
-            "name": "Alta Ruby",
-            "source": "https://highwest.com/blogs/recipes/alta-ruby",
-            "instructions": "Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.",
-            "garnish": "Strawberry",
-            "description": null,
-            "tags": [],
-            "glass": "Wine Glass",
-            "method": "Shake",
-            "images": [
-                {
-                    "url": "https://highwest.com/cdn/shop/articles/Alta-Ruby1_600x.jpg?v=1680125686",
-                    "copyright": "High West Saloon",
-                    "sort": 0
-                }
-            ],
-            "ingredients": [
-                {
-                    "sort": 0,
-                    "name": "High West Double Rye",
-                    "amount": 1,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 1,
-                    "name": "Aperol",
-                    "amount": 0.5,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 2,
-                    "name": "Banane Du Bresil",
-                    "amount": 0.5,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 3,
-                    "name": "Cinnamon Syrup",
-                    "amount": 0.5,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 4,
-                    "name": "Lemon Juice",
-                    "amount": 0.75,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 5,
-                    "name": "Yuzu Juice",
-                    "amount": 1,
-                    "units": "Barspoon",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 6,
-                    "name": "Fresh Strawberry Juice",
-                    "amount": 1,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 7,
-                    "name": "Absinthe",
-                    "amount": 2,
-                    "units": "Dashes",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 8,
-                    "name": "Prosecco",
-                    "amount": 2,
-                    "units": "Oz",
-                    "category": null,
-                    "description": null,
-                    "strength": null,
-                    "origin": null,
-                    "substitutes": [],
-                    "optional": false
-                },
-                {
-                    "sort": 9,
-                    "name": "Chilled Soda",
-                    "amount": 1,
                     "units": "Oz",
                     "category": null,
                     "description": null,

@@ -5,7 +5,7 @@ Name        : high_west_saloon.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : ~
+Revised on  : 2023-11-19
 
 Description
 ---------------------------------------------------------------------
@@ -63,7 +63,7 @@ class HighWestSaloon(GenericWebscraper):
         self.config['outputs'] = {
             'path': outPath,
             'root': self.metadata['name'].lower().replace(' ', '-'),
-            'subFolders': ['db']
+            'subFolders': ['db', 'html']
         }
 
         # Create output directory
@@ -81,50 +81,11 @@ class HighWestSaloon(GenericWebscraper):
             config={'metadata': self.metadata}
         )
 
-    def create_cocktail_collection(
-        self,
-        name,
-        cocktails,
-        failures=[]
-    ):
-        """
-        Variables
-        ---------------------------------------------------------------------
-        name                    = <str> Name of the cocktail collection
-        cocktails               = <list> List object containing cocktail
-                                    recipe pages.
+        # Create cocktail categories
+        self.categories = self.create_collection_config()
 
-        Description
-        ---------------------------------------------------------------------
-        Creates a High-West Saloon bar cocktail collection.
-        """
-
-        # Create cocktail collection
-        collection = self.Collection(
-            name=name
-        )
-
-        # Add cocktails to cocktail collection
-        for cocktail in cocktails:
-
-            # Create cocktail
-            try:
-                collection.cocktails = collection.cocktails + [
-                    self.parse_cocktail_recipe(
-                        page=cocktail
-                    )
-                ]
-
-                # Compliance
-            except IndexError:
-                failures = failures + [cocktail]
-
-        # Log
-        for f in failures:
-            print('- %s\n' % (f))
-
-        # Return collection
-        return collection
+        # Create html database
+        self.create_html_database()
 
     def create_collection_config(
         self,
@@ -149,43 +110,73 @@ class HighWestSaloon(GenericWebscraper):
             ]
         """
 
-        # Retrieve the cocktail recipe listing page web-object
-        request = requests.get(self.config['base'])
+        # Create cocktail categories
+        if not os.path.isfile(
+            os.path.join(
+                self.config['outputs']['path'],
+                self.config['outputs']['root'],
+                'config.json'
+            )
+        ):
+            
+            # Retrieve the cocktail recipe listing page web-object
+            request = requests.get(self.config['base'])
 
-        if request.status_code == 200:
+            if request.status_code == 200:
 
-            # Parse the html text content
-            text = BeautifulSoup(request.text, 'lxml')
+                # Parse the html text content
+                text = BeautifulSoup(request.text, 'lxml')
 
-            # Parse the cocktail categories into a dictionary
-            for category in text.find(
-                'select',
-                attrs={'class': 'blog-filter'}
-            ).find_all('option'):
+                # Parse the cocktail categories into a dictionary
+                for category in text.find(
+                    'select',
+                    attrs={'class': 'blog-filter'}
+                ).find_all('option'):
 
-                if not category.attrs['value'] == '':
-                    categories[
-                        category.get_text(strip=True)
-                    ] = {
-                        'url': up.urljoin(
-                            'tagged/',
-                            category.attrs['value']
+                    if not category.attrs['value'] == '':
+                        categories[
+                            category.get_text(strip=True)
+                        ] = {
+                            'url': up.urljoin(
+                                'tagged/',
+                                category.attrs['value']
+                            )
+                        }
+
+            else:
+                print('*** ERROR: Failed to request %s.' % (self.config['base']))
+                exit()
+
+            # For each category, parse cocktail names
+            for category in categories.keys():
+
+                categories[category]['path'] = (
+                    self.parse_cocktail_recipe_pages(
+                        url=up.urljoin(
+                            self.config['base'],
+                            categories[category]['url']
                         )
-                    }
+                    )
+                )
+
+            # Output cocktail categories
+            utils.write_config(
+                configLoc=os.path.join(
+                    self.config['outputs']['path'],
+                    self.config['outputs']['root'],
+                    'config.json'
+                ),
+                config=categories
+            )
 
         else:
-            print('*** ERROR: Failed to request %s.' % (self.config['base']))
-            exit()
-
-        # For each category, parse cocktail names
-        for category in categories.keys():
-
-            categories[category]['path'] = (
-                self.parse_cocktail_recipe_pages(
-                    url=up.urljoin(
-                        self.config['base'],
-                        categories[category]['url']
-                    )
+            
+            # Import cocktail categories
+            categories = utils.read_config(
+                configLoc=os.path.join(
+                    self.config['outputs']['path'],
+                    self.config['outputs']['root'],
+                    'config.json'
                 )
             )
 
@@ -253,6 +244,105 @@ class HighWestSaloon(GenericWebscraper):
         # Return the list of cocktail recipe pages
         return pages
 
+    def create_html_database(
+        self,
+        cocktails=[]
+    ):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        cocktails               = <list> Empty list object containing cocktail
+                                    recipe pages.
+        Description
+        ---------------------------------------------------------------------
+        Downloads all High-West Saloon cocktail recipe pages to local html
+        documents.
+        """
+
+        # Create a unique list of all cocktails
+        for category in list(self.categories.keys()):
+            cocktails = cocktails + self.categories[category]['path']
+
+        # Sort and remove duplicates
+        cocktails = sorted(set(cocktails))
+
+        # Create html database
+        for cocktail in cocktails:
+            if not os.path.isfile(
+                os.path.join(
+                    self.config['outputs']['path'],
+                    self.config['outputs']['root'],
+                    'html',
+                    '%s.html' % (cocktail)
+                )
+            ):
+
+                # Retrieve the cocktail recipe page web-object
+                request = requests.get(up.urljoin(self.config['base'], cocktail))
+
+                if request.status_code == 200:
+                    with open(
+                        os.path.join(
+                            self.config['outputs']['path'],
+                            self.config['outputs']['root'],
+                            'html',
+                            '%s.html' % (cocktail)
+                        ),
+                        'wb'
+                    ) as file:
+                        file.write(request.content)
+
+                else:
+                    print('*** ERROR: Failed to request %s.' % (
+                        up.urljoin(self.config['base'], cocktail)
+                    ))
+                    exit()
+
+    def create_cocktail_collection(
+        self,
+        name,
+        cocktails,
+        failures=[]
+    ):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        name                    = <str> Name of the cocktail collection
+        cocktails               = <list> List object containing cocktail
+                                    recipe pages.
+
+        Description
+        ---------------------------------------------------------------------
+        Creates a High-West Saloon bar cocktail collection.
+        """
+
+        # Create cocktail collection
+        collection = self.Collection(
+            name=name
+        )
+
+        # Add cocktails to cocktail collection
+        for cocktail in cocktails:
+
+            # Create cocktail
+            try:
+                collection.cocktails = collection.cocktails + [
+                    self.parse_cocktail_recipe(
+                        page=cocktail
+                    )
+                ]
+
+                # Compliance
+            except IndexError:
+                failures = failures + [cocktail]
+
+        # Log
+        for f in failures:
+            print('- %s\n' % (f))
+
+        # Return collection
+        return collection
+
     def parse_cocktail_recipe(
         self,
         page,
@@ -271,12 +361,18 @@ class HighWestSaloon(GenericWebscraper):
         """
 
         # Retrieve the cocktail recipe page web-object
-        request = requests.get(up.urljoin(self.config['base'], page))
-
-        if request.status_code == 200:
+        with open(
+            os.path.join(
+                self.config['outputs']['path'],
+                self.config['outputs']['root'],
+                'html',
+                '%s.html' % (page)
+            ),
+            'rb'
+        ) as file:
 
             # Parse the html text content
-            text = BeautifulSoup(request.text, 'lxml')
+            text = BeautifulSoup(file.read().decode('utf8'), 'lxml')
 
             # Initialize cocktail
             cocktail = self.Cocktail()
@@ -300,6 +396,17 @@ class HighWestSaloon(GenericWebscraper):
                     'div',
                     attrs={'class': 'p-8 pb-0 blog-desc'}
                 )),
+                remove=[
+                    'IF SHIPPING DOUBLE RYE TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING DOUBLE RYE AND/OR RENDEZVOUS RYE TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING DOUBLE RYE  OR HIGH WEST BOURBON TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING DOUBLE RYE OR HIGH WEST BOURBON TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING DOUBLE RYE OR HIGH WEST BOURBON  TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING RENDEZVOUS RYE TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING HIGH WEST BOURBON TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING CAMPFIRE TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM',
+                    'IF SHIPPING A MIDWINTER NIGHTS DRAM TO CALIFORNIA VIEW PRODUCT AT SHIP.HIGHWEST.COM'
+                ],
                 filtr=[
                     'DOWNLOAD',
                     'WATCH A TUTORIAL',
@@ -351,8 +458,36 @@ class HighWestSaloon(GenericWebscraper):
             for index, line in enumerate(recipe):
                 line = self.cleanse_trailing_period(s=line)
 
-                # Parse ingredient
+                # Parse egg ingredients
                 if Patterns.match(
+                    pattern=Patterns.egg_ingredients(),
+                    s=line
+                ):
+                    defaults = Patterns.extract_ingredient_defaults(
+                        pattern=Patterns.egg_ingredients(),
+                        s=line,
+                        lookup=Patterns.Eggs.eggs
+                    )
+                    cocktail.ingredients = cocktail.ingredients + [
+                        self.Ingredient(
+                            sort=sort,
+                            name=self.title_case(
+                                defaults['name']
+                            ),
+                            amount=self.convert_amount_to_numeric(
+                                defaults['amount']
+                            ),
+                            units=self.title_case(
+                                defaults['units']
+                            )
+                        ).to_dict()
+                    ]
+
+                    # Increment sort
+                    sort += 1
+
+                # Parse all other ingredients
+                elif Patterns.match(
                     pattern=Patterns.all_ingredients(),
                     s=line
                 ):
@@ -446,12 +581,6 @@ class HighWestSaloon(GenericWebscraper):
             ]
 
             return cocktail.to_dict()
-
-        else:
-            print('*** ERROR: Failed to request %s.' % (
-                up.urljoin(self.config['base'], page)
-            ))
-            exit()
 
     def parse_image_url(
         self,

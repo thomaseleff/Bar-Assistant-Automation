@@ -966,7 +966,7 @@ Ingredients:
 
 Garnish:
 
-- Lemon twist.watch tutorial
+- Lemon twist.watch tutorial download
 
 Glass:
 
@@ -978,7 +978,7 @@ Method:
 
 Instructions:
 
-Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial
+Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial download
 
 ---
 
@@ -1196,7 +1196,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries.
+Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries. Download
 
 ---
 
@@ -1392,43 +1392,6 @@ Method:
 Instructions:
 
 Add all ingredients but soda to shaker tin with ice, short shake, strain into a collins glass over swizzle ice. Top with soda, garnish with a lemon wheel.
-
----
-
-### Alta Ruby
-
-- Source: (https://highwest.com/blogs/recipes/alta-ruby)
-
-![High West Saloon](https://highwest.com/cdn/shop/articles/Alta-Ruby1_600x.jpg?v=1680125686)
-
-Ingredients:
-
-- 1 Oz High West Double Rye
-- 0.5 Oz Aperol
-- 0.5 Oz Banane Du Bresil
-- 0.5 Oz Cinnamon Syrup
-- 0.75 Oz Lemon Juice
-- 1 Barspoon Yuzu Juice
-- 1 Oz Fresh Strawberry Juice
-- 2 Dashes Absinthe
-- 2 Oz Prosecco
-- 1 Oz Chilled Soda
-
-Garnish:
-
-- Strawberry
-
-Glass:
-
-- Wine Glass
-
-Method:
-
-- Shake
-
-Instructions:
-
-Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.
 
 ---
 
@@ -1648,7 +1611,7 @@ Method:
 
 Instructions:
 
-Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
+Combine in glass of your choice and enjoy. Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
 
 ---
 
@@ -1925,7 +1888,7 @@ Garnish:
 
 Glass:
 
-- Champagne
+- Champagne Glass
 
 Method:
 
@@ -2089,7 +2052,7 @@ Garnish:
 
 Glass:
 
-- Champagne
+- Champagne Flute
 
 Method:
 
@@ -2313,10 +2276,11 @@ Ingredients:
 - 0.5 Oz Demerara Simple Syrup
 - 0.5 Oz Maraschino Liqueur
 - 4 Dashes Peychauds Bitters
+- 1 Whole Egg White
 
 Garnish:
 
-- Chilled soda
+- Lemon peel
 
 Glass:
 
@@ -2328,9 +2292,7 @@ Method:
 
 Instructions:
 
-Egg white
-lemon peel garnish
-add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.
+Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.
 
 ---
 
@@ -2519,7 +2481,7 @@ Garnish:
 
 Glass:
 
-- Champagne
+- Champagne Glass
 
 Method:
 
@@ -4288,6 +4250,7 @@ Ingredients:
 - 1 Oz Pistachio Simple Syrup
 - 0.75 Oz Fresh Lime Juice
 - 1 Dash Absinthe
+- 1 Whole Egg White
 
 Garnish:
 
@@ -4303,8 +4266,7 @@ Method:
 
 Instructions:
 
-Egg white
-add all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.
 
 ---
 
@@ -4919,6 +4881,10 @@ Garnish:
 
 - None
 
+Instructions:
+
+Mix in the glass of your choice and enjoy.
+
 ---
 
 ### Little Big Man
@@ -5442,6 +5408,43 @@ Shake and double strain into chilled coupe glass, top with honey mascarpone foam
 
 ---
 
+### Alta Ruby
+
+- Source: (https://highwest.com/blogs/recipes/alta-ruby)
+
+![High West Saloon](https://highwest.com/cdn/shop/articles/Alta-Ruby1_770x_efa2a4be-bbc1-4527-a1a6-34e34f7a128a_600x.webp?v=1698949595)
+
+Ingredients:
+
+- 1 Oz High West Double Rye
+- 0.5 Oz Aperol
+- 0.5 Oz Banane Du Bresil
+- 0.5 Oz Cinnamon Syrup
+- 0.75 Oz Lemon Juice
+- 1 Barspoon Yuzu Juice
+- 1 Oz Fresh Strawberry Juice
+- 2 Dashes Absinthe
+- 2 Oz Prosecco
+- 1 Oz Chilled Soda
+
+Garnish:
+
+- Strawberry
+
+Glass:
+
+- Wine Glass
+
+Method:
+
+- Shake
+
+Instructions:
+
+Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.
+
+---
+
 ### Little Wild Horse
 
 - Source: (https://highwest.com/blogs/recipes/little-wild-horse)
@@ -5462,7 +5465,7 @@ Ingredients:
 
 Garnish:
 
-- Dried pina flower
+- Dried pina flower and sage leaf
 
 Glass:
 
@@ -5566,6 +5569,7 @@ Ingredients:
 - 1 Oz Matcha Syrup (Recipe Below)
 - 1 Barspoon Creme De Cacao
 - 3 Dash Chocolate Bitters
+- 1 Whole Egg White
 
 Garnish:
 
@@ -5577,8 +5581,7 @@ Method:
 
 Instructions:
 
-Egg white
-shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup
+Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup
 1 cup sugar
 1 cup water
 2 spoon matcha
@@ -6147,7 +6150,7 @@ Method:
 
 Instructions:
 
-Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
+Combine in glass of your choice and enjoy. Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
 
 ---
 

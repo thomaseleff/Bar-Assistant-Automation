@@ -70,10 +70,149 @@
             ]
         },
         {
+            "name": "Alta Ruby",
+            "source": "https://highwest.com/blogs/recipes/alta-ruby",
+            "instructions": "Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.",
+            "garnish": "Strawberry",
+            "description": null,
+            "tags": [],
+            "glass": "Wine Glass",
+            "method": "Shake",
+            "images": [
+                {
+                    "url": "https://highwest.com/cdn/shop/articles/Alta-Ruby1_770x_efa2a4be-bbc1-4527-a1a6-34e34f7a128a_600x.webp?v=1698949595",
+                    "copyright": "High West Saloon",
+                    "sort": 0
+                }
+            ],
+            "ingredients": [
+                {
+                    "sort": 0,
+                    "name": "High West Double Rye",
+                    "amount": 1,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 1,
+                    "name": "Aperol",
+                    "amount": 0.5,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 2,
+                    "name": "Banane Du Bresil",
+                    "amount": 0.5,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 3,
+                    "name": "Cinnamon Syrup",
+                    "amount": 0.5,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 4,
+                    "name": "Lemon Juice",
+                    "amount": 0.75,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 5,
+                    "name": "Yuzu Juice",
+                    "amount": 1,
+                    "units": "Barspoon",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 6,
+                    "name": "Fresh Strawberry Juice",
+                    "amount": 1,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 7,
+                    "name": "Absinthe",
+                    "amount": 2,
+                    "units": "Dashes",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 8,
+                    "name": "Prosecco",
+                    "amount": 2,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 9,
+                    "name": "Chilled Soda",
+                    "amount": 1,
+                    "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                }
+            ]
+        },
+        {
             "name": "Little Wild Horse",
             "source": "https://highwest.com/blogs/recipes/little-wild-horse",
             "instructions": "Smoke sage under upside cocktail glass. While smoking, stir ingredients in mixing glass with cubed ice. Turn cocktail glass right-side up and fill with fresh cubed ice. Strain missing glass, and garnish with dried pina flower and sage leaf.",
-            "garnish": "Dried pina flower",
+            "garnish": "Dried pina flower and sage leaf",
             "description": null,
             "tags": [],
             "glass": "Cocktail",
@@ -429,7 +568,7 @@
         {
             "name": "Eagle Nest",
             "source": "https://highwest.com/blogs/recipes/eagle-nest",
-            "instructions": "Egg white\nshake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup\n1 cup sugar\n1 cup water\n2 spoon matcha\ncombine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.",
+            "instructions": "Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup\n1 cup sugar\n1 cup water\n2 spoon matcha\ncombine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.",
             "garnish": "Absinthe",
             "description": null,
             "tags": [],
@@ -556,6 +695,18 @@
                     "name": "Chocolate Bitters",
                     "amount": 3,
                     "units": "Dash",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 10,
+                    "name": "Egg White",
+                    "amount": 1,
+                    "units": "Whole",
                     "category": null,
                     "description": null,
                     "strength": null,

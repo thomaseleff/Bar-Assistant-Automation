@@ -61,7 +61,6 @@
             "forty-drops",
             "heyduke",
             "prospectors-elixir",
-            "alta-ruby",
             "whiskey-lemonade",
             "whiskey-sour"
         ]
@@ -192,6 +191,7 @@
         "url": "tagged/cat-saloon-menu",
         "path": [
             "battle-creek",
+            "alta-ruby",
             "little-wild-horse",
             "m-m",
             "silver-star",

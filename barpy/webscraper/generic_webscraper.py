@@ -5,7 +5,7 @@ Name        : generic_webscraper.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : ~
+Revised on  : 2023-11-19
 
 Description
 ---------------------------------------------------------------------
@@ -303,6 +303,7 @@ class GenericWebscraper(object):
     def split_lines(
         self,
         text,
+        remove=False,
         filtr=False
     ):
         """
@@ -310,6 +311,9 @@ class GenericWebscraper(object):
         ---------------------------------------------------------------------
         text                    = <str> Recipe text converted from the HTML
                                     request
+        remove                  = <list> List of substrings, where if found
+                                    in any line of the {recipe}, remove that
+                                    substring from that line of the {recipe}.
         filtr                   = <list> List of strings, where if found in
                                     any line of the {recipe}, remove that
                                     line from the {recipe}.
@@ -317,7 +321,7 @@ class GenericWebscraper(object):
         Description
         ---------------------------------------------------------------------
         Applies cleansing to the {recipe} text and converts it to a list of
-        ingredients and instructions.
+        ingredients, garnishes and instructions.
         """
 
         # Cleanse recipe text and split-lines
@@ -327,6 +331,10 @@ class GenericWebscraper(object):
         lst = self.cleanse_html_tags_from_list(lst=lst)
         lst = self.cleanse_leading_and_trailing_from_list(lst=lst)
         lst = self.cleanse_empty_lines_from_list(lst=lst)
+
+        # Remove unwanted substrings
+        if remove:
+            lst = self.remove_unwanted_phrases(lst=lst, remove=remove)
 
         # Filter recipe split-lines
         if filtr:
@@ -378,7 +386,7 @@ class GenericWebscraper(object):
             'NFKD',
             str(s)
         ).replace('⁄', '/').encode(
-            'latin-1',
+            'ascii',
             'ignore'
         ).decode('utf-8')
 
@@ -562,6 +570,32 @@ class GenericWebscraper(object):
         """
 
         return [line for line in lst if line]
+
+    def remove_unwanted_phrases(self, lst, remove):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        lst                     = <list> List to filter
+        remove                  = <list> List of substrings, where if found
+                                    in any line of the {recipe}, remove that
+                                    substring from that line of the {recipe}.
+
+        Description
+        ---------------------------------------------------------------------
+        Removes any substring in any item in {list} that contains any
+        substring in {remove}.
+        """
+
+        return [
+            re.sub(
+                pattern=r'(%s)' % (
+                    '|'.join(remove)
+                ),
+                repl='',
+                string=line,
+                flags=re.IGNORECASE
+            ) for line in lst
+        ]
 
     def filter_unwanted_phrases(self, lst, filtr):
         """
