@@ -21,7 +21,7 @@
             "ingredients": [
                 {
                     "sort": 0,
-                    "name": "5. Double Rye",
+                    "name": "Double Rye",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -57,7 +57,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "33. Fino Sherry",
+                    "name": "Fino Sherry",
                     "amount": 0.33,
                     "units": "Oz",
                     "category": null,
@@ -69,7 +69,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "5. Pina Rosemary Marigold Cordial",
+                    "name": "Pina Rosemary Marigold Cordial",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -105,7 +105,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "33. Neisson Rhum Agricole",
+                    "name": "Neisson Rhum Agricole",
                     "amount": 0.33,
                     "units": "Oz",
                     "category": null,
@@ -117,7 +117,7 @@
                 },
                 {
                     "sort": 8,
-                    "name": "5. Hamilton 86 Guyana Rum",
+                    "name": "Hamilton 86 Guyana Rum",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1080,7 +1080,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Agony Housemade Syrup (Recipe Below)",
+                    "name": "Agony Housemade Syrup",
                     "amount": 0.75,
                     "units": "Oz",
                     "category": null,
@@ -1255,11 +1255,11 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)",
+                    "name": "Vanilla Syrup",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
-                    "description": null,
+                    "description": "1part sugar, 1 part water, 3 vanilla beans steeped for 24 hours",
                     "strength": null,
                     "origin": null,
                     "substitutes": [],

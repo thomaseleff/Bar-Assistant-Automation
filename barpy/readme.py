@@ -5,7 +5,7 @@ Name        : readme.py
 Location    : ~/barpy/
 Author      : Tom Eleff
 Published   : 2023-10-16
-Revised on  : ~
+Revised on  : 2023-11-21
 
 Description
 ---------------------------------------------------------------------
@@ -76,6 +76,36 @@ class Write():
         ))
         self.write_line(string='\n')
 
+        # Write collection navigation
+        self.write_line(
+            string='## %s\n' % ('Cocktail Collections')
+        )
+        self.write_line(string='\n')
+        for file in [collection for collection in os.listdir(
+            os.path.join(
+                self.rmLoc,
+                'db'
+            )
+        ) if collection.split('.')[-1].strip().upper() == 'JSON']:
+
+            config = utils.read_config(
+                configLoc=os.path.join(
+                    self.rmLoc,
+                    'db',
+                    file
+                )
+            )
+
+            # Write collection navigation
+            self.write_line(
+                string='- [%s](#%s)\n' % (
+                    config['name'],
+                    config['name'].replace(' ', '-').lower()
+                )
+            )
+        self.write_line(string='\n')
+
+        # Write collection
         for file in [collection for collection in os.listdir(
             os.path.join(
                 self.rmLoc,

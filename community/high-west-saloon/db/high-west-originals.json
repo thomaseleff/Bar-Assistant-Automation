@@ -21,7 +21,7 @@
             "ingredients": [
                 {
                     "sort": 0,
-                    "name": "5. Double Rye",
+                    "name": "Double Rye",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -57,7 +57,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "33. Fino Sherry",
+                    "name": "Fino Sherry",
                     "amount": 0.33,
                     "units": "Oz",
                     "category": null,
@@ -69,7 +69,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "5. Pina Rosemary Marigold Cordial",
+                    "name": "Pina Rosemary Marigold Cordial",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -105,7 +105,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "33. Neisson Rhum Agricole",
+                    "name": "Neisson Rhum Agricole",
                     "amount": 0.33,
                     "units": "Oz",
                     "category": null,
@@ -117,7 +117,7 @@
                 },
                 {
                     "sort": 8,
-                    "name": "5. Hamilton 86 Guyana Rum",
+                    "name": "Hamilton 86 Guyana Rum",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -862,7 +862,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Agony Housemade Syrup (Recipe Below)",
+                    "name": "Agony Housemade Syrup",
                     "amount": 0.75,
                     "units": "Oz",
                     "category": null,
@@ -1037,11 +1037,11 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)",
+                    "name": "Vanilla Syrup",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
-                    "description": null,
+                    "description": "1part sugar, 1 part water, 3 vanilla beans steeped for 24 hours",
                     "strength": null,
                     "origin": null,
                     "substitutes": [],
@@ -3166,7 +3166,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Lagavulin 16 Year",
+                    "name": "Lagavulin 6 Year",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -4332,7 +4332,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "High West Spiced Syrup (See Whiskey Lemonade For Recipe)",
+                    "name": "High West Spiced Syrup",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -7070,7 +7070,7 @@
                     "optional": false
                 },
                 {
-                    "sort": 6,
+                    "sort": 5,
                     "name": "Absinthe",
                     "amount": 0.25,
                     "units": "Oz",
@@ -9311,7 +9311,7 @@
         {
             "name": "The Waco Kid Cocktail Recipe",
             "source": "https://highwest.com/blogs/recipes/the-waco-kid",
-            "instructions": "Absinthe rinse\nadd all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.",
+            "instructions": "Add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.",
             "garnish": "Lemon twist",
             "description": null,
             "tags": [],
@@ -10396,7 +10396,7 @@
         {
             "name": "Timbimboo",
             "source": "https://highwest.com/blogs/recipes/timbimboo",
-            "instructions": "Absinthe rinse\nchill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.",
+            "instructions": "Chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.",
             "garnish": "Lemon twist over drink to garnish",
             "description": null,
             "tags": [],
@@ -10472,11 +10472,11 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Timbimboo Bitters (Equal Parts Elemankule , Peychaud's , Angostura)",
+                    "name": "Timbimboo Bitters",
                     "amount": 3,
                     "units": "Dashes",
                     "category": null,
-                    "description": null,
+                    "description": "Equal parts elemankule, peychaud's, angostura",
                     "strength": null,
                     "origin": null,
                     "substitutes": [],
@@ -10781,7 +10781,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "1.5 Oz Soda Water",
+                    "name": "Soda Water",
                     "amount": 1.5,
                     "units": "Oz",
                     "category": null,
@@ -11030,11 +11030,11 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Saline Solution (1:5)",
+                    "name": "Saline Solution",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
-                    "description": null,
+                    "description": "1:5",
                     "strength": null,
                     "origin": null,
                     "substitutes": [],
@@ -11045,12 +11045,12 @@
         {
             "name": "Off The Wagon",
             "source": "https://highwest.com/blogs/recipes/off-the-wagon-1",
-            "instructions": null,
-            "garnish": "None",
+            "instructions": "Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnish with a pineapple wedge.",
+            "garnish": "Pineapple wedge",
             "description": null,
             "tags": [],
-            "glass": null,
-            "method": null,
+            "glass": "Old Fashioned Glass",
+            "method": "Shake",
             "images": [
                 {
                     "url": "https://highwest.com/cdn/shop/articles/Off-The-Wagon_626f8a62-5a53-40e7-8b87-2322d6524d97_600x.jpg?v=1679923165",
@@ -11157,9 +11157,9 @@
                 },
                 {
                     "sort": 8,
-                    "name": "Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge",
+                    "name": "Golden Sour Ale",
                     "amount": 1,
-                    "units": "Top With",
+                    "units": "Oz",
                     "category": null,
                     "description": null,
                     "strength": null,

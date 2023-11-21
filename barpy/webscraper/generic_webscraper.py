@@ -5,7 +5,7 @@ Name        : generic_webscraper.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-19
+Revised on  : 2023-11-21
 
 Description
 ---------------------------------------------------------------------
@@ -330,15 +330,17 @@ class GenericWebscraper(object):
         # Cleanse recipe split-lines
         lst = self.cleanse_html_tags_from_list(lst=lst)
         lst = self.cleanse_leading_and_trailing_from_list(lst=lst)
-        lst = self.cleanse_empty_lines_from_list(lst=lst)
 
         # Remove unwanted substrings
         if remove:
             lst = self.remove_unwanted_phrases(lst=lst, remove=remove)
 
-        # Filter recipe split-lines
+        # Filter unwanted phrases
         if filtr:
             lst = self.filter_unwanted_phrases(lst=lst, filtr=filtr)
+
+        # Cleanse empty lines after cleansing & filtering
+        lst = self.cleanse_empty_lines_from_list(lst=lst)
 
         return lst
 
@@ -428,7 +430,7 @@ class GenericWebscraper(object):
         """
 
         return re.sub(
-            '\n|<br([A-Za-z0-9 -=\"\'/]|)+>',
+            '\n|<br([A-Za-z0-9 -=\"\'/]|)+>|</p><p>',
             '|',
             str(s)
         )
@@ -526,10 +528,59 @@ class GenericWebscraper(object):
 
         Description
         ---------------------------------------------------------------------
-        Cleanses {s} of any leading or trailing periods.
+        Cleanses {s} of any trailing periods.
         """
 
         return re.sub(r'(\.$)', '', str(s).strip()).strip()
+    
+    def cleanse_trailing_parentheses(self, s):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        s                       = <str> String to cleanse
+
+        Description
+        ---------------------------------------------------------------------
+        Cleanses {s} of any trailing parentheses.
+        """
+
+        return re.sub(r'(\)$)', '', str(s).strip()).strip()
+    
+    def cleanse_ingredient_with_recipe(
+        self, 
+        s,
+        filtr=False
+    ):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        s                       = <str> String to cleanse
+
+        Description
+        ---------------------------------------------------------------------
+        Cleanses {s} of any instructions following the ingredient.
+        """
+
+        # Parse ingredient into parts
+        lst = str(s).split(' (')
+        name = lst[0]
+        instructions = ''.join(lst[1:])
+
+        # Remove trailing parentheses
+        instructions = self.cleanse_trailing_parentheses(s=instructions)
+
+        # Filter unwanted phrases
+        if filtr:
+            instructions = self.filter_unwanted_phrases(lst=[instructions], filtr=filtr)
+
+        # Compile ingredient recipe instructions
+        if instructions:
+            description = self.proper_case(s=instructions[0])
+
+        else:
+            description = None
+
+        return name, description
 
     # List comprehension function(s)
     def cleanse_html_tags_from_list(self, lst):
@@ -557,6 +608,19 @@ class GenericWebscraper(object):
         """
 
         return [str(s).strip() for s in lst]
+
+    def cleanse_leading_returns_from_list(self, lst):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        lst                     = <list> List to cleanse
+
+        Description
+        ---------------------------------------------------------------------
+        Cleanses each item in {lst} of any leading return characters.
+        """
+
+        return [re.sub(r'^\\n', '', str(s)) for s in lst]
 
     def cleanse_empty_lines_from_list(self, lst):
         """

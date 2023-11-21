@@ -2,6 +2,13 @@
 - Address: 703 Park Ave., Park City, UT
 - Source: (https://highwest.com/pages/saloon)
 
+## Cocktail Collections
+
+- [Classic Cocktails](#classic-cocktails)
+- [High West Originals](#high-west-originals)
+- [Saloon Menu](#saloon-menu)
+- [Summer Cocktails](#summer-cocktails)
+
 ## Classic Cocktails
 
 ### 9 To 5
@@ -966,7 +973,7 @@ Ingredients:
 
 Garnish:
 
-- Lemon twist.watch tutorial download
+- Lemon twist
 
 Glass:
 
@@ -978,7 +985,7 @@ Method:
 
 Instructions:
 
-Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial download
+Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.
 
 ---
 
@@ -1097,11 +1104,24 @@ Ingredients:
 - 1 Oz Coconut And Peanut Butter Cream
 - 0.5 Oz Demerara Syrup
 - 1 Oz Pineapple Juice
-- 0.25 Oz Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16oz Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge
+- 0.25 Oz Lemon Juice
+- 1 Dash Saline Solution
 
 Garnish:
 
-- None
+- Pineapple wedge
+
+Glass:
+
+- Mason Jar
+
+Method:
+
+- Shake
+
+Instructions:
+
+Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.
 
 ---
 
@@ -1480,15 +1500,15 @@ Chill a martini glass. Add all ingredients to a cocktail shaker with ice and sha
 
 Ingredients:
 
-- 0.5 Oz 5. Double Rye
+- 0.5 Oz Double Rye
 - 2 Dashes Angostura
 - 4 Dashes Tiki Bitters
-- 0.33 Oz 33. Fino Sherry
-- 0.5 Oz 5. Pina Rosemary Marigold Cordial
+- 0.33 Oz Fino Sherry
+- 0.5 Oz Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 0.33 Oz 33. Neisson Rhum Agricole
-- 0.5 Oz 5. Hamilton 86 Guyana Rum
+- 0.33 Oz Neisson Rhum Agricole
+- 0.5 Oz Hamilton 86 Guyana Rum
 - 1 Oz Plantation Pineapple Rum
 
 Garnish:
@@ -1728,7 +1748,7 @@ Ingredients:
 
 - 0.5 Oz Double Rye
 - 0.75 Oz Wray And Nephew
-- 0.75 Oz Agony Housemade Syrup (Recipe Below)
+- 0.75 Oz Agony Housemade Syrup
 - 0.75 Oz Pineapple Juice
 - 0.75 Oz Lime Juice
 - 0.5 Oz Montenegro
@@ -1773,7 +1793,7 @@ Ingredients:
 - 0.25 Oz Mango Brandy
 - 0.5 Oz Amontillado Sherry
 - 0.5 Oz Orgeat
-- 0.5 Oz Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)
+- 0.5 Oz Vanilla Syrup
 - 0.75 Oz Lime Juice
 - 1 Barspoon Yuzu Juice
 
@@ -2538,7 +2558,7 @@ Ingredients:
 - 0.5 Oz Amaro Nonino
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Aperol
-- 1 Barspoon Lagavulin 16 Year
+- 1 Barspoon Lagavulin 6 Year
 
 Garnish:
 
@@ -2991,7 +3011,7 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Ramazotti Amaro
-- 0.25 Oz High West Spiced Syrup (See Whiskey Lemonade For Recipe)
+- 0.25 Oz High West Spiced Syrup
 - 0.25 Oz Fresh Lemon Juice
 - 0.25 Oz Heavy Whipping Cream
 - 1 Tablespoon Of Vanilla Ice Cream
@@ -4756,8 +4776,7 @@ Method:
 
 Instructions:
 
-Absinthe rinse
-add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.
+Add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.
 
 ---
 
@@ -5102,7 +5121,7 @@ Ingredients:
 - 0.25 Oz Demerara
 - 0.5 Oz Madeira
 - 1 Barspoon Mango Brandy
-- 3 Dashes Timbimboo Bitters (Equal Parts Elemankule , Peychaud's , Angostura)
+- 3 Dashes Timbimboo Bitters
 
 Garnish:
 
@@ -5118,8 +5137,7 @@ Method:
 
 Instructions:
 
-Absinthe rinse
-chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.
+Chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.
 
 ---
 
@@ -5205,7 +5223,7 @@ Ingredients:
 - 0.75 Oz Matcha Simple Syrup
 - 1 Oz Pineapple Juice
 - 2 Dashes Of Citra Hop Tincture
-- 1.5 Oz 1.5 Oz Soda Water
+- 1.5 Oz Soda Water
 
 Garnish:
 
@@ -5298,7 +5316,7 @@ Ingredients:
 - 0.5 Oz Lemon Juice
 - 0.25 Oz Sudachi Juice
 - 0.5 Oz Garam Masala Syrup
-- 1 Dash Saline Solution (1:5)
+- 1 Dash Saline Solution
 
 Garnish:
 
@@ -5334,11 +5352,23 @@ Ingredients:
 - 0.5 Oz Lime Cordial
 - 0.5 Oz Guava Puree
 - 4 Oz Shades Kviek
-- 1 Top With Golden Sour Aleadd All Ingredients , But Sour Ale , Into A Shaker Tin With Ice. Shake , Double Strain Into Chilled Old Fashioned Glass , Sour Ale , Garnish With A Pineapple Wedge
+- 1 Oz Golden Sour Ale
 
 Garnish:
 
-- None
+- Pineapple wedge
+
+Glass:
+
+- Old Fashioned Glass
+
+Method:
+
+- Shake
+
+Instructions:
+
+Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnish with a pineapple wedge.
 
 ---
 
@@ -5386,7 +5416,7 @@ Add all ingredients into a mixing glass with ice, stir until chilled, strain ove
 Ingredients:
 
 - 5 Oz Ritual Chocolate Syrup
-- 0.5 Oz 5 Averna Amaro
+- 0.5 Oz Averna Amaro
 - 1 Oz Cold Brew
 - 1.5 Oz High West Bourbon
 
@@ -5526,11 +5556,11 @@ Stir with ice, strain into chilled coupe with one side dipped in tajin.
 Ingredients:
 
 - 1.5 Oz Coconut Fat Washed Mi Campo Tequila
-- 0.5 Oz 50 High West Double Rye
-- 0.5 Oz 50 Lemongrass Syrup
-- 0.25 Oz 25 Ginger Syrup
-- 0.25 Oz 25 Amontillado Syrup
-- 0.5 Oz 50 Lime Juice
+- 0.5 Oz High West Double Rye
+- 0.5 Oz Lemongrass Syrup
+- 0.25 Oz Ginger Syrup
+- 0.25 Oz Amontillado Syrup
+- 0.5 Oz Lime Juice
 - 2 Dashes Peychaud's Bitters
 
 Garnish:
@@ -5566,7 +5596,7 @@ Ingredients:
 - 0.25 Oz Midori
 - 0.5 Oz Lime Juice
 - 0.25 Oz Yuzu Juice
-- 1 Oz Matcha Syrup (Recipe Below)
+- 1 Oz Matcha Syrup
 - 1 Barspoon Creme De Cacao
 - 3 Dash Chocolate Bitters
 - 1 Whole Egg White
@@ -5706,7 +5736,7 @@ Ingredients:
 - 0.5 Oz Averna
 - 1 Barspoon Allspice Dram
 - 0.25 Oz Sweet Vermouth
-- 0.5 Oz Campari Infused Coco Nibs (750 Ml Campri 280 Ml Coco Nibs For 18 Hours)
+- 0.5 Oz Campari Infused Coco Nibs
 - 2 Dashes Mole Bitters
 - 1 Dash Angostura Bitters
 
@@ -5806,11 +5836,11 @@ Stir and strain into mason jar with cubed ice. Garnish with luxardo cherries.
 
 Ingredients:
 
-- 0.5 Oz 5 High West Bourbon
+- 0.5 Oz High West Bourbon
 - 1.5 Oz Winter Root Infused Pimms
-- 0.5 Oz 5 Lime Juive
-- 0.5 Oz 5 Tomatillo Juice
-- 0.5 Oz 5 Rhoot Man Cucumber Shrub
+- 0.5 Oz Lime Juive
+- 0.5 Oz Tomatillo Juice
+- 0.5 Oz Rhoot Man Cucumber Shrub
 
 Garnish:
 
@@ -5950,15 +5980,15 @@ Shake and strain into campfire washed coupe. Micro plane chocolate garnish.
 
 Ingredients:
 
-- 0.5 Oz 5. Double Rye
+- 0.5 Oz Double Rye
 - 2 Dashes Angostura
 - 4 Dashes Tiki Bitters
-- 0.33 Oz 33. Fino Sherry
-- 0.5 Oz 5. Pina Rosemary Marigold Cordial
+- 0.33 Oz Fino Sherry
+- 0.5 Oz Pina Rosemary Marigold Cordial
 - 1.5 Oz Coco Lopez
 - 1.5 Oz Lime Juice
-- 0.33 Oz 33. Neisson Rhum Agricole
-- 0.5 Oz 5. Hamilton 86 Guyana Rum
+- 0.33 Oz Neisson Rhum Agricole
+- 0.5 Oz Hamilton 86 Guyana Rum
 - 1 Oz Plantation Pineapple Rum
 
 Garnish:
@@ -6267,7 +6297,7 @@ Ingredients:
 
 - 0.5 Oz Double Rye
 - 0.75 Oz Wray And Nephew
-- 0.75 Oz Agony Housemade Syrup (Recipe Below)
+- 0.75 Oz Agony Housemade Syrup
 - 0.75 Oz Pineapple Juice
 - 0.75 Oz Lime Juice
 - 0.5 Oz Montenegro
@@ -6312,7 +6342,7 @@ Ingredients:
 - 0.25 Oz Mango Brandy
 - 0.5 Oz Amontillado Sherry
 - 0.5 Oz Orgeat
-- 0.5 Oz Vanilla Syrup (1part Sugar , 1 Part Water , 3 Vanilla Beans Steeped For 24 Hours)
+- 0.5 Oz Vanilla Syrup
 - 0.75 Oz Lime Juice
 - 1 Barspoon Yuzu Juice
 

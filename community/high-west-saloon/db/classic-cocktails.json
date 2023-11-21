@@ -2632,8 +2632,8 @@
         {
             "name": "Boulevardier",
             "source": "https://highwest.com/blogs/recipes/boulevardier",
-            "instructions": "Lemon twist garnishcombine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.watch a tutorial download",
-            "garnish": "Lemon twist.watch tutorial download",
+            "instructions": "Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.",
+            "garnish": "Lemon twist",
             "description": null,
             "tags": [],
             "glass": "Rocks",
@@ -2972,12 +2972,12 @@
         {
             "name": "Chiseler",
             "source": "https://highwest.com/blogs/recipes/chiseler",
-            "instructions": null,
-            "garnish": "None",
+            "instructions": "Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.",
+            "garnish": "Pineapple wedge",
             "description": null,
             "tags": [],
-            "glass": null,
-            "method": null,
+            "glass": "Mason Jar",
+            "method": "Shake",
             "images": [
                 {
                     "url": "https://highwest.com/cdn/shop/articles/Chiseler-wbottle_600x.jpg?v=1680126700",
@@ -3072,9 +3072,21 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Lemon Juice Dash Saline Solution (5:1) Add All Ingredients To Shaker Tin With Ice , Shake Well , Double Strain Into 16oz Mason Jar Over Swizzle Ice , Garnish With A Pineapple Wedge",
+                    "name": "Lemon Juice",
                     "amount": 0.25,
                     "units": "Oz",
+                    "category": null,
+                    "description": null,
+                    "strength": null,
+                    "origin": null,
+                    "substitutes": [],
+                    "optional": false
+                },
+                {
+                    "sort": 8,
+                    "name": "Saline Solution",
+                    "amount": 1,
+                    "units": "Dash",
                     "category": null,
                     "description": null,
                     "strength": null,

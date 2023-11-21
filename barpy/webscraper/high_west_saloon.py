@@ -5,7 +5,7 @@ Name        : high_west_saloon.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-19
+Revised on  : 2023-11-21
 
 Description
 ---------------------------------------------------------------------
@@ -332,13 +332,12 @@ class HighWestSaloon(GenericWebscraper):
                     )
                 ]
 
-                # Compliance
             except IndexError:
                 failures = failures + [cocktail]
 
         # Log
         for f in failures:
-            print('- %s\n' % (f))
+            print('*** ERROR: Parsing [%s] failed.' % (f))
 
         # Return collection
         return collection
@@ -346,13 +345,16 @@ class HighWestSaloon(GenericWebscraper):
     def parse_cocktail_recipe(
         self,
         page,
-        sort=0
+        sort=0,
+        idx=0
     ):
         """
         Variables
         ---------------------------------------------------------------------
         page                    = <str> URL web-address path to a cocktail
                                     recipe page.
+        sort                    = <int> Ingredient sort order
+        idx                     = <int> Recipe line index
 
         Description
         ---------------------------------------------------------------------
@@ -450,7 +452,8 @@ class HighWestSaloon(GenericWebscraper):
                     'FEVER TREE CLUB SODA',
                     'STAR ANISE',
                     'LUXARDO CHERRIES',
-                    'MUDDLE 4 CUBES OF WATERMELON'
+                    'MUDDLE 4 CUBES OF WATERMELON',
+                    'ABSINTHE RINSE'
                 ]
             )
 
@@ -460,50 +463,79 @@ class HighWestSaloon(GenericWebscraper):
 
                 # Parse egg ingredients
                 if Patterns.match(
-                    pattern=Patterns.egg_ingredients(),
+                    pattern=Patterns.default_ingredients(),
                     s=line
                 ):
-                    defaults = Patterns.extract_ingredient_defaults(
-                        pattern=Patterns.egg_ingredients(),
-                        s=line,
-                        lookup=Patterns.Eggs.eggs
-                    )
-                    cocktail.ingredients = cocktail.ingredients + [
-                        self.Ingredient(
-                            sort=sort,
-                            name=self.title_case(
-                                defaults['name']
-                            ),
-                            amount=self.convert_amount_to_numeric(
-                                defaults['amount']
-                            ),
-                            units=self.title_case(
-                                defaults['units']
-                            )
-                        ).to_dict()
-                    ]
 
-                    # Increment sort
-                    sort += 1
+                    # Retrieve egg ingredient defaults
+                    defaults = Patterns.extract_ingredient_defaults(
+                        pattern=Patterns.default_ingredients(),
+                        s=line,
+                        lookup=Patterns.Defaults.defaults
+                    )
+
+                    # Add cocktail ingredient
+                    for default in defaults:
+                        cocktail.ingredients = cocktail.ingredients + [
+                            self.Ingredient(
+                                sort=sort,
+                                name=self.title_case(
+                                    default['name']
+                                ),
+                                amount=self.convert_amount_to_numeric(
+                                    default['amount']
+                                ),
+                                units=self.title_case(
+                                    default['units']
+                                )
+                            ).to_dict()
+                        ]
+
+                        # Increment sort
+                        sort += 1
+
+                    # Increment idx
+                    idx += 1
 
                 # Parse all other ingredients
                 elif Patterns.match(
                     pattern=Patterns.all_ingredients(),
                     s=line
                 ):
+                    
+                    # Retrieve ingredient amount
                     amount = Patterns.extract_amount(
                         pattern=Patterns.all_amounts(),
                         s=line
                     )
+
+                    # Retrieve ingredient unit
                     units = Patterns.extract_unit(
                         pattern=Patterns.all_units(),
                         s=line
                     )
+
+                    # Retrieve ingredient name
                     name = Patterns.extract_ingredient(
                         amount=amount,
                         units=units,
                         s=line
                     )
+
+                    # Retain cocktail ingredient recipe instructions as description
+                    if '(' in name:
+
+                        name, description = self.cleanse_ingredient_with_recipe(
+                            s=name,
+                            filtr=[
+                                'RECIPE BELOW',
+                                'SEE WHISKEY LEMONADE FOR RECIPE'
+                            ]
+                        )
+                    else:
+                        description = None
+
+                    # Add cocktail ingredient
                     cocktail.ingredients = cocktail.ingredients + [
                         self.Ingredient(
                             sort=sort,
@@ -515,12 +547,14 @@ class HighWestSaloon(GenericWebscraper):
                             amount=self.convert_amount_to_numeric(
                                 s=amount
                             ),
-                            units=self.title_case(s=units)
+                            units=self.title_case(s=units),
+                            description=description
                         ).to_dict()
                     ]
 
-                    # Increment sort
+                    # Increment sort and idx
                     sort += 1
+                    idx += 1
 
                 # Skip garnish if found in ingredients
                 elif Patterns.match(
@@ -536,16 +570,21 @@ class HighWestSaloon(GenericWebscraper):
                     #     )
                     # )
 
-                    # Increment sort
-                    sort += 1
+                    # Increment idx
+                    idx += 1
 
                 else:
                     break
 
             # Parse the cocktail recipe instructions
-            cocktail.instructions = self.proper_case(
-                '\n'.join(recipe[sort:])
-            )
+            if recipe[idx:]:
+                cocktail.instructions = self.proper_case(
+                    '\n'.join(
+                        recipe[idx:]
+                    )
+                )
+            else:
+                pass
 
             # Parse the garnish from the instructions
             if not cocktail.garnish:

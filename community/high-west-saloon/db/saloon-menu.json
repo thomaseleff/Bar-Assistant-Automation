@@ -33,7 +33,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "5 Averna Amaro",
+                    "name": "Averna Amaro",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -493,7 +493,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "50 High West Double Rye",
+                    "name": "High West Double Rye",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -505,7 +505,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "50 Lemongrass Syrup",
+                    "name": "Lemongrass Syrup",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -517,7 +517,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "25 Ginger Syrup",
+                    "name": "Ginger Syrup",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -529,7 +529,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "25 Amontillado Syrup",
+                    "name": "Amontillado Syrup",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -541,7 +541,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "50 Lime Juice",
+                    "name": "Lime Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -668,7 +668,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Matcha Syrup (Recipe Below)",
+                    "name": "Matcha Syrup",
                     "amount": 1,
                     "units": "Oz",
                     "category": null,
@@ -1116,11 +1116,11 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Campari Infused Coco Nibs (750 Ml Campri 280 Ml Coco Nibs For 18 Hours)",
+                    "name": "Campari Infused Coco Nibs",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
-                    "description": null,
+                    "description": "750 ml campri 280 ml coco nibs for 18 hours",
                     "strength": null,
                     "origin": null,
                     "substitutes": [],
@@ -1401,7 +1401,7 @@
             "ingredients": [
                 {
                     "sort": 0,
-                    "name": "5 High West Bourbon",
+                    "name": "High West Bourbon",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1425,7 +1425,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "5 Lime Juive",
+                    "name": "Lime Juive",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1437,7 +1437,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "5 Tomatillo Juice",
+                    "name": "Tomatillo Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -1449,7 +1449,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "5 Rhoot Man Cucumber Shrub",
+                    "name": "Rhoot Man Cucumber Shrub",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,

@@ -5,7 +5,7 @@ Name        : patterns.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-19
+Revised on  : 2023-11-21
 
 Description
 ---------------------------------------------------------------------
@@ -35,16 +35,16 @@ class Patterns():
             ])
         )
 
-    def egg_ingredients():
+    def default_ingredients():
         """
         Description
         ---------------------------------------------------------------------
-        Compiles all regex-patterns for cocktail ingredients.
+        Compiles all regex-patterns for default cocktail ingredients.
         """
 
-        return r'(^%s)' % (
+        return r'^(%s)' % (
             '|'.join(
-                [r'\b'+i+r'\b' for i in Patterns.Eggs.all()]
+                Patterns.Defaults.all()
             )
         )
 
@@ -227,7 +227,7 @@ class Patterns():
                 string=s,
                 flags=re.IGNORECASE
             ).group(0).upper()
-        ]
+        ]['ingredients']
 
     def extract_amount(
         pattern,
@@ -309,7 +309,7 @@ class Patterns():
         # Remove amount
         if amount:
             s = re.sub(
-                pattern=r'\b%s\b' % (amount),
+                pattern=r'%s' % (amount),
                 repl='',
                 string=str(s),
                 count=1,
@@ -319,7 +319,7 @@ class Patterns():
         # Remove units
         if units:
             s = re.sub(
-                pattern=r'\b%s\b' % (units),
+                pattern=r'%s' % (units),
                 repl='',
                 string=str(s),
                 count=1,
@@ -736,23 +736,53 @@ class Patterns():
             """
             return Patterns.Ingredients.ingredients
 
-    class Eggs():
+    class Defaults():
         
-        eggs = {
+        defaults = {
             'EGG WHITE': {
-                'amount': 1,
-                'units': 'WHOLE',
-                'name': 'EGG WHITE'
+                'pattern': r'\bEGG WHITE\b',
+                'ingredients': [
+                    {
+                        'amount': 1,
+                        'units': 'WHOLE',
+                        'name': 'EGG WHITE'
+                    }
+                ]
             },
             'EGG YOLK': {
-                'amount': 1,
-                'units': 'WHOLE',
-                'name': 'EGG YOLK'
+                'pattern': r'\bEGG YOLK\b',
+                'ingredients': [
+                    {
+                        'amount': 1,
+                        'units': 'WHOLE',
+                        'name': 'EGG YOLK'
+                    }
+                ]
             },
             'EGG': {
-                'amount': 1,
-                'units': 'WHOLE',
-                'name': 'EGG'
+                'pattern': r'\bEGG\b',
+                'ingredients': [
+                    {
+                        'amount': 1,
+                        'units': 'WHOLE',
+                        'name': 'EGG'
+                    }
+                ]
+            },
+            '0.25 OZ LEMON JUICE DASH SALINE SOLUTION (5:1)': {
+                'pattern': r'0\.25 OZ LEMON JUICE DASH SALINE SOLUTION \(5:1\)',
+                'ingredients': [
+                    {
+                        'amount': 0.25,
+                        'units': 'OZ',
+                        'name': 'LEMON JUICE'
+                    },
+                    {
+                        'amount': 1,
+                        'units': 'DASH',
+                        'name': 'SALINE SOLUTION'
+                    }
+                ]
             }
         }
 
@@ -760,9 +790,13 @@ class Patterns():
             """
             Description
             ---------------------------------------------------------------------
-            Returns all regex-patterns for egg ingredients.
+            Returns all regex-patterns for default ingredients.
             """
-            return list(Patterns.Eggs.eggs.keys())
+            return [
+                Patterns.Defaults.defaults[default]['pattern'] for default in list(
+                    Patterns.Defaults.defaults.keys()
+                )
+            ]
 
     class Fruits():
 
