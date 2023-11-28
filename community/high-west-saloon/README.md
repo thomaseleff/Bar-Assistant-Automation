@@ -1216,7 +1216,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries. Download
+Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries.
 
 ---
 
