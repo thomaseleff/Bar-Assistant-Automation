@@ -345,6 +345,27 @@ class GenericWebscraper(object):
         return lst
 
     # Recipe cleansing function(s)
+    def cleanse_cocktail_name(self, s):
+        """
+        Variables
+        ---------------------------------------------------------------------
+        s                       = <str> Cocktail name to cleanse
+
+        Description
+        ---------------------------------------------------------------------
+        Removes unwanted substrings from {s}.
+        """
+
+        return self.cleanse_leading_and_trailing_from_list(
+            lst=self.remove_unwanted_phrases(
+                lst=[s],
+                remove=[
+                    'COCKTAIL',
+                    'RECIPE'
+                ]
+            )
+        )[0]
+
     def cleanse_cocktail_recipe(self, s):
         """
         Variables

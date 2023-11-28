@@ -381,11 +381,13 @@ class HighWestSaloon(GenericWebscraper):
 
             # Parse the cocktail recipe name
             cocktail.name = self.title_case(
-                self.normalize_unicode(
-                    s=text.find(
-                        'div',
-                        attrs={'class': 'p-8 pb-0'}
-                    ).get_text(strip=True)
+                self.cleanse_cocktail_name(
+                    s=self.normalize_unicode(
+                        s=text.find(
+                            'div',
+                            attrs={'class': 'p-8 pb-0'}
+                        ).get_text(strip=True)
+                    )
                 )
             )
 

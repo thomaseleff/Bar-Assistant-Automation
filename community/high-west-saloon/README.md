@@ -1779,7 +1779,7 @@ combine sugar and hot water to make simple syrup. Steep mint and basil for 24 ho
 
 ---
 
-### Time Flies Cocktail Recipe
+### Time Flies
 
 - Source: (https://highwest.com/blogs/recipes/time-flies)
 
@@ -1887,7 +1887,7 @@ Muddle mint and pineapple in a cocktail shaker. Add all ingredients except spark
 
 ---
 
-### Pearl De Vere Cocktail Recipe
+### Pearl De Vere
 
 - Source: (https://highwest.com/blogs/recipes/pearl-de-vere)
 
@@ -1920,7 +1920,7 @@ Add all ingredients except rose into a cocktail shaker with ice and shake until 
 
 ---
 
-### Allston Cocktail Recipe
+### Allston
 
 - Source: (https://highwest.com/blogs/recipes/allston)
 
@@ -1955,7 +1955,7 @@ Chill an old fashioned glass. Add all ingredients except soda water to a cocktai
 
 ---
 
-### Arrastra Cocktail Recipe
+### Arrastra
 
 - Source: (https://highwest.com/blogs/recipes/arrastra)
 
@@ -2021,7 +2021,7 @@ Muddle cucumber and sage in a cocktail shaker. Add all ingredients except soda w
 
 ---
 
-### High Noon Cocktail Recipe
+### High Noon
 
 - Source: (https://highwest.com/blogs/recipes/high-noon)
 
@@ -2053,7 +2053,7 @@ Add all ingredients to mixing glass with ice and stir until chilled. Strain into
 
 ---
 
-### Mustang Shandy Cocktail Recipe
+### Mustang Shandy
 
 - Source: (https://highwest.com/blogs/recipes/mustang-shandy)
 
@@ -2084,7 +2084,7 @@ Add all ingredients except tank 7 to a cocktail shaker with ice and shake until 
 
 ---
 
-### Riata Cocktail Recipe
+### Riata
 
 - Source: (https://highwest.com/blogs/recipes/riata)
 
@@ -2117,7 +2117,7 @@ Add all ingredients except lemon soda to a cocktail shaker with ice and shake un
 
 ---
 
-### Fool's Gold Cocktail Recipe
+### Fool's Gold
 
 - Source: (https://highwest.com/blogs/recipes/fools-gold)
 
@@ -2147,7 +2147,7 @@ Add all ingredients in a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Lauraceae Handshake Cocktail Recipe
+### Lauraceae Handshake
 
 - Source: (https://highwest.com/blogs/recipes/lauraceae-handshake)
 
@@ -2414,7 +2414,7 @@ Add all ingredients into a mixing glass with cube ice and stir until chilled. St
 
 ---
 
-### You're A Daisy If You Do Cocktail Recipe
+### You're A Daisy If You Do
 
 - Source: (https://highwest.com/blogs/recipes/youre-a-daisy-if-you-do)
 
@@ -2513,7 +2513,7 @@ Absinthe rinse a champagne glass. Add all ingredients except rose and soda water
 
 ---
 
-### Victory Lane Cocktail Recipe
+### Victory Lane
 
 - Source: (https://highwest.com/blogs/recipes/victory-lane)
 
@@ -2546,7 +2546,7 @@ Chill a martini glass. Add all ingredients to a cocktail shaker with cube ice an
 
 ---
 
-### Grand Duel Cocktail Recipe
+### Grand Duel
 
 - Source: (https://highwest.com/blogs/recipes/grand-duel)
 
@@ -2578,7 +2578,7 @@ Add all ingredients into a mixing glass with cube ice and stir until chilled. St
 
 ---
 
-### Rusty Miner Cocktail Recipe
+### Rusty Miner
 
 - Source: (https://highwest.com/blogs/recipes/rusty-miner)
 
@@ -2607,7 +2607,7 @@ Add all ingredients to an old fashioned glass with cube ice. Stir in the glass u
 
 ---
 
-### Angel Of Tombstone Recipe Cocktail
+### Angel Of Tombstone
 
 - Source: (https://highwest.com/blogs/recipes/angel-of-tombstone)
 
@@ -2637,7 +2637,7 @@ Combine ingredients in mixing glass with cube ice and stir until chilled. Strain
 
 ---
 
-### Crossing Of The Fathers Cocktail Recipe
+### Crossing Of The Fathers
 
 - Source: (https://highwest.com/blogs/recipes/crossing-of-the-fathers)
 
@@ -2670,7 +2670,7 @@ Add all ingredients to a cocktail shaker with cube ice and shake until chilled. 
 
 ---
 
-### Rickhouse Cocktail Recipe
+### Rickhouse
 
 - Source: (https://highwest.com/blogs/recipes/rickhouse)
 
@@ -2702,7 +2702,7 @@ Chill an old fashioned glass. Add all ingredients except ballast point barrel ag
 
 ---
 
-### Spaghetti Western Cocktail Recipe
+### Spaghetti Western
 
 - Source: (https://highwest.com/blogs/recipes/spaghetti-western)
 
@@ -2734,7 +2734,7 @@ Add all ingredients into a mixing glass, stir with cube ice until chilled. Strai
 
 ---
 
-### Mrs. Winslow's Elixir Cocktail Recipe
+### Mrs. Winslow's Elixir
 
 - Source: (https://highwest.com/blogs/recipes/mrs-winslows-elixir)
 
@@ -2768,7 +2768,7 @@ Fill a goblet with hot water to warm the glass, and discard the hot water when g
 
 ---
 
-### Marooned Miner Cocktail Recipe
+### Marooned Miner
 
 - Source: (https://highwest.com/blogs/recipes/marooned-miner)
 
@@ -2800,7 +2800,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### 1981 Cocktail Recipe
+### 1981
 
 - Source: (https://highwest.com/blogs/recipes/1981)
 
@@ -2832,7 +2832,7 @@ Brulee a rosemary sprig, and place an old fashioned glass over the top. Combine 
 
 ---
 
-### Smuggler's Awaken Cocktail Recipe
+### Smuggler's Awaken
 
 - Source: (https://highwest.com/blogs/recipes/smugglers-awaken)
 
@@ -2865,7 +2865,7 @@ Chill a martini glass. Combine all ingredients in a cocktail shaker with ice and
 
 ---
 
-### Peacemaker Cocktail Recipe
+### Peacemaker
 
 - Source: (https://highwest.com/blogs/recipes/peacemaker)
 
@@ -2900,7 +2900,7 @@ Combine all ingredients in a cocktail shaker with ice and shake until chilled. D
 
 ---
 
-### Gunsmoke Cocktail Recipe
+### Gunsmoke
 
 - Source: (https://highwest.com/blogs/recipes/gunsmoke)
 
@@ -2933,7 +2933,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Molly B'damn Cocktail Recipe
+### Molly B'damn
 
 - Source: (https://highwest.com/blogs/recipes/molly-bdamn)
 
@@ -2967,7 +2967,7 @@ Combine all ingredients in a cocktail shaker with ice and shake until chilled. D
 
 ---
 
-### Koji Collins Cocktail Recipe
+### Koji Collins
 
 - Source: (https://highwest.com/blogs/recipes/koji-collins)
 
@@ -3000,7 +3000,7 @@ Add all ingredients except soda water to a cocktail shaker with ice and shake un
 
 ---
 
-### Dr. Ham's Aromatic Invigorator Cocktail Recipe
+### Dr. Ham's Aromatic Invigorator
 
 - Source: (https://highwest.com/blogs/recipes/dr-hams-aromatic-invigorator)
 
@@ -3034,7 +3034,7 @@ Add all ingredients except the red rock drioma into a cocktail shaker with ice a
 
 ---
 
-### Sam Hill Sipper Cocktail Recipe
+### Sam Hill Sipper
 
 - Source: (https://highwest.com/blogs/recipes/sam-hill-sipper)
 
@@ -3070,7 +3070,7 @@ add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### El Vaquero Cocktail Recipe
+### El Vaquero
 
 - Source: (https://highwest.com/blogs/recipes/el-vaquero)
 
@@ -3105,7 +3105,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Ace High Cocktail Recipe
+### Ace High
 
 - Source: (https://highwest.com/blogs/recipes/ace-high)
 
@@ -3139,7 +3139,7 @@ Add all ingredients except g'night to a cocktail shaker with ice and shake until
 
 ---
 
-### Hootspa Special Cocktail Recipe
+### Hootspa Special
 
 - Source: (https://highwest.com/blogs/recipes/hootspa-special)
 
@@ -3205,7 +3205,7 @@ Add all ingredients except kombucha into a cocktail shaker and shake with cube i
 
 ---
 
-### Bye , Little Joe Cocktail Recipe
+### Bye , Little Joe
 
 - Source: (https://highwest.com/blogs/recipes/bye-little-joe)
 
@@ -3238,7 +3238,7 @@ Absinthe rinse an old fashioned glass. Add all ingredients to a mixing glass wit
 
 ---
 
-### Magnificent Seven Cocktail Recipe
+### Magnificent Seven
 
 - Source: (https://highwest.com/blogs/recipes/magnificent-seven)
 
@@ -3274,7 +3274,7 @@ Muddle cilantro in a cocktail shaker. Add all ingredients except pineapple sculp
 
 ---
 
-### Deadwood Blonde Cocktail Recipe
+### Deadwood Blonde
 
 - Source: (https://highwest.com/blogs/recipes/deadwood-blonde)
 
@@ -3306,7 +3306,7 @@ Chill a cocktail glass. Add all ingredients to a mixing glass with ice and stir 
 
 ---
 
-### Loira Cocktail Recipe
+### Loira
 
 - Source: (https://highwest.com/blogs/recipes/loira)
 
@@ -3373,7 +3373,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Wicked Felina Cocktail Recipe
+### Wicked Felina
 
 - Source: (https://highwest.com/blogs/recipes/wicked-felina)
 
@@ -3408,7 +3408,7 @@ Add all ingredients except modelo negra to a cocktail shaker with ice and shake 
 
 ---
 
-### Mr. Ellsworth Cocktail Recipe
+### Mr. Ellsworth
 
 - Source: (https://highwest.com/blogs/recipes/mr-ellsworth)
 
@@ -3442,7 +3442,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Mexican Standoff Cocktail Recipe
+### Mexican Standoff
 
 - Source: (https://highwest.com/blogs/recipes/mexican-standoff)
 
@@ -3475,7 +3475,7 @@ chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a
 
 ---
 
-### Silent Stranger Cocktail Recipe
+### Silent Stranger
 
 - Source: (https://highwest.com/blogs/recipes/silent-stranger)
 
@@ -3545,7 +3545,7 @@ Add all ingredients except 151 rum and soda water to a collins glass with ice an
 
 ---
 
-### Tombstone Punch Cocktail Recipe
+### Tombstone Punch
 
 - Source: (https://highwest.com/blogs/recipes/tombstone-punch)
 
@@ -3647,7 +3647,7 @@ Muddle 3 basil leaves in a cocktail shaker. Add all ingredients to the cocktail 
 
 ---
 
-### Robber's Roost Reviver Cocktail Recipe
+### Robber's Roost Reviver
 
 - Source: (https://highwest.com/blogs/recipes/robbers-roost-reviver)
 
@@ -3678,7 +3678,7 @@ Add all ingredients except rum and angostura bitters to a collins glass with cru
 
 ---
 
-### 3:10 To Yuzu Cocktail Recipe
+### 3:10 To Yuzu
 
 - Source: (https://highwest.com/blogs/recipes/3-10-to-yuzu)
 
@@ -3711,7 +3711,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Doubl
 
 ---
 
-### Remember The Alamo Cocktail Recipe
+### Remember The Alamo
 
 - Source: (https://highwest.com/blogs/recipes/remember-the-alamo)
 
@@ -3751,7 +3751,7 @@ combine double rye, coffee liqueur, and hot chocolate base in a mug and stir. To
 
 ---
 
-### Second Coming Cocktail Recipe
+### Second Coming
 
 - Source: (https://highwest.com/blogs/recipes/second-coming)
 
@@ -3784,7 +3784,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### Tanglefoot Cocktail Recipe
+### Tanglefoot
 
 - Source: (https://highwest.com/blogs/recipes/tanglefoot)
 
@@ -3819,7 +3819,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### Night Hawk Cocktail Recipe
+### Night Hawk
 
 - Source: (https://highwest.com/blogs/recipes/night-hawk)
 
@@ -3883,7 +3883,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 ---
 
-### Zalzala Cocktail Recipe
+### Zalzala
 
 - Source: (https://highwest.com/blogs/recipes/zalzala)
 
@@ -3917,7 +3917,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 ---
 
-### The Bandit Joaquin Cocktail Recipe
+### The Bandit Joaquin
 
 - Source: (https://highwest.com/blogs/recipes/the-bandit-joaquin)
 
@@ -3950,7 +3950,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 ---
 
-### Red River Phantom Cocktail Recipe
+### Red River Phantom
 
 - Source: (https://highwest.com/blogs/recipes/red-river-phantom)
 
@@ -3983,7 +3983,7 @@ Rinse a cocktail glass with absinthe. Add all ingredients to a shaker with ice a
 
 ---
 
-### Little Hollywood Cocktail Recipe
+### Little Hollywood
 
 - Source: (https://highwest.com/blogs/recipes/little-hollywood)
 
@@ -4015,7 +4015,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 ---
 
-### Boomtown Cocktail Recipe
+### Boomtown
 
 - Source: (https://highwest.com/blogs/recipes/boomtown)
 
@@ -4120,7 +4120,7 @@ Add all ingredients to a cocktail shaker with cubed ice and shake until chilled.
 
 ---
 
-### Pony Bob Cocktail Recipe
+### Pony Bob
 
 - Source: (https://highwest.com/blogs/recipes/pony-bob)
 
@@ -4188,7 +4188,7 @@ Add all ingredients except soda water to a shaker with ice and shake until chill
 
 ---
 
-### The Miner's Experiment Cocktail Recipe
+### The Miner's Experiment
 
 - Source: (https://highwest.com/blogs/recipes/the-miners-experiment)
 
@@ -4221,7 +4221,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### Proud Mary Cocktail Recipe
+### Proud Mary
 
 - Source: (https://highwest.com/blogs/recipes/proud-mary)
 
@@ -4256,7 +4256,7 @@ Add all ingredients except soda water and rose to a shaker with ice and shake un
 
 ---
 
-### Cackleberry Cocktail Recipe
+### Cackleberry
 
 - Source: (https://highwest.com/blogs/recipes/cackleberry)
 
@@ -4290,7 +4290,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Strai
 
 ---
 
-### The Blind Miner Cocktail Recipe
+### The Blind Miner
 
 - Source: (https://highwest.com/blogs/recipes/the-blind-miner)
 
@@ -4326,7 +4326,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Strai
 
 ---
 
-### The 90 Percent Cocktail Recipe
+### The 90 Percent
 
 - Source: (https://highwest.com/blogs/recipes/the-90-percent)
 
@@ -4358,7 +4358,7 @@ Combine all ingredients in a mixing glass and stir until chilled. Strain into a 
 
 ---
 
-### Hateful Eight Cocktail Recipe
+### Hateful Eight
 
 - Source: (https://highwest.com/blogs/recipes/hateful-eight)
 
@@ -4392,7 +4392,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### Ghost Dance Cocktail Recipe
+### Ghost Dance
 
 - Source: (https://highwest.com/blogs/recipes/ghost-dance)
 
@@ -4424,7 +4424,7 @@ Add all ingredients to a mixing glass with cubed ice and stir until chilled. Str
 
 ---
 
-### Emmaline Cocktail Recipe
+### Emmaline
 
 - Source: (https://highwest.com/blogs/recipes/emmaline)
 
@@ -4485,7 +4485,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour 
 
 ---
 
-### Pony Bob No. 2 Cocktail Recipe
+### Pony Bob No. 2
 
 - Source: (https://highwest.com/blogs/recipes/pony-bob-no-2)
 
@@ -4517,7 +4517,7 @@ Add all ingredients into a mason jar over crushed ice and place lid on mason jar
 
 ---
 
-### Medicine Man Cocktail Recipe
+### Medicine Man
 
 - Source: (https://highwest.com/blogs/recipes/medicine-man)
 
@@ -4552,7 +4552,7 @@ Add all ingredients to a mixing glass with ice and stir until chilled. Strain in
 
 ---
 
-### Here's How Cocktail Recipe
+### Here's How
 
 - Source: (https://highwest.com/blogs/recipes/heres-how)
 
@@ -4588,7 +4588,7 @@ Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour 
 
 ---
 
-### Trapper Cocktail Recipe
+### Trapper
 
 - Source: (https://highwest.com/blogs/recipes/trapper)
 
@@ -4649,7 +4649,7 @@ Add all ingredients into a heated goblet, top off with boiling hot water.
 
 ---
 
-### Educated Thirst Cocktail Recipe
+### Educated Thirst
 
 - Source: (https://highwest.com/blogs/recipes/educated-thirst)
 
@@ -4677,7 +4677,7 @@ add all ingredients into a heated goblet, top off with boiling hot water. Garnis
 
 ---
 
-### Powwow Cocktail Recipe
+### Powwow
 
 - Source: (https://highwest.com/blogs/recipes/powwow)
 
@@ -4712,7 +4712,7 @@ Add all ingredients into a mixing glass, stir until chilled, strain into an old 
 
 ---
 
-### Ace In The Hole Cocktail Recipe
+### Ace In The Hole
 
 - Source: (https://highwest.com/blogs/recipes/ace-in-the-hole)
 
@@ -4746,7 +4746,7 @@ Add all ingredients into an old fashioned glass, add 1x1 ice, stir until chilled
 
 ---
 
-### The Waco Kid Cocktail Recipe
+### The Waco Kid
 
 - Source: (https://highwest.com/blogs/recipes/the-waco-kid)
 
@@ -6328,7 +6328,7 @@ combine sugar and hot water to make simple syrup. Steep mint and basil for 24 ho
 
 ---
 
-### Time Flies Cocktail Recipe
+### Time Flies
 
 - Source: (https://highwest.com/blogs/recipes/time-flies)
 
