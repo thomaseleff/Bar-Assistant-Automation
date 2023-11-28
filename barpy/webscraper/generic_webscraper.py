@@ -732,6 +732,9 @@ class GenericWebscraper(object):
                 ' .',
                 '.'
             ).replace(
+                ' ,',
+                ','
+            ).replace(
                 ' :',
                 ':'
             ).replace(

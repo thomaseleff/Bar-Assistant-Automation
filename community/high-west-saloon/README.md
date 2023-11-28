@@ -3205,7 +3205,7 @@ Add all ingredients except kombucha into a cocktail shaker and shake with cube i
 
 ---
 
-### Bye , Little Joe
+### Bye, Little Joe
 
 - Source: (https://highwest.com/blogs/recipes/bye-little-joe)
 
