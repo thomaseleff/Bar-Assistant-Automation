@@ -5158,7 +5158,7 @@ Ingredients:
 
 Garnish:
 
-- Squeeze fresh lime coin in drink to
+- Squeeze fresh lime coin
 
 Glass:
 

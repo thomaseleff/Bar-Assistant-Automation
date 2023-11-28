@@ -934,7 +934,8 @@ class Patterns():
             r'THE',
             r'A',
             r'AN',
-            r'ON MASON JAR LID'
+            r'ON MASON JAR LID',
+            r'IN DRINK TO'
         ]
 
         def all():
