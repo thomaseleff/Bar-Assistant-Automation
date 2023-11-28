@@ -5,7 +5,7 @@ Name        : webscrape_high_west_saloon.py
 Location    : ~/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-19
+Revised on  : 2023-11-27
 
 Description
 ---------------------------------------------------------------------

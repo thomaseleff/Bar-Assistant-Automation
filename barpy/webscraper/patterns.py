@@ -933,7 +933,8 @@ class Patterns():
             r'ON TOP',
             r'THE',
             r'A',
-            r'AN'
+            r'AN',
+            r'ON MASON JAR LID'
         ]
 
         def all():

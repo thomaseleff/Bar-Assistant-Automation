@@ -4536,7 +4536,7 @@ Ingredients:
 
 Garnish:
 
-- Mochi on mason jar lid
+- Mochi
 
 Glass:
 
