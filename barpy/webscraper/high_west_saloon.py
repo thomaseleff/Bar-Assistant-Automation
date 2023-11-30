@@ -5,7 +5,7 @@ Name        : high_west_saloon.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-27
+Revised on  : 2023-11-20
 
 Description
 ---------------------------------------------------------------------
@@ -456,7 +456,8 @@ class HighWestSaloon(GenericWebscraper):
                     'STAR ANISE',
                     'LUXARDO CHERRIES',
                     'MUDDLE 4 CUBES OF WATERMELON',
-                    'ABSINTHE RINSE'
+                    'ABSINTHE RINSE',
+                    'SIMPLE ABUELITA CHOCOLATE'
                 ]
             )
 

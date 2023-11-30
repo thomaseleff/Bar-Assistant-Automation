@@ -1650,7 +1650,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Fresh Ginger Juice",
+                    "name": "Ginger Juice",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -1662,7 +1662,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Lime Juice",
+                    "name": "Lime Juice",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -2088,7 +2088,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Lime Juice",
+                    "name": "Lime Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -2155,7 +2155,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Fresh Grapefruit Juice",
+                    "name": "Grapefruit Juice",
                     "amount": 0.75,
                     "units": "Oz",
                     "category": null,
@@ -2179,7 +2179,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Fresh Lime Juice",
+                    "name": "Lime Juice",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -2313,7 +2313,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Lemon Juice",
+                    "name": "Lemon Juice",
                     "amount": 1,
                     "units": "Oz",
                     "category": null,
@@ -2569,7 +2569,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Lemon Juice",
+                    "name": "Lemon Juice",
                     "amount": 1,
                     "units": "Oz",
                     "category": null,
@@ -2605,7 +2605,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Fresh Ginger Juice",
+                    "name": "Ginger Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -3242,7 +3242,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Ginger Juice",
+                    "name": "Ginger Juice",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -3254,7 +3254,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Fresh Lemon Juice",
+                    "name": "Lemon Juice",
                     "amount": 0.25,
                     "units": "Oz",
                     "category": null,
@@ -3522,7 +3522,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Fresh Lime Juice",
+                    "name": "Lime Juice",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,
@@ -3928,7 +3928,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Fresh Lemon Juice",
+                    "name": "Lemon Juice",
                     "amount": 0.75,
                     "units": "Oz",
                     "category": null,

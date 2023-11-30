@@ -536,8 +536,8 @@ Combine ingredients in a mixing glass with cube ice and stir until chilled. Stra
 Ingredients:
 
 - 1.5 Oz High West 7000'
-- 0.25 Oz Fresh Ginger Juice
-- 0.25 Oz Fresh Lime Juice
+- 0.25 Oz Ginger Juice
+- 0.25 Oz Lime Juice
 - 2 Oz Fever Tree Ginger Beer
 
 Garnish:
@@ -721,7 +721,7 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.5 Oz Allspice Dram
-- 0.5 Oz Fresh Lime Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Demerara Simple Syrup
 - 4 Dashes Angostura Bitters
 
@@ -752,9 +752,9 @@ Combine ingredients in shaker with cube ice and shake until chilled. Strain into
 Ingredients:
 
 - 1.5 Oz High West Bourbon
-- 0.75 Oz Fresh Grapefruit Juice
+- 0.75 Oz Grapefruit Juice
 - 0.5 Oz Honey Syrup
-- 0.25 Oz Fresh Lime Juice
+- 0.25 Oz Lime Juice
 - 1 Dash Angostura Bitters
 
 Garnish:
@@ -816,7 +816,7 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.5 Oz Double Rye
-- 1 Oz Fresh Lemon Juice
+- 1 Oz Lemon Juice
 - 0.75 Oz Simple Syrup
 - 3 Dashes Angostura Bitters
 
@@ -935,10 +935,10 @@ Ingredients:
 
 - 1 Oz Campfire
 - 1 Oz Rendezvous Rye
-- 1 Oz Fresh Lemon Juice
+- 1 Oz Lemon Juice
 - 1.25 Oz Drambuie
 - 0.5 Oz Maple Syrup
-- 0.5 Oz Fresh Ginger Juice
+- 0.5 Oz Ginger Juice
 - 3 Dashes Angostura Bitters
 
 Garnish:
@@ -1169,8 +1169,8 @@ Ingredients:
 
 - 1.5 Oz High West Double Rye
 - 0.5 Oz High West Bourbon
-- 0.25 Oz Fresh Ginger Juice
-- 0.25 Oz Fresh Lemon Juice
+- 0.25 Oz Ginger Juice
+- 0.25 Oz Lemon Juice
 - 2 Oz Fever Tree Ginger Beer
 
 Garnish:
@@ -1290,7 +1290,7 @@ Ingredients:
 
 - 1.5 Oz High West Double Rye
 - 1 Oz Reposado Tequila
-- 0.5 Oz Fresh Lime Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Simple Syrup
 
 Garnish:
@@ -1468,7 +1468,7 @@ in a rocks glass add 1.5 oz of high west double rye then fill with high west lem
 Ingredients:
 
 - 2 Oz High West Double Rye
-- 0.75 Oz Fresh Lemon Juice
+- 0.75 Oz Lemon Juice
 - 0.5 Oz Simple Syrup
 - 1 Oz Egg White
 
@@ -1826,8 +1826,8 @@ Ingredients:
 - 1 Oz High West 7000'
 - 1.5 Oz Tanquery 10
 - 0.75 Oz Mint Simple Syrup
-- 0.5 Oz Fresh Lemon Juice
-- 0.5 Oz Fresh Lime Juice
+- 0.5 Oz Lemon Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Heavy Whipping Cream
 - 2 Barspoons Fernet
 - 3 Drops Orange Blossom Water
@@ -1862,8 +1862,8 @@ Ingredients:
 
 - 1.5 Oz High West 7000'
 - 0.25 Oz Maraschino Liqueur
-- 1.5 Oz Fresh Grapefruit Juice
-- 0.5 Oz Fresh Lime Juice
+- 1.5 Oz Grapefruit Juice
+- 0.5 Oz Lime Juice
 - 1 Oz Simple Syrup
 - 5 Leaves Mint
 - 2 Chunks Pineapple
@@ -1898,7 +1898,7 @@ Ingredients:
 - 1 Oz High West 7000'
 - 0.75 Oz Loganberry Liqueur
 - 0.75 Oz Amaro Montenegro
-- 0.25 Oz Fresh Lime Juice
+- 0.25 Oz Lime Juice
 - 0.25 Oz Simple Syrup
 - 2 Oz Bouvet Rose
 
@@ -1997,7 +1997,7 @@ Ingredients:
 
 - 1.5 Oz High West 7000'
 - 0.5 Oz Hendricks Gin
-- 0.5 Oz Fresh Lime Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Simple Syrup
 - 2 Slices English Cucumber
 - 3 Leaves Sage
@@ -2063,7 +2063,7 @@ Ingredients:
 
 - 1.5 Oz Double Rye
 - 1 Oz Drambuie
-- 0.5 Oz Fresh Lemon Juice
+- 0.5 Oz Lemon Juice
 - 2 Oz Boulevard Tank 7
 
 Garnish:
@@ -2126,7 +2126,7 @@ Add all ingredients except lemon soda to a cocktail shaker with ice and shake un
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 0.5 Oz Fresh Lemon Juice
+- 0.5 Oz Lemon Juice
 - 0.5 Oz Lavender Honey Syrup
 
 Garnish:
@@ -2158,8 +2158,8 @@ Ingredients:
 - 1 Oz High West Bourbon
 - 1 Oz Wray And Nephew Rum
 - 0.25 Oz Avocado
-- 1.5 Oz Fresh Pineapple Juice
-- 0.5 Oz Fresh Lime Juice
+- 1.5 Oz Pineapple Juice
+- 0.5 Oz Lime Juice
 - 1 Oz Coconut Milk
 - 0.5 Oz Demerara Simple Syrup
 - 1 Barspoon Creme De Cacao
@@ -2194,7 +2194,7 @@ Ingredients:
 - 0.5 Oz Oloroso Sherry
 - 0.5 Oz Tawny Port
 - 0.75 Oz Vanilla Syrup
-- 0.5 Oz Fresh Lemon Juice
+- 0.5 Oz Lemon Juice
 
 Garnish:
 
@@ -2262,7 +2262,7 @@ Ingredients:
 - 0.25 Oz Ramazzotti Amaro
 - 0.25 Oz Allspice Dram
 - 0.5 Oz Condensed Milk Blend
-- 0.5 Oz Fresh Squeezed Grapefruit Juice
+- 0.5 Oz Grapefruit Juice
 - 1 Oz Egg White
 
 Garnish:
@@ -2292,7 +2292,7 @@ Add all ingredients except soda water to cocktail shaker with cube ice and shake
 Ingredients:
 
 - 1.5 Oz High West Bourbon
-- 1 Oz Fresh Lemon Juice
+- 1 Oz Lemon Juice
 - 0.5 Oz Demerara Simple Syrup
 - 0.5 Oz Maraschino Liqueur
 - 4 Dashes Peychauds Bitters
@@ -2328,7 +2328,7 @@ Ingredients:
 - 1.5 Oz High West Bourbon
 - 1 Oz Manzanilla Sherry
 - 0.5 Oz Smoked Tea Syrup
-- 0.5 Oz Fresh Squeezed Lemon Juice
+- 0.5 Oz Lemon Juice
 - 1 Tablespoon Fig Jam
 - 2 Dashes Angostura Bitters
 
@@ -2489,7 +2489,7 @@ Ingredients:
 - 0.75 Oz Green Chartreuse
 - 0.75 Oz Maraschino Liqueur
 - 1 Oz Grenadine
-- 0.5 Oz Fresh Squeezed Lemon Juice
+- 0.5 Oz Lemon Juice
 - 1 Dash Peychaud Bitters
 - 1 Dash Orange Bitters
 - 1 Oz Rose
@@ -2522,8 +2522,8 @@ Absinthe rinse a champagne glass. Add all ingredients except rose and soda water
 Ingredients:
 
 - 1.5 Oz Double Rye
-- 0.5 Oz Fresh Lemon Juice
-- 0.5 Oz Fresh Orange Juice
+- 0.5 Oz Lemon Juice
+- 0.5 Oz Orange Juice
 - 0.5 Oz Demerara Simple Syrup
 - 0.25 Oz Amontillado Sherry
 - 0.25 Oz Cynar
@@ -2648,9 +2648,9 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.5 Oz Honey Syrup
 - 0.25 Oz Raspberry Cassis Vinegar
-- 0.25 Oz Fresh Lemon Juice
+- 0.25 Oz Lemon Juice
 - 0.25 Oz Del Meguey Vida Mezcal
-- 0.25 Oz Fresh Ginger Juice
+- 0.25 Oz Ginger Juice
 
 Garnish:
 
@@ -2682,7 +2682,7 @@ Ingredients:
 - 0.5 Oz Oloroso Sherry
 - 0.5 Oz Maple Syrup
 - 0.25 Oz Allspice Dram
-- 0.25 Oz Fresh Squeezed Lemon Juice
+- 0.25 Oz Lemon Juice
 
 Garnish:
 
@@ -2878,8 +2878,8 @@ Ingredients:
 - 0.5 Oz Calvados
 - 0.5 Oz Spice Tea Syrup
 - 1 Barspoon Allspice Dram
-- 0.5 Oz Fresh Grapefruit Juice
-- 0.25 Oz Fresh Lime Juice
+- 0.5 Oz Grapefruit Juice
+- 0.25 Oz Lime Juice
 - 1 Dash Angostura Bitters
 
 Garnish:
@@ -2911,8 +2911,8 @@ Ingredients:
 - 1.5 Oz High West Bourbon
 - 0.25 Oz Amaro Nonino
 - 1 Barspoon Mezcal
-- 0.75 Oz Fresh Lemon Juice
-- 0.5 Oz Fresh Grapefruit Juice
+- 0.75 Oz Lemon Juice
+- 0.5 Oz Grapefruit Juice
 - 0.5 Oz Cinnamon Syrup
 
 Garnish:
@@ -2946,7 +2946,7 @@ Ingredients:
 - 0.5 Oz Creme De Violette
 - 0.5 Oz Pamplemousse Liqueur
 - 0.5 Oz Demerara Simple Syrup
-- 0.75 Oz Fresh Lemon Juice
+- 0.75 Oz Lemon Juice
 - 4 Drops Boston Bitahs
 
 Garnish:
@@ -3012,7 +3012,7 @@ Ingredients:
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Ramazotti Amaro
 - 0.25 Oz High West Spiced Syrup
-- 0.25 Oz Fresh Lemon Juice
+- 0.25 Oz Lemon Juice
 - 0.25 Oz Heavy Whipping Cream
 - 1 Tablespoon Vanilla Ice Cream
 
@@ -3082,8 +3082,8 @@ Ingredients:
 - 1 Oz Ron Zacapa Rum
 - 0.5 Oz Cointreau
 - 0.25 Oz Smith And Cross Rum
-- 0.75 Oz Fresh Pineapple Juice
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Pineapple Juice
+- 0.75 Oz Lime Juice
 - 0.25 Oz Demerara Simple Syrup
 - 2 Dashes Angostura Bitters
 
@@ -3184,7 +3184,7 @@ Ingredients:
 - 1.5 Oz High West Bourbon
 - 1 Oz Double Rye
 - 0.5 Oz Rosemary Strawberry Rhubarb Preserve
-- 0.75 Oz Fresh Squeezed Lemon Juice
+- 0.75 Oz Lemon Juice
 - 2 Oz Gt's Gingeraide Kombucha
 
 Garnish:
@@ -3249,9 +3249,9 @@ Ingredients:
 - 1 Oz Double Rye
 - 1 Oz Reposado Tequila
 - 0.5 Oz Cointreau
-- 0.25 Oz Fresh Ginger Juice
-- 1.5 Oz Fresh Mango Juice
-- 0.5 Oz Fresh Lime Juice
+- 0.25 Oz Ginger Juice
+- 1.5 Oz Mango Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Simple Syrup
 - 8 Leaves Cilantro
 - 2 Oz Ballast Point Pineapple Sculpin
@@ -3318,7 +3318,7 @@ Ingredients:
 - 1 Oz Leblon Cachaca
 - 0.5 Oz Punt E Mes
 - 0.5 Oz Smith And Cross Rum
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Coco Lopez
 - 4 Oz Blackberries
 
@@ -3351,7 +3351,7 @@ Ingredients:
 - 1 Oz Rendezvous Rye
 - 1 Oz Ron Zacapa Rum
 - 0.75 Oz Cynar
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 1 Oz Lychee / Demerara Simple Syrup
 - 1 Barspoon Allspice Dram
 
@@ -3418,8 +3418,8 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.75 Oz Green Chartreuse
-- 0.75 Oz Fresh Pineapple Juice
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Pineapple Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Cold Brew Coffee
 - 0.5 Oz Demerara Simple Syrup
 - 2 Dashes Angostura Bitters
@@ -3487,7 +3487,7 @@ Ingredients:
 - 0.5 Oz High West Barrel Aged Maple Syrup
 - 0.5 Oz Kabosu Juice
 - 0.5 Oz Sudachi Ponzu Juice
-- 0.25 Oz Fresh Lime Juice
+- 0.25 Oz Lime Juice
 - 3 Slices Cucumber
 - 4 Pieces Diced Watermelon
 
@@ -3521,7 +3521,7 @@ Ingredients:
 - 0.75 Oz High West Campfire
 - 0.75 Oz Aperol
 - 0.5 Oz Chambord
-- 0.5 Oz Fresh Lime Juice
+- 0.5 Oz Lime Juice
 - 0.5 Oz Simple Syrup
 - 2 Oz Soda Water
 - 0.25 Oz 151 Rum
@@ -3557,7 +3557,7 @@ Ingredients:
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Ruby Port
 - 0.75 Oz Carmenere Wine
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Simple Syrup
 - 2 Dashes Angostura Bitters
 
@@ -3622,10 +3622,10 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.25 Oz Amaro Santa Maria
-- 0.5 Oz Fresh Beet Juice
-- 0.5 Oz Fresh Lemon Juice
+- 0.5 Oz Beet Juice
+- 0.5 Oz Lemon Juice
 - 0.5 Oz Pink Peppercorn Syrup
-- 0.25 Oz Fresh Ginger Juice
+- 0.25 Oz Ginger Juice
 - 4 Leaves Basil
 
 Garnish:
@@ -3658,7 +3658,7 @@ Ingredients:
 - 1 Oz Ron Zacapa Rum
 - 0.25 Oz Allspice Dram
 - 0.25 Oz Goslings Black Seal Rum
-- 0.25 Oz Fresh Ginger Juice
+- 0.25 Oz Ginger Juice
 - 0.5 Oz Demerara Simple Syrup
 - 3 Dashes Angostura Bitters
 - 2 Oz Fever Tree Soda Water
@@ -3687,7 +3687,7 @@ Ingredients:
 
 - 1 Oz Rendezvous Rye
 - 1 Oz Yamazaki 12 Year Old Whisky
-- 0.5 Oz Fresh Lemon Juice
+- 0.5 Oz Lemon Juice
 - 0.75 Oz Green Tea Syrup
 - 1 Barspoon Yuzu
 - 2 Drops Tamari
@@ -3828,7 +3828,7 @@ Ingredients:
 
 - 1 Oz Double Rye
 - 1 Oz Mezcal
-- 1 Oz Fresh Lime Juice
+- 1 Oz Lime Juice
 - 0.5 Oz Serrano Agave
 - 0.25 Oz Pamplemousse Liqueur
 - 0.25 Oz Ancho Reyes
@@ -3861,7 +3861,7 @@ Ingredients:
 
 - 1.5 Oz High West Bourbon
 - 0.5 Oz Blackberry Sage Syrup
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.25 Oz Cynar
 
 Garnish:
@@ -3895,7 +3895,7 @@ Ingredients:
 - 0.25 Oz Oloroso Sherry
 - 1 Barspoon Calamansi Juice
 - 0.75 Oz Curry Syrup
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Kefir Yogurt
 
 Garnish:
@@ -3929,7 +3929,7 @@ Ingredients:
 - 0.25 Oz Creme De Menthe
 - 0.5 Oz Branca Menta
 - 0.5 Oz Dolin Blanc
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 
 Garnish:
 
@@ -3958,7 +3958,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 Ingredients:
 
 - 1.25 Oz Double Rye
-- 0.75 Oz Fresh Lemon Juice
+- 0.75 Oz Lemon Juice
 - 0.75 Oz Cocchi Rosa
 - 0.5 Oz Cointreau
 - 0.25 Oz Maple Syrup
@@ -3993,8 +3993,8 @@ Ingredients:
 - 1.5 Oz Double Rye
 - 0.5 Oz Guava Juice
 - 0.75 Oz Earl Grey Syrup
-- 2 Leaves Fresh Tarragon
-- 0.75 Oz Fresh Lime Juice
+- 2 Leaves Tarragon
+- 0.75 Oz Lime Juice
 
 Garnish:
 
@@ -4026,7 +4026,7 @@ Ingredients:
 - 0.75 Oz Stiggins Pineapple Rum
 - 0.25 Oz Creme De Cacao
 - 0.5 Oz Tawny Port
-- 0.75 Oz Fresh Lemon Juice
+- 0.75 Oz Lemon Juice
 - 0.5 Oz Cold Brew Coffee
 - 0.5 Oz Beet Juice
 - 0.25 Oz Maple Syrup
@@ -4094,7 +4094,7 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.75 Oz Tanqueray 10
 - 0.25 Oz Pamplemousse Liqueur
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Matcha Syrup
 - 1 Barspoon Calamansi Juice
 - 1 Dash St. George Absinthe
@@ -4165,7 +4165,7 @@ Ingredients:
 - 0.5 Oz Pear Brandy
 - 0.5 Oz Cardamaro
 - 0.75 Oz Clove Syrup
-- 0.75 Oz Fresh Lemon Juice
+- 0.75 Oz Lemon Juice
 - 1 Barspoon Creme De Cacao
 - 4 Dashes Chocolate Bitters
 
@@ -4232,7 +4232,7 @@ Ingredients:
 - 0.75 Oz Tanqueray 10
 - 0.25 Oz Pamplemousse Liqueur
 - 0.5 Oz Byrrh
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.25 Oz Cinnamon Syrup
 - 1 Oz Soda Water
 - 1 Oz Bouvet Rose
@@ -4267,7 +4267,7 @@ Ingredients:
 - 0.75 Oz Cachaca
 - 0.5 Oz Amontillado Sherry
 - 1 Oz Pistachio Simple Syrup
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 1 Dash Absinthe
 - 1 Whole Egg White
 
@@ -4301,8 +4301,8 @@ Ingredients:
 - 0.5 Oz Ancho Reyes Ancho Chile Liqueur
 - 0.25 Oz Mezcal
 - 0.25 Oz Pamplemousse
-- 0.05 Oz Fresh Guava Juice
-- 0.75 Oz Fresh Lime Juice
+- 0.05 Oz Guava Juice
+- 0.75 Oz Lime Juice
 - 0.25 Oz Simple Syrup
 - 1 Dash Peychaud's Bitters
 - 2 Wheels Muddled Cucumber
@@ -4337,7 +4337,7 @@ Ingredients:
 - 0.5 Oz Ron Zacapa Rum
 - 0.5 Oz Rhum Clement
 - 0.5 Oz Fino Sherry
-- 1 Oz Jasmine / Fresh Pineapple Tea Syrup
+- 1 Oz Jasmine / Pineapple Tea Syrup
 
 Garnish:
 
@@ -4369,8 +4369,8 @@ Ingredients:
 - 0.5 Oz Smith And Cross Rum
 - 0.5 Oz Campari
 - 0.5 Oz St. Germain Elderflower Liqueur
-- 1 Oz Fresh Pineapple Juice
-- 0.75 Oz Fresh Lemon Juice
+- 1 Oz Pineapple Juice
+- 0.75 Oz Lemon Juice
 - 1 Dash Angostura Bitters
 
 Garnish:
@@ -4402,7 +4402,7 @@ Ingredients:
 - 0.75 Oz High West Bourbon
 - 0.5 Oz Amaro Ciociaro
 - 0.75 Oz Carpano Antica Sweet Vermouth
-- 0.75 Oz Fresh Raspberry Infused High West Bourbon Tincture
+- 0.75 Oz Raspberry Infused High West Bourbon Tincture
 - 1 Bar Spoon Cold Brew Coffee
 
 Garnish:
@@ -4562,9 +4562,9 @@ Ingredients:
 - 1 Oz Double Rye
 - 1.5 Oz Aquavit
 - 0.25 Oz Banane Liqueur
-- 1.5 Oz Fresh Pineapple Juice
+- 1.5 Oz Pineapple Juice
 - 0.75 Oz Coconut Milk
-- 0.75 Oz Fresh Lime Juice
+- 0.75 Oz Lime Juice
 - 0.5 Oz Caraway Simple Syrup
 - 1 Bar Spoon Green Chartreuse
 - 2 Dashes Angostura Bitters
@@ -4600,6 +4600,9 @@ Ingredients:
 - 0.5 Oz Smith And Cross
 - 1 Barspoon Allspice Dram
 - 3 Dashes Mole Bitters
+- 2 Oz Hot Chocolate
+- 2 Dollops Heavy Whipping Cream
+- 1 Barspoon Demerara
 
 Garnish:
 
@@ -4611,11 +4614,7 @@ Glass:
 
 Instructions:
 
-House made hot chocolate
-heavy whipping cream
-barspoon of demerara
-simple abuelita chocolate
-add all ingredients except cream and hot chocolate into a heated goblet, add hot chocolate and finish with fresh whipped cream and grate chocolate over the top.
+Add all ingredients except cream and hot chocolate into a heated goblet, add hot chocolate and finish with fresh whipped cream and grate chocolate over the top.
 
 ---
 
@@ -5451,7 +5450,7 @@ Ingredients:
 - 0.5 Oz Cinnamon Syrup
 - 0.75 Oz Lemon Juice
 - 1 Barspoon Yuzu Juice
-- 1 Oz Fresh Strawberry Juice
+- 1 Oz Strawberry Juice
 - 2 Dashes Absinthe
 - 2 Oz Prosecco
 - 1 Oz Chilled Soda

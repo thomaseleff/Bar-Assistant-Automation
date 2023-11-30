@@ -710,7 +710,9 @@ class Patterns():
             'TOP UP',
             'TOP-UP',
             'TOP WITH',
-            'TOP-WITH'
+            'TOP-WITH',
+            'DOLLOP',
+            'DOLLOPS'
         ]
 
         def all():
@@ -742,7 +744,9 @@ class Patterns():
 
         filtr = [
             r'OF',
-            r'HEALTHY'
+            r'HEALTHY',
+            r'FRESH',
+            r'SQUEEZED'
         ]
 
         def all():
@@ -808,6 +812,26 @@ class Patterns():
                         'amount': 2,
                         'units': 'OZ',
                         'name': 'DESCHUTES FRESH SQUEEZED IPA'
+                    }
+                ]
+            },
+            'HOUSE MADE HOT CHOCOLATE': {
+                'pattern': r'HOUSE MADE HOT CHOCOLATE',
+                'ingredients':[
+                    {
+                        'amount': 2,
+                        'units': 'OZ',
+                        'name': 'HOT CHOCOLATE'
+                    }
+                ]
+            },
+            'HEAVY WHIPPING CREAM': {
+                'pattern': r'HEAVY WHIPPING CREAM',
+                'ingredients':[
+                    {
+                        'amount': 2,
+                        'units': 'DOLLOPS',
+                        'name': 'HEAVY WHIPPING CREAM'
                     }
                 ]
             }
