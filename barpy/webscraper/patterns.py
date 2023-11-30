@@ -981,6 +981,7 @@ class Patterns():
 
         filtr = [
             r'OVER THE DRINK BEFORE SERVING',
+            r'OVER THE DRINK TO GARNISH',
             r'ON TOP',
             r'THE',
             r'A',

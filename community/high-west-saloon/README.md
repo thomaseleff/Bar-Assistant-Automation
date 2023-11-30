@@ -5123,7 +5123,7 @@ Ingredients:
 
 Garnish:
 
-- Lemon twist over drink to garnish
+- Lemon twist
 
 Glass:
 
