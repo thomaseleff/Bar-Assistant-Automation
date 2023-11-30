@@ -800,6 +800,16 @@ class Patterns():
                         'name': 'SALINE SOLUTION'
                     }
                 ]
+            },
+            'DESCHUTES FRESH SQUEEZED IPA': {
+                'pattern': r'DESCHUTES FRESH SQUEEZED IPA',
+                'ingredients':[
+                    {
+                        'amount': 2,
+                        'units': 'OZ',
+                        'name': 'DESCHUTES FRESH SQUEEZED IPA'
+                    }
+                ]
             }
         }
 

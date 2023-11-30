@@ -3454,6 +3454,7 @@ Ingredients:
 - 0.5 Oz Orange Blossom Honey
 - 0.25 Oz Maraschino Liqueur
 - 1.5 Oz Passionfruit Juice
+- 2 Oz Deschutes Fresh Squeezed Ipa
 
 Garnish:
 
@@ -3469,9 +3470,7 @@ Method:
 
 Instructions:
 
-Deschutes fresh squeezed ipa
-hibiscus dust garnish
-chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a cocktail shaker and shake with cube ice until chilled. Discard ice from the old fashioned glass. Double strain into the chilled old fashioned glass. Top with fresh squeezed ipa and garnish with hibiscus dust.
+Chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a cocktail shaker and shake with cube ice until chilled. Discard ice from the old fashioned glass. Double strain into the chilled old fashioned glass. Top with fresh squeezed ipa and garnish with hibiscus dust.
 
 ---
 
