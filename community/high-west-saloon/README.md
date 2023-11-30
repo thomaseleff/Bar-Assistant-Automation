@@ -598,7 +598,7 @@ Ingredients:
 - 1 Oz High West Bourbon
 - 1 Slice Orange
 - 0.5 Oz Demerara Simple Syrup
-- 4 Dashes Of Angostura Bitters
+- 4 Dashes Angostura Bitters
 
 Garnish:
 
@@ -786,7 +786,7 @@ Ingredients:
 - 1.5 Oz High West Double Rye
 - 0.75 Oz Dry Vermouth
 - 0.25 Oz Maraschino Liqueur
-- 1 Barspoon Amer Picon Or - 2 Dashes Of Angostura Bitters
+- 1 Barspoon Amer Picon Or - 2 Dashes Angostura Bitters
 
 Garnish:
 
@@ -1999,9 +1999,9 @@ Ingredients:
 - 0.5 Oz Hendricks Gin
 - 0.5 Oz Fresh Lime Juice
 - 0.5 Oz Simple Syrup
-- 2 Slices Of English Cucumber
-- 3 Leaves Of Sage
-- 3 Drops Of Boston Bitahs
+- 2 Slices English Cucumber
+- 3 Leaves Sage
+- 3 Drops Boston Bitahs
 
 Garnish:
 
@@ -2747,7 +2747,7 @@ Ingredients:
 - 0.75 Oz Applejack
 - 0.25 Oz Allspice Dram
 - 0.5 Oz Maple Syrup
-- 1 Dash Of Cinnamon
+- 1 Dash Cinnamon
 - 0.5 Tbsp Butter
 
 Garnish:
@@ -3014,7 +3014,7 @@ Ingredients:
 - 0.25 Oz High West Spiced Syrup
 - 0.25 Oz Fresh Lemon Juice
 - 0.25 Oz Heavy Whipping Cream
-- 1 Tablespoon Of Vanilla Ice Cream
+- 1 Tablespoon Vanilla Ice Cream
 
 Garnish:
 
@@ -3048,7 +3048,7 @@ Ingredients:
 - 0.25 Oz Yellow Chartreuse
 - 0.5 Oz Honey Syrup
 - 0.5 Oz Lemon Juice
-- 1 Pinch Of Sea Salt
+- 1 Pinch Sea Salt
 - 2 Dashes Orange Bitters
 
 Garnish:
@@ -3592,8 +3592,8 @@ Ingredients:
 - 1 Oz Amontillado Sherry
 - 0.5 Oz Dry Curacao
 - 0.75 Oz Amaro Montenegro
-- 1 Barspoon Of Cold Brew Coffee
-- 1 Pinch Of Salt
+- 1 Barspoon Cold Brew Coffee
+- 1 Pinch Salt
 
 Garnish:
 
@@ -3691,7 +3691,7 @@ Ingredients:
 - 0.5 Oz Fresh Lemon Juice
 - 0.75 Oz Green Tea Syrup
 - 1 Barspoon Yuzu
-- 2 Drops Of Tamari
+- 2 Drops Tamari
 
 Garnish:
 
@@ -3799,7 +3799,7 @@ Ingredients:
 - 0.25 Oz Pamplemousse Liqueur
 - 0.25 Oz Mezcal
 - 1 Barspoon Suze
-- 1 Pinch Of Salt
+- 1 Pinch Salt
 
 Garnish:
 
@@ -4599,8 +4599,8 @@ Ingredients:
 - 1 Oz Rendezvous Rye
 - 0.75 Oz Averna
 - 0.5 Oz Smith And Cross
-- 1 Barspoon Of Allspice Dram
-- 3 Dashes Of Mole Bitters
+- 1 Barspoon Allspice Dram
+- 3 Dashes Mole Bitters
 
 Garnish:
 
@@ -4692,7 +4692,7 @@ Ingredients:
 - 0.25 Oz Px Sherry
 - 1 Barspoon Oloroso Sherry
 - 1 Barspoon Banane Du Bresil
-- 3 Dashes Of Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -4759,8 +4759,8 @@ Ingredients:
 - 0.5 Oz Banane Du Bresil
 - 0.25 Oz Oloroso Sherry
 - 0.25 Oz Demerara Simple Syrup
-- 1 Dash Of Angostura Bitters
-- 2 Dashes Of Peychards Bitters
+- 1 Dash Angostura Bitters
+- 2 Dashes Peychards Bitters
 
 Garnish:
 
@@ -4825,7 +4825,7 @@ Ingredients:
 - 0.25 Oz Banane Du Bresil
 - 0.25 Oz Creme De Cacao
 - 0.25 Oz Cinnamon Simple Syrup
-- 1 Dash Healthy Of Chocolate Bitters
+- 1 Dash Chocolate Bitters
 
 Garnish:
 
@@ -4892,7 +4892,7 @@ Ingredients:
 - 0.5 Oz Cherry Heering
 - 0.5 Oz Antica Vermouth
 - 0.5 Oz Oloroso Sherry
-- 1 Barspoon Of Benedictine
+- 1 Barspoon Benedictine
 - 0.75 Oz Orange Juice
 - 0.5 Oz Lemon Juice
 
@@ -4920,8 +4920,8 @@ Ingredients:
 - 0.5 Oz Yellow Chartreuse
 - 0.5 Oz Lime Juice
 - 0.5 Oz Passion Fruit Pure
-- 1 Barspoon Of Yuzu
-- 1 Barspoon Of Banane Du Bresil
+- 1 Barspoon Yuzu
+- 1 Barspoon Banane Du Bresil
 
 Garnish:
 
@@ -5055,7 +5055,7 @@ Ingredients:
 - 0.75 Oz Lemon Juice
 - 0.75 Oz Pineapple Juice
 - 0.5 Oz Tamarind Simple Syrup
-- 3 Dashes Of Angostura Bitters
+- 3 Dashes Angostura Bitters
 
 Garnish:
 
@@ -5151,7 +5151,7 @@ Ingredients:
 
 - 1 Oz High West Bourbon
 - 1 Oz Neisson Rhum Agricole
-- 1 Dash Of Absinthe
+- 1 Dash Absinthe
 - 0.25 Oz Lime Cordial
 - 0.25 Oz Cocchi Americano
 - 0.75 Oz Peach Syrup
@@ -5185,7 +5185,7 @@ Ingredients:
 - 1 Oz High West Bourbon
 - 1.25 Oz Fino Sherry
 - 0.5 Oz Vergano Maraschino
-- 1 Dash Of Absinthe
+- 1 Dash Absinthe
 - 1.5 Oz Lime Cordial
 - 0.5 Oz Lime Juice
 - 1.5 Oz Topo Chico Lime
@@ -5222,7 +5222,7 @@ Ingredients:
 - 0.75 Oz Lemon Juice
 - 0.75 Oz Matcha Simple Syrup
 - 1 Oz Pineapple Juice
-- 2 Dashes Of Citra Hop Tincture
+- 2 Dashes Citra Hop Tincture
 - 1.5 Oz Soda Water
 
 Garnish:

@@ -5,7 +5,7 @@ Name        : patterns.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-21
+Revised on  : 2023-11-30
 
 Description
 ---------------------------------------------------------------------
@@ -302,8 +302,8 @@ class Patterns():
 
         Description
         ---------------------------------------------------------------------
-        Returns {s} after removing any substrings that match {amount} or
-        {units}.
+        Returns {s} after removing any substrings that match {amount},
+        {units}, or any Ingredient filter
         """
 
         # Remove amount
@@ -326,7 +326,19 @@ class Patterns():
                 flags=re.IGNORECASE
             )
 
-        # Cleanse and return the final ingredient
+        # Filter unwanted substrings
+        s = re.sub(
+            pattern=r'\b(%s)\b' % (
+                '|'.join(
+                    Patterns.Ingredients.filtr
+                )
+            ),
+            repl='',
+            string=str(s),
+            flags=re.IGNORECASE
+        )
+
+        # Return the final ingredient
         return str(s)
 
     def extract_garnish(
@@ -726,6 +738,11 @@ class Patterns():
         ingredients = [
             r'[A-Za-z\d ]+',
             r'[A-Za-z\d ]+\.'
+        ]
+
+        filtr = [
+            r'OF',
+            r'HEALTHY'
         ]
 
         def all():

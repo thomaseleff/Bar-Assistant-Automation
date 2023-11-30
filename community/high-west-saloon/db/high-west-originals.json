@@ -1679,7 +1679,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Of English Cucumber",
+                    "name": "English Cucumber",
                     "amount": 2,
                     "units": "Slices",
                     "category": null,
@@ -1691,7 +1691,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Of Sage",
+                    "name": "Sage",
                     "amount": 3,
                     "units": "Leaves",
                     "category": null,
@@ -1703,7 +1703,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Boston Bitahs",
+                    "name": "Boston Bitahs",
                     "amount": 3,
                     "units": "Drops",
                     "category": null,
@@ -3604,7 +3604,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Of Cinnamon",
+                    "name": "Cinnamon",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
@@ -4368,7 +4368,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Vanilla Ice Cream",
+                    "name": "Vanilla Ice Cream",
                     "amount": 1,
                     "units": "Tablespoon",
                     "category": null,
@@ -4471,7 +4471,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Sea Salt",
+                    "name": "Sea Salt",
                     "amount": 1,
                     "units": "Pinch",
                     "category": null,
@@ -6083,7 +6083,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Of Cold Brew Coffee",
+                    "name": "Cold Brew Coffee",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -6095,7 +6095,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Of Salt",
+                    "name": "Salt",
                     "amount": 1,
                     "units": "Pinch",
                     "category": null,
@@ -6404,7 +6404,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Of Tamari",
+                    "name": "Tamari",
                     "amount": 2,
                     "units": "Drops",
                     "category": null,
@@ -6628,7 +6628,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Of Salt",
+                    "name": "Salt",
                     "amount": 1,
                     "units": "Pinch",
                     "category": null,
@@ -8908,7 +8908,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Of Allspice Dram",
+                    "name": "Allspice Dram",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -8920,7 +8920,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Of Mole Bitters",
+                    "name": "Mole Bitters",
                     "amount": 3,
                     "units": "Dashes",
                     "category": null,
@@ -9193,7 +9193,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Of Angostura Bitters",
+                    "name": "Angostura Bitters",
                     "amount": 3,
                     "units": "Dashes",
                     "category": null,
@@ -9387,7 +9387,7 @@
                 },
                 {
                     "sort": 5,
-                    "name": "Of Angostura Bitters",
+                    "name": "Angostura Bitters",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
@@ -9399,7 +9399,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Peychards Bitters",
+                    "name": "Peychards Bitters",
                     "amount": 2,
                     "units": "Dashes",
                     "category": null,
@@ -9569,7 +9569,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Healthy Of Chocolate Bitters",
+                    "name": "Chocolate Bitters",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
@@ -9763,7 +9763,7 @@
                 },
                 {
                     "sort": 4,
-                    "name": "Of Benedictine",
+                    "name": "Benedictine",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -9890,7 +9890,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Yuzu",
+                    "name": "Yuzu",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -9902,7 +9902,7 @@
                 },
                 {
                     "sort": 7,
-                    "name": "Of Banane Du Bresil",
+                    "name": "Banane Du Bresil",
                     "amount": 1,
                     "units": "Barspoon",
                     "category": null,
@@ -10290,7 +10290,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Angostura Bitters",
+                    "name": "Angostura Bitters",
                     "amount": 3,
                     "units": "Dashes",
                     "category": null,
@@ -10527,7 +10527,7 @@
                 },
                 {
                     "sort": 2,
-                    "name": "Of Absinthe",
+                    "name": "Absinthe",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
@@ -10630,7 +10630,7 @@
                 },
                 {
                     "sort": 3,
-                    "name": "Of Absinthe",
+                    "name": "Absinthe",
                     "amount": 1,
                     "units": "Dash",
                     "category": null,
@@ -10769,7 +10769,7 @@
                 },
                 {
                     "sort": 6,
-                    "name": "Of Citra Hop Tincture",
+                    "name": "Citra Hop Tincture",
                     "amount": 2,
                     "units": "Dashes",
                     "category": null,
