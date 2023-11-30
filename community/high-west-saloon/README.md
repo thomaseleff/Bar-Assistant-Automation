@@ -5288,7 +5288,7 @@ Ingredients:
 
 Garnish:
 
-- Cherries to
+- Cherries
 
 Method:
 

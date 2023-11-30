@@ -972,6 +972,7 @@ class Patterns():
 
         as_phrase = [
             r' TO GARNISH$',
+            r' TO GARNISH\.$',
             r'^TOP WITH ',
             r'^TOP OFF WITH',
             r'^TOP UP WITH',
