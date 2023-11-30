@@ -3851,7 +3851,7 @@ Add all ingredients to a shaker with ice and shake until chilled. Strain into a 
 
 ---
 
-### Rollin'Ridge
+### Rollin' Ridge
 
 - Source: (https://highwest.com/blogs/recipes/rollin-ridge)
 
@@ -4628,7 +4628,7 @@ add all ingredients except cream and hot chocolate into a heated goblet, add hot
 Ingredients:
 
 - 0.75 Oz High West Double Rye
-- 0.75 Oz Stiggins'Pineapple Rum
+- 0.75 Oz Stiggins' Pineapple Rum
 - 0.75 Oz Plum Liquor
 - 0.25 Oz Aperol
 - 0.25 Oz Yuzu
@@ -4788,7 +4788,7 @@ Add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain
 Ingredients:
 
 - 1 Oz High West Double Rye
-- 0.5 Oz Stiggins'Pineapple Rum
+- 0.5 Oz Stiggins' Pineapple Rum
 - 0.5 Oz Amaro Montenegro
 - 0.5 Oz Aperol
 

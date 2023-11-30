@@ -6744,7 +6744,7 @@
             ]
         },
         {
-            "name": "Rollin'Ridge",
+            "name": "Rollin' Ridge",
             "source": "https://highwest.com/blogs/recipes/rollin-ridge",
             "instructions": "Add all ingredients to a shaker with ice and shake until chilled. Strain into a collins glass over ice and top with tonic water. Garnish with 2 lime wheels.",
             "garnish": "2 lime wheels",
@@ -8975,7 +8975,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Stiggins'Pineapple Rum",
+                    "name": "Stiggins' Pineapple Rum",
                     "amount": 0.75,
                     "units": "Oz",
                     "category": null,
@@ -9454,7 +9454,7 @@
                 },
                 {
                     "sort": 1,
-                    "name": "Stiggins'Pineapple Rum",
+                    "name": "Stiggins' Pineapple Rum",
                     "amount": 0.5,
                     "units": "Oz",
                     "category": null,

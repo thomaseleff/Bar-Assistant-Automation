@@ -5,7 +5,7 @@ Name        : generic_webscraper.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-27
+Revised on  : 2023-11-30
 
 Description
 ---------------------------------------------------------------------
@@ -744,12 +744,10 @@ class GenericWebscraper(object):
                 ' )',
                 ')'
             ).replace(
-                " ' ",
-                "'"
-            ).replace(
                 " '",
                 "'"
             )
+
         else:
             return None
 
