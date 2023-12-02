@@ -568,7 +568,7 @@
         {
             "name": "Eagle Nest",
             "source": "https://highwest.com/blogs/recipes/eagle-nest",
-            "instructions": "Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup\n1 cup sugar\n1 cup water\n2 spoon matcha\ncombine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.",
+            "instructions": "Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe.\n\nMacha syrup\n\n1 cup sugar\n\n1 cup water\n\n2 spoon matcha\n\nCombine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.",
             "garnish": "Absinthe",
             "description": null,
             "tags": [],
@@ -810,7 +810,7 @@
         {
             "name": "Dodges",
             "source": "https://highwest.com/blogs/recipes/dodge-s",
-            "instructions": "Whip cream/ micro plane chocolate\nbuild in goblet",
+            "instructions": "Whip cream/ micro plane chocolate\n\nBuild in goblet",
             "garnish": "None",
             "description": null,
             "tags": [],

@@ -41,7 +41,7 @@ Method:
 
 Instructions:
 
-Stir and strain into cocktail glass with cubed ice. Express with a lemon peel and discard. Garnish with apple slices.
+Stir and strain into cocktail glass with cubed ice. Express with a lemon peel and discard. Garnish with apple slices.  
 
 ---
 
@@ -76,7 +76,7 @@ Method:
 
 Instructions:
 
-Shake and strain into chilled cocktail glass. Garnish with lavender sprig.
+Shake and strain into chilled cocktail glass. Garnish with lavender sprig.  
 
 ---
 
@@ -111,7 +111,7 @@ Method:
 
 Instructions:
 
-Pre-heat a goblet, then build in glass. Top with 5oz hot water, garnish with a lemon twist and jasmine pearls.
+Pre-heat a goblet, then build in glass. Top with 5oz hot water, garnish with a lemon twist and jasmine pearls.  
 
 ---
 
@@ -145,7 +145,7 @@ Method:
 
 Instructions:
 
-Pre-heat a goblet, then build in glass. Add two oz heavy cream to a shaker tin with 0.25 cinnamon syrup, shake for 10 seconds to whip, then float on top of drink. Garnish with grated nutmeg and a mint leaf.
+Pre-heat a goblet, then build in glass. Add two oz heavy cream to a shaker tin with 0.25 cinnamon syrup, shake for 10 seconds to whip, then float on top of drink. Garnish with grated nutmeg and a mint leaf.  
 
 ---
 
@@ -178,7 +178,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice, stir, strain into a chilled rocks glass with no ice. Garnish with an orange zest.
+Add all ingredients to a mixing glass with ice, stir, strain into a chilled rocks glass with no ice. Garnish with an orange zest.  
 
 ---
 
@@ -213,7 +213,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with a rosemary sprig
+Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with a rosemary sprig  
 
 ---
 
@@ -247,7 +247,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with a blood orange.
+Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with a blood orange.  
 
 ---
 
@@ -285,7 +285,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with an apricot.
+Add all ingredients to a mixing glass with ice, stir, strain into an old fashioned glass over large cubes. Garnish with an apricot.  
 
 ---
 
@@ -319,7 +319,7 @@ Method:
 
 Instructions:
 
-Add all ingredients but porter to a mixing glass with ice, stir, strain into a small mason jar over large ice cubes. Add porter to a cocktail shaker and shake, then top cocktail with foam. Garnish with coffee beans.
+Add all ingredients but porter to a mixing glass with ice, stir, strain into a small mason jar over large ice cubes. Add porter to a cocktail shaker and shake, then top cocktail with foam. Garnish with coffee beans.  
 
 ---
 
@@ -353,7 +353,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to cocktail shaker except yuzu soda. Shake with ice double-strain into a collins glass. Add pebble ice and top with yuzu soda. Garnish with thai basil.
+Add all ingredients to cocktail shaker except yuzu soda. Shake with ice double-strain into a collins glass. Add pebble ice and top with yuzu soda. Garnish with thai basil.  
 
 ---
 
@@ -390,7 +390,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to cocktail shaker except prosecco and soda. Shake with ice double-strain into a wine glass. Add soda and prosecco and garnish with a blood orange.
+Add all ingredients to cocktail shaker except prosecco and soda. Shake with ice double-strain into a wine glass. Add soda and prosecco and garnish with a blood orange.  
 
 ---
 
@@ -424,7 +424,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to cocktail shaker with ice, shake, strain into an old fashioned glass over large ice cubes. Garnish with a piece of candied ginger.
+Add all ingredients to cocktail shaker with ice, shake, strain into an old fashioned glass over large ice cubes. Garnish with a piece of candied ginger.  
 
 ---
 
@@ -457,7 +457,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to cocktail shaker with ice, shake, double strain into a coupe. Garnish with a lemon twist.
+Add all ingredients to cocktail shaker with ice, shake, double strain into a coupe. Garnish with a lemon twist.  
 
 ---
 
@@ -493,7 +493,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to cocktail shaker with ice, shake, strain into an old fashioned glass over large ice cubes. Garnish with a pineapple wedge.
+Add all ingredients to cocktail shaker with ice, shake, strain into an old fashioned glass over large ice cubes. Garnish with a pineapple wedge.  
 
 ---
 
@@ -523,7 +523,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in a mixing glass with cube ice and stir until chilled. Strain into chilled cocktail glass and garnish with a lemon twist.
+Combine ingredients in a mixing glass with cube ice and stir until chilled. Strain into chilled cocktail glass and garnish with a lemon twist.  
 
 ---
 
@@ -550,7 +550,7 @@ Glass:
 
 Instructions:
 
-Fill an old fashioned glass with chip ice. Pour ingredients into old fashioned glass and garnish with a lime wedge.
+Fill an old fashioned glass with chip ice. Pour ingredients into old fashioned glass and garnish with a lime wedge.  
 
 ---
 
@@ -582,7 +582,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Garnish with an orange and lemon twist.
+Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Garnish with an orange and lemon twist.  
 
 ---
 
@@ -614,7 +614,7 @@ Method:
 
 Instructions:
 
-Muddle orange slice, simple syrup, and bitters in an old fashioned glass. Add double rye and high west bourbon. Add cube ice  and stir in the glass until chilled. Garnish with brandied cherries.
+Muddle orange slice, simple syrup, and bitters in an old fashioned glass. Add double rye and high west bourbon. Add cube ice  and stir in the glass until chilled. Garnish with brandied cherries.  
 
 ---
 
@@ -646,7 +646,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in mixing glass with cube ice and stir until diluted. Strain into a cocktail glass. Garnish with orange twist.
+Combine ingredients in mixing glass with cube ice and stir until diluted. Strain into a cocktail glass. Garnish with orange twist.  
 
 ---
 
@@ -676,7 +676,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in mixing glass with cube ice and stir until diluted. Strain into a chilled cocktail glass and garnish with an orange twist.
+Combine ingredients in mixing glass with cube ice and stir until diluted. Strain into a chilled cocktail glass and garnish with an orange twist.  
 
 ---
 
@@ -707,7 +707,7 @@ Method:
 
 Instructions:
 
-Muddle 2 lemon slices in a goblet. Add all other ingredients and stir in the glass. Garnish with a cinnamon stick.
+Muddle 2 lemon slices in a goblet. Add all other ingredients and stir in the glass. Garnish with a cinnamon stick.  
 
 ---
 
@@ -739,7 +739,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in shaker with cube ice and shake until chilled. Strain into a chilled cocktail glass and garnish with a lime wheel.
+Combine ingredients in shaker with cube ice and shake until chilled. Strain into a chilled cocktail glass and garnish with a lime wheel.  
 
 ---
 
@@ -771,7 +771,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in cocktail shaker and shake with ice until chilled. Serve up in a chilled martini glass and garnish with an orange peel.
+Combine ingredients in cocktail shaker and shake with ice until chilled. Serve up in a chilled martini glass and garnish with an orange peel.  
 
 ---
 
@@ -802,7 +802,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in a mixing glass with cube ice and stir until chilled. Strain into chilled cocktail glass and garnish with brandied cherries.
+Combine ingredients in a mixing glass with cube ice and stir until chilled. Strain into chilled cocktail glass and garnish with brandied cherries.  
 
 ---
 
@@ -834,7 +834,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients except soda water in a shaker with cube ice and shake until chilled. Strain into collins glass over cube ice. Top with soda and garnish with brandied cherries.
+Combine all ingredients except soda water in a shaker with cube ice and shake until chilled. Strain into collins glass over cube ice. Top with soda and garnish with brandied cherries.  
 
 ---
 
@@ -860,7 +860,7 @@ Method:
 
 Instructions:
 
-Muddle 4 -5 mint leaves in 0.5 oz simple syrup. Add rendezvous rye, fill glass with crushed (or shaved ice), and stir. Garnish with fresh mint sprig.
+Muddle 4 -5 mint leaves in 0.5 oz simple syrup. Add rendezvous rye, fill glass with crushed (or shaved ice), and stir. Garnish with fresh mint sprig.  
 
 ---
 
@@ -891,7 +891,7 @@ Method:
 
 Instructions:
 
-In a shaker, muddle lemon wedge, mint leaves and simple syrup together. Add rendezvous rye and ice. Shake until chilled and strain into a rocks glass filled with crushed ice. Garnish with a mint sprig and lemon wedge.
+In a shaker, muddle lemon wedge, mint leaves and simple syrup together. Add rendezvous rye and ice. Shake until chilled and strain into a rocks glass filled with crushed ice. Garnish with a mint sprig and lemon wedge.  
 
 ---
 
@@ -921,7 +921,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in a mixing glass with ice and stir until chilled. Strain into chilled cocktail glass and garnish with brandied cherries.
+Combine ingredients in a mixing glass with ice and stir until chilled. Strain into chilled cocktail glass and garnish with brandied cherries.  
 
 ---
 
@@ -955,7 +955,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in a shaker with cubed ice and shake vigorously. Strain into a rocks glass over cubed ice and add peated scotch float. Garnish with candied ginger.
+Combine ingredients in a shaker with cubed ice and shake vigorously. Strain into a rocks glass over cubed ice and add peated scotch float. Garnish with candied ginger.  
 
 ---
 
@@ -985,7 +985,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.
+Combine all ingredients in a mixing glass with cubed ice and stir until chilled. Serve up or over cubed ice in a rocks glass. Garnish with a lemon twist.  
 
 ---
 
@@ -1016,7 +1016,7 @@ Method:
 
 Instructions:
 
-Absinthe rinse a rocks glass. Combine all ingredients in a mixing glass and stir until chilled. Strain into a rocks glass up or over ice. Garnish with a flamed lemon peel.
+Absinthe rinse a rocks glass. Combine all ingredients in a mixing glass and stir until chilled. Strain into a rocks glass up or over ice. Garnish with a flamed lemon peel.  
 
 ---
 
@@ -1050,7 +1050,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice, stir for 10 seconds. Strain into an old fashioned glass over cubed ice. Garnish with an orange peel.
+Add all ingredients to a mixing glass with ice, stir for 10 seconds. Strain into an old fashioned glass over cubed ice. Garnish with an orange peel.  
 
 ---
 
@@ -1085,7 +1085,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin and dry shake for 10 seconds without ice. Add ice, shake vigorously until chilled, double strain into an 8oz mason jar or nick and nora glass. Express orange peel over the drink before serving.
+Add all ingredients to shaker tin and dry shake for 10 seconds without ice. Add ice, shake vigorously until chilled, double strain into an 8oz mason jar or nick and nora glass. Express orange peel over the drink before serving.  
 
 ---
 
@@ -1121,7 +1121,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.
+Add all ingredients to shaker tin with ice, shake well, double strain into 16oz mason jar over swizzle ice, garnish with a pineapple wedge.  
 
 ---
 
@@ -1155,7 +1155,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin with ice, shake well, double strain into an old fashioned glass over cubed ice. Garnish with blackberries.
+Add all ingredients to shaker tin with ice, shake well, double strain into an old fashioned glass over cubed ice. Garnish with blackberries.  
 
 ---
 
@@ -1183,7 +1183,7 @@ Glass:
 
 Instructions:
 
-Fill an old fashioned glass with chip ice. Pour all ingredients into the glass. Garnish with a lemon twist.
+Fill an old fashioned glass with chip ice. Pour all ingredients into the glass. Garnish with a lemon twist.  
 
 ---
 
@@ -1216,7 +1216,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries.
+Combine all ingredients in a mixing glass with cube ice and stir until diluted. Strain into an old fashioned glass over cube ice and garnish with brandied cherries.  
 
 ---
 
@@ -1246,7 +1246,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass with ice and stir until chilled. Strain into a chilled martini glass and garnish with brandied cherries.
+Combine all ingredients in a mixing glass with ice and stir until chilled. Strain into a chilled martini glass and garnish with brandied cherries.  
 
 ---
 
@@ -1276,7 +1276,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in a rocks glass with cubed ice and stir until chilled. Garnish with orange and lemon twist.
+Combine ingredients in a rocks glass with cubed ice and stir until chilled. Garnish with orange and lemon twist.  
 
 ---
 
@@ -1307,7 +1307,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except ginger beer in a cocktail shaker. Add chip ice, shake, strain over ice, and top with ginger beer. Garnish with a lime wedge.
+Add all ingredients except ginger beer in a cocktail shaker. Add chip ice, shake, strain over ice, and top with ginger beer. Garnish with a lime wedge.  
 
 ---
 
@@ -1343,7 +1343,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin with ice, shake well, double strain into a coupe glass. Garnish with a lime wheel.
+Add all ingredients to shaker tin with ice, shake well, double strain into a coupe glass. Garnish with a lime wheel.  
 
 ---
 
@@ -1378,7 +1378,7 @@ Method:
 
 Instructions:
 
-Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.
+Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.  
 
 ---
 
@@ -1411,7 +1411,7 @@ Method:
 
 Instructions:
 
-Add all ingredients but soda to shaker tin with ice, short shake, strain into a collins glass over swizzle ice. Top with soda, garnish with a lemon wheel.
+Add all ingredients but soda to shaker tin with ice, short shake, strain into a collins glass over swizzle ice. Top with soda, garnish with a lemon wheel.  
 
 ---
 
@@ -1434,28 +1434,29 @@ Glass:
 
 Instructions:
 
-There are three steps to this cocktail. Yield: 1.5 qt (or 6 qts finished lemonade: enough for 40 cocktails!) Step 1: the spiced syrup
-5 cups sugar
-4 cups water
-2 lemons
-18-20 whole cloves
-4 cinnamon sticks
-1 vanilla bean
-1 whole nutmeg
-cut the lemons into halves
-put all the ingredients together in a pot and make sure to mix it well, so it doesnt burn on the bottom
-when the syrup starts to boil, lower the heat and simmer for 45 mins
-strain the syrup and cool in a separate container
-step 2: the lemonade
-mix together the following:
-1 cup high west spiced syrup
-1 cup fresh lemon juice (approx. 6-8 lemons)
-1 1/2 cup water
-step 3: the cocktail
-1.5 oz high west double rye
-4 - 5 oz lemonade
-mint sprig garnish
-in a rocks glass add 1.5 oz of high west double rye then fill with high west lemonade and add ice. Garnish with a fresh mint sprig.
+There are three steps to this cocktail. Yield: 1.5 qt (or 6 qts finished lemonade: enough for 40 cocktails!)  
+Step 1: the spiced syrup  
+5 cups sugar  
+4 cups water  
+2 lemons  
+18-20 whole cloves  
+4 cinnamon sticks  
+1 vanilla bean  
+1 whole nutmeg  
+Cut the lemons into halves  
+Put all the ingredients together in a pot and make sure to mix it well, so it doesnt burn on the bottom  
+When the syrup starts to boil, lower the heat and simmer for 45 mins  
+Strain the syrup and cool in a separate container  
+Step 2: the lemonade  
+Mix together the following:  
+1 cup high west spiced syrup  
+1 cup fresh lemon juice (approx. 6-8 lemons)  
+1 1/2 cup water  
+Step 3: the cocktail  
+1.5 oz high west double rye  
+4 - 5 oz lemonade  
+Mint sprig garnish  
+In a rocks glass add 1.5 oz of high west double rye then fill with high west lemonade and add ice. Garnish with a fresh mint sprig.  
 
 ---
 
@@ -1486,7 +1487,7 @@ Method:
 
 Instructions:
 
-Chill a martini glass. Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled martini glass. Garnish with angostura bitters and brandied cherries.
+Chill a martini glass. Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled martini glass. Garnish with angostura bitters and brandied cherries.  
 
 ---
 
@@ -1525,7 +1526,7 @@ Method:
 
 Instructions:
 
-Whip, shake, strain over popcorn ice in high west camping mug. Garnish with marigolds, grated nutmeg, and a rosemary sprig.
+Whip, shake, strain over popcorn ice in high west camping mug. Garnish with marigolds, grated nutmeg, and a rosemary sprig.  
 
 ---
 
@@ -1558,7 +1559,10 @@ Method:
 
 Instructions:
 
-Torch a rosemary sprig and close in upside down cocktail glass. Add ingredients to mixing glass with cubed ice and stir. Strain into smoked glass. Serve with cubed ice. Garnish with torched rosemary spring and expressed orange twist.
+Torch a rosemary sprig and close in upside down cocktail glass.  
+Add ingredients to mixing glass with cubed ice and stir.  
+Strain into smoked glass. Serve with cubed ice.  
+Garnish with torched rosemary spring and expressed orange twist.  
 
 ---
 
@@ -1596,7 +1600,7 @@ Method:
 
 Instructions:
 
-Dry shake ingredients. Then add ice and shake until chilled. Double strain into small mason jar. Finish with hibiscus and absinthe drops.
+Dry shake ingredients. Then add ice and shake until chilled. Double strain into small mason jar. Finish with hibiscus and absinthe drops.  
 
 ---
 
@@ -1631,7 +1635,8 @@ Method:
 
 Instructions:
 
-Combine in glass of your choice and enjoy. Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
+Combine in glass of your choice and enjoy.  
+Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.  
 
 ---
 
@@ -1666,7 +1671,7 @@ Method:
 
 Instructions:
 
-Shake and double strain into chilled coupe.
+Shake and double strain into chilled coupe.  
 
 ---
 
@@ -1701,7 +1706,7 @@ Method:
 
 Instructions:
 
-Shake and double strain into chilled wine glass with cubed ice. Top with half soda water and half prosecco. Garnish with a shiso leaf
+Shake and double strain into chilled wine glass with cubed ice. Top with half soda water and half prosecco. Garnish with a shiso leaf  
 
 ---
 
@@ -1734,7 +1739,7 @@ Method:
 
 Instructions:
 
-Shake and strain into absinthe rinsed cocktail glass. Garnish with a lemon peel.
+Shake and strain into absinthe rinsed cocktail glass. Garnish with a lemon peel.  
 
 ---
 
@@ -1770,12 +1775,14 @@ Method:
 
 Instructions:
 
-Shake and strain into colins glass with cubed ice. Top with soda. Thai basil sprig garnish. Agony syrup
-8 mint leaves
-8 basil leaves
-1 cup demerara sugar
-1 cup hot water
-combine sugar and hot water to make simple syrup. Steep mint and basil for 24 hours. Strain and refrigerate for cocktails up to 1 month. Makes enough for roughly 10 cocktails.
+Shake and strain into colins glass with cubed ice. Top with soda. Thai basil sprig garnish.  
+Agony syrup  
+8 mint leaves  
+8 basil leaves  
+1 cup demerara sugar  
+1 cup hot water  
+Combine sugar and hot water to make simple syrup. Steep mint and basil for 24 hours. Strain and refrigerate for cocktails up to 1 month.  
+Makes enough for roughly 10 cocktails.  
 
 ---
 
@@ -1811,7 +1818,7 @@ Method:
 
 Instructions:
 
-Short shake and strain over popcorn ice. Swizzle into collins glass. Garnish with edible orchid flower.
+Short shake and strain over popcorn ice. Swizzle into collins glass. Garnish with edible orchid flower.  
 
 ---
 
@@ -1848,7 +1855,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water to a cocktail shaker with ice and vigorously shake until chilled. Strain back into the cocktail shaker, discard the ice, and shake again (reverse dry shake). Double strain into a chilled collins glass. Top with soda water until soda reaches the brim of the glass. Let drink sit for 2 minutes and top with more soda water to create a foam head. Garnish with a mint sprig.
+Add all ingredients except soda water to a cocktail shaker with ice and vigorously shake until chilled. Strain back into the cocktail shaker, discard the ice, and shake again (reverse dry shake). Double strain into a chilled collins glass. Top with soda water until soda reaches the brim of the glass. Let drink sit for 2 minutes and top with more soda water to create a foam head. Garnish with a mint sprig.  
 
 ---
 
@@ -1883,7 +1890,7 @@ Method:
 
 Instructions:
 
-Muddle mint and pineapple in a cocktail shaker. Add all ingredients except sparkling wine to shaker with ice and shake until chilled. Double strain into a chilled martini glass and top with sparkling wine, garnish with a long lemon twist.
+Muddle mint and pineapple in a cocktail shaker. Add all ingredients except sparkling wine to shaker with ice and shake until chilled. Double strain into a chilled martini glass and top with sparkling wine, garnish with a long lemon twist.  
 
 ---
 
@@ -1916,7 +1923,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except rose into a cocktail shaker with ice and shake until chilled. Double strain into a chilled champagne glass and top with bouvet rose. Garnish with an orchid flower.
+Add all ingredients except rose into a cocktail shaker with ice and shake until chilled. Double strain into a chilled champagne glass and top with bouvet rose. Garnish with an orchid flower.  
 
 ---
 
@@ -1951,7 +1958,7 @@ Method:
 
 Instructions:
 
-Chill an old fashioned glass. Add all ingredients except soda water to a cocktail shaker and shake with cube ice until chilled. Strain back in to the cocktail shaker, discard the ice and shake again (dry reverse shake). Double strain into the chilled old fashioned glass and top with chilled soda water. Garnish with 4 drops of peychaud's bitters.
+Chill an old fashioned glass. Add all ingredients except soda water to a cocktail shaker and shake with cube ice until chilled. Strain back in to the cocktail shaker, discard the ice and shake again (dry reverse shake). Double strain into the chilled old fashioned glass and top with chilled soda water. Garnish with 4 drops of peychaud's bitters.  
 
 ---
 
@@ -1983,7 +1990,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a cocktail shaker with cube ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with a lemon twist.
+Add all ingredients into a cocktail shaker with cube ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with a lemon twist.  
 
 ---
 
@@ -2017,7 +2024,7 @@ Method:
 
 Instructions:
 
-Muddle cucumber and sage in a cocktail shaker. Add all ingredients except soda water to the shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and top with soda water. Garnish with a sage leaf.
+Muddle cucumber and sage in a cocktail shaker. Add all ingredients except soda water to the shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and top with soda water. Garnish with a sage leaf.  
 
 ---
 
@@ -2049,7 +2056,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to mixing glass with ice and stir until chilled. Strain into an old fashioned glass with cube ice and garnish with brandied cherries.
+Add all ingredients to mixing glass with ice and stir until chilled. Strain into an old fashioned glass with cube ice and garnish with brandied cherries.  
 
 ---
 
@@ -2080,7 +2087,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except tank 7 to a cocktail shaker with ice and shake until chilled. Double strain into a chilled champagne flute and top with boulevard tank 7. Garnish with lemon zest and grains of paradise.
+Add all ingredients except tank 7 to a cocktail shaker with ice and shake until chilled. Double strain into a chilled champagne flute and top with boulevard tank 7. Garnish with lemon zest and grains of paradise.  
 
 ---
 
@@ -2113,7 +2120,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except lemon soda to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice and top with fever tree sparkling lemon soda. Garnish with a lemon peel and chamomile flowers.
+Add all ingredients except lemon soda to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice and top with fever tree sparkling lemon soda. Garnish with a lemon peel and chamomile flowers.  
 
 ---
 
@@ -2143,7 +2150,7 @@ Method:
 
 Instructions:
 
-Add all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and garnish with lavender buds.
+Add all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and garnish with lavender buds.  
 
 ---
 
@@ -2178,7 +2185,7 @@ Method:
 
 Instructions:
 
-Muddle avocado in a shaker. Add all ingredients to the shaker with ice and shake until chilled. Strain into a rocks glass over cubed ice and garnish with fresh pineapple and brandied cherries.
+Muddle avocado in a shaker. Add all ingredients to the shaker with ice and shake until chilled. Strain into a rocks glass over cubed ice and garnish with fresh pineapple and brandied cherries.  
 
 ---
 
@@ -2206,7 +2213,7 @@ Glass:
 
 Instructions:
 
-Heat a goblet with hot water, and add chamomile teabag to goblet once heated. Add all ingredients to glass and top with boiling water. Steep teabag to taste.
+Heat a goblet with hot water, and add chamomile teabag to goblet once heated. Add all ingredients to glass and top with boiling water. Steep teabag to taste.  
 
 ---
 
@@ -2237,14 +2244,15 @@ Method:
 
 Instructions:
 
-Chartreuse and absinthe whipped cream (hand shaken)
-brandied cherries garnish
-heat a goblet glass with hot water. Discard hot water and add all ingredients except whipped cream. Hand shake whipped cream (see preparation below) and pour over the top on the cocktail. Garnish with 2 brandied cherries. High west whipped cream:
-3 oz whipping cream
-0.25 oz green chartreuse
-bar spoon st. george absinthe
-0.25 oz simple syrup
-add all ingredients into a cocktail shaker with no ice. Shake vigorously.
+Chartreuse and absinthe whipped cream (hand shaken)  
+Brandied cherries garnish  
+Heat a goblet glass with hot water. Discard hot water and add all ingredients except whipped cream. Hand shake whipped cream (see preparation below) and pour over the top on the cocktail. Garnish with 2 brandied cherries.  
+High west whipped cream:  
+3 oz whipping cream  
+0.25 oz green chartreuse  
+Bar spoon st. george absinthe  
+0.25 oz simple syrup  
+Add all ingredients into a cocktail shaker with no ice. Shake vigorously.  
 
 ---
 
@@ -2279,7 +2287,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into miniature milk bottle, and top with chilled soda.
+Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into miniature milk bottle, and top with chilled soda.  
 
 ---
 
@@ -2312,7 +2320,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.
+Add all ingredients except soda water to cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into chilled old fashioned glass, top with chilled soda, and garnish with a lemon peel.  
 
 ---
 
@@ -2346,7 +2354,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except club soda into a cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled old fashioned glass. Top with chilled club soda and garnish with a fig.
+Add all ingredients except club soda into a cocktail shaker with cube ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled old fashioned glass. Top with chilled club soda and garnish with a fig.  
 
 ---
 
@@ -2377,7 +2385,7 @@ Method:
 
 Instructions:
 
-Fill a goblet with hot water to warm the glass. Discard hot water, muddle 2 lemon slices in heated goblet, add the rest of the ingredients, stir in the glass, and garnish with cinnamon stick.
+Fill a goblet with hot water to warm the glass. Discard hot water, muddle 2 lemon slices in heated goblet, add the rest of the ingredients, stir in the glass, and garnish with cinnamon stick.  
 
 ---
 
@@ -2410,7 +2418,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass with cube ice. Garnish with an orange twist.
+Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass with cube ice. Garnish with an orange twist.  
 
 ---
 
@@ -2441,7 +2449,7 @@ Method:
 
 Instructions:
 
-Chill an old fashioned glass. Add all ingredients to a mixing glass with ice and stir until chilled. Discard the ice from the old fashioned glass, and strain with a julep strainer into the chilled old fashioned glass. Garnish with brandied cherries.
+Chill an old fashioned glass. Add all ingredients to a mixing glass with ice and stir until chilled. Discard the ice from the old fashioned glass, and strain with a julep strainer into the chilled old fashioned glass. Garnish with brandied cherries.  
 
 ---
 
@@ -2472,7 +2480,7 @@ Method:
 
 Instructions:
 
-Chill a cocktail glass. Add all ingredients to a mixing glass with cube ice and stir until chilled. Discard the ice from the cocktail glass and strain with a julep strainer into the chilled glass. Garnish with an orange twist wrapped around branded cherries.
+Chill a cocktail glass. Add all ingredients to a mixing glass with cube ice and stir until chilled. Discard the ice from the cocktail glass and strain with a julep strainer into the chilled glass. Garnish with an orange twist wrapped around branded cherries.  
 
 ---
 
@@ -2509,7 +2517,7 @@ Method:
 
 Instructions:
 
-Absinthe rinse a champagne glass. Add all ingredients except rose and soda water into a cocktail shaker and shake with cube ice until chilled. Discard absinthe from the champagne glass, double strain into the champagne glass, top with rose and soda water. Garnish with a lemon twist.
+Absinthe rinse a champagne glass. Add all ingredients except rose and soda water into a cocktail shaker and shake with cube ice until chilled. Discard absinthe from the champagne glass, double strain into the champagne glass, top with rose and soda water. Garnish with a lemon twist.  
 
 ---
 
@@ -2542,7 +2550,7 @@ Method:
 
 Instructions:
 
-Chill a martini glass. Add all ingredients to a cocktail shaker with cube ice and shake until chilled. Discard ice from martini glass and double strain into chilled martini glass. Garnish with dehydrated orange slice.
+Chill a martini glass. Add all ingredients to a cocktail shaker with cube ice and shake until chilled. Discard ice from martini glass and double strain into chilled martini glass. Garnish with dehydrated orange slice.  
 
 ---
 
@@ -2574,7 +2582,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Garnish with an orange twist.
+Add all ingredients into a mixing glass with cube ice and stir until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Garnish with an orange twist.  
 
 ---
 
@@ -2603,7 +2611,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to an old fashioned glass with cube ice. Stir in the glass until chilled. Garnish with an orange peel.
+Add all ingredients to an old fashioned glass with cube ice. Stir in the glass until chilled. Garnish with an orange peel.  
 
 ---
 
@@ -2633,7 +2641,7 @@ Method:
 
 Instructions:
 
-Combine ingredients in mixing glass with cube ice and stir until chilled. Strain into cocktail glass over cube ice and garnish with brandied cherries.
+Combine ingredients in mixing glass with cube ice and stir until chilled. Strain into cocktail glass over cube ice and garnish with brandied cherries.  
 
 ---
 
@@ -2666,7 +2674,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with cube ice and shake until chilled. Double strain and serve over rocks in an old fashioned glass. Garnish with candied ginger.
+Add all ingredients to a cocktail shaker with cube ice and shake until chilled. Double strain and serve over rocks in an old fashioned glass. Garnish with candied ginger.  
 
 ---
 
@@ -2698,7 +2706,7 @@ Method:
 
 Instructions:
 
-Chill an old fashioned glass. Add all ingredients except ballast point barrel aged victory at sea into a cocktail shaker and shake with cube ice. Discard ice from old fashioned glass, double strain into the chilled old fashioned glass, top with victory at sea.
+Chill an old fashioned glass. Add all ingredients except ballast point barrel aged victory at sea into a cocktail shaker and shake with cube ice. Discard ice from old fashioned glass, double strain into the chilled old fashioned glass, top with victory at sea.  
 
 ---
 
@@ -2730,7 +2738,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass, stir with cube ice until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Zest an orange over the top and garnish with brandied cherries.
+Add all ingredients into a mixing glass, stir with cube ice until chilled. Strain with a julep strainer into an old fashioned glass over cube ice. Zest an orange over the top and garnish with brandied cherries.  
 
 ---
 
@@ -2764,7 +2772,7 @@ Method:
 
 Instructions:
 
-Fill a goblet with hot water to warm the glass, and discard the hot water when glass is warm. Add all the ingredients and stir until butter has dissolved. Garnish with 3 cloves.
+Fill a goblet with hot water to warm the glass, and discard the hot water when glass is warm. Add all the ingredients and stir until butter has dissolved. Garnish with 3 cloves.  
 
 ---
 
@@ -2796,7 +2804,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass over cube ice. Garnish with an orange twist.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass over cube ice. Garnish with an orange twist.  
 
 ---
 
@@ -2828,7 +2836,7 @@ Method:
 
 Instructions:
 
-Brulee a rosemary sprig, and place an old fashioned glass over the top. Combine all ingredients in a mixing glass with ice and stir until chilled. Strain into the smoked old fashioned glass with cube ice and garnish with the brulee rosemary sprig.
+Brulee a rosemary sprig, and place an old fashioned glass over the top. Combine all ingredients in a mixing glass with ice and stir until chilled. Strain into the smoked old fashioned glass with cube ice and garnish with the brulee rosemary sprig.  
 
 ---
 
@@ -2861,7 +2869,7 @@ Method:
 
 Instructions:
 
-Chill a martini glass. Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into the chilled martini glass. Garnish with cinnamon powder and coffee beans.
+Chill a martini glass. Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into the chilled martini glass. Garnish with cinnamon powder and coffee beans.  
 
 ---
 
@@ -2896,7 +2904,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with an orange wheel.
+Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with an orange wheel.  
 
 ---
 
@@ -2929,7 +2937,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice. Garnish with a grapefruit twist.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice. Garnish with a grapefruit twist.  
 
 ---
 
@@ -2963,7 +2971,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with a lemon wheel.
+Combine all ingredients in a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with a lemon wheel.  
 
 ---
 
@@ -2996,7 +3004,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water to a cocktail shaker with ice and shake until chilled. Double strain into a collins glass with ice and top with soda water. Garnish with a pinch of chinese 5 spice and a mint sprig.
+Add all ingredients except soda water to a cocktail shaker with ice and shake until chilled. Double strain into a collins glass with ice and top with soda water. Garnish with a pinch of chinese 5 spice and a mint sprig.  
 
 ---
 
@@ -3030,7 +3038,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except the red rock drioma into a cocktail shaker with ice and shake until chilled. Double strain into a chilled goblet, top with red rock drioma.
+Add all ingredients except the red rock drioma into a cocktail shaker with ice and shake until chilled. Double strain into a chilled goblet, top with red rock drioma.  
 
 ---
 
@@ -3065,8 +3073,7 @@ Method:
 
 Instructions:
 
-Pineapple wedge
-add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into a chilled martini glass and garnish with a pineapple wedge.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into a chilled martini glass and garnish with a pineapple wedge.  
 
 ---
 
@@ -3101,7 +3108,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into a collins glass with crushed ice. Garnish with pineapple fronds.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into a collins glass with crushed ice. Garnish with pineapple fronds.  
 
 ---
 
@@ -3135,7 +3142,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except g'night to a cocktail shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with g'night. Garnish with an orange twist and star anise.
+Add all ingredients except g'night to a cocktail shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with g'night. Garnish with an orange twist and star anise.  
 
 ---
 
@@ -3169,7 +3176,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain back into cocktail shaker, discard ice, and shake again (reverse dry shake). Double strain into a chilled martini glass and garnish with micro planed nutmeg.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain back into cocktail shaker, discard ice, and shake again (reverse dry shake). Double strain into a chilled martini glass and garnish with micro planed nutmeg.  
 
 ---
 
@@ -3201,7 +3208,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except kombucha into a cocktail shaker and shake with cube ice until chilled. Double strain into an old fashioned glass over cube ice. Top with kombucha and garnish with a rosemary sprig.
+Add all ingredients except kombucha into a cocktail shaker and shake with cube ice until chilled. Double strain into an old fashioned glass over cube ice. Top with kombucha and garnish with a rosemary sprig.  
 
 ---
 
@@ -3234,7 +3241,7 @@ Method:
 
 Instructions:
 
-Absinthe rinse an old fashioned glass. Add all ingredients to a mixing glass with ice and stir until chilled. Strain in an old fashioned glass over cube ice.
+Absinthe rinse an old fashioned glass. Add all ingredients to a mixing glass with ice and stir until chilled. Strain in an old fashioned glass over cube ice.  
 
 ---
 
@@ -3270,7 +3277,7 @@ Method:
 
 Instructions:
 
-Muddle cilantro in a cocktail shaker. Add all ingredients except pineapple sculpin to the shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with ballast point pineapple sculpin. Garnish with cilantro.
+Muddle cilantro in a cocktail shaker. Add all ingredients except pineapple sculpin to the shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with ballast point pineapple sculpin. Garnish with cilantro.  
 
 ---
 
@@ -3302,7 +3309,7 @@ Method:
 
 Instructions:
 
-Chill a cocktail glass. Add all ingredients to a mixing glass with ice and stir until chilled. Strain into the chilled cocktail glass and garnish with a lemon twist.
+Chill a cocktail glass. Add all ingredients to a mixing glass with ice and stir until chilled. Strain into the chilled cocktail glass and garnish with a lemon twist.  
 
 ---
 
@@ -3336,7 +3343,7 @@ Method:
 
 Instructions:
 
-Muddle blackberries in a cocktail shaker. Add all ingredients to shaker with ice and shake until chilled. Double strain into a glass filled with crushed ice and garnish with a mint sprig.
+Muddle blackberries in a cocktail shaker. Add all ingredients to shaker with ice and shake until chilled. Double strain into a glass filled with crushed ice and garnish with a mint sprig.  
 
 ---
 
@@ -3369,7 +3376,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with a lime wheel.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass over cube ice. Garnish with a lime wheel.  
 
 ---
 
@@ -3404,7 +3411,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except modelo negra to a cocktail shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with modelo negra. Garnish with a dried chipotle chili.
+Add all ingredients except modelo negra to a cocktail shaker with ice and shake until chilled. Double strain into a chilled old fashioned glass and top with modelo negra. Garnish with a dried chipotle chili.  
 
 ---
 
@@ -3438,7 +3445,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an dead man's boots glass with cube ice and garnish with 3 pineapple fronds.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an dead man's boots glass with cube ice and garnish with 3 pineapple fronds.  
 
 ---
 
@@ -3470,7 +3477,7 @@ Method:
 
 Instructions:
 
-Chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a cocktail shaker and shake with cube ice until chilled. Discard ice from the old fashioned glass. Double strain into the chilled old fashioned glass. Top with fresh squeezed ipa and garnish with hibiscus dust.
+Chill an old fashioned glass. Add all ingredients except fresh squeezed ipa to a cocktail shaker and shake with cube ice until chilled. Discard ice from the old fashioned glass. Double strain into the chilled old fashioned glass. Top with fresh squeezed ipa and garnish with hibiscus dust.  
 
 ---
 
@@ -3505,7 +3512,7 @@ Method:
 
 Instructions:
 
-Muddle cucumber and watermelon in a cocktail shaker. Add all ingredients to the cocktail shaker with ice and shake until chilled. Double strain into a chilled martini glass and garnish with a cucumber slice.
+Muddle cucumber and watermelon in a cocktail shaker. Add all ingredients to the cocktail shaker with ice and shake until chilled. Double strain into a chilled martini glass and garnish with a cucumber slice.  
 
 ---
 
@@ -3540,7 +3547,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except 151 rum and soda water to a collins glass with ice and stir until chilled. Top off the glass with soda water. Place the hollowed out lime on top, fill with 151 rum, and light the lime on fire.
+Add all ingredients except 151 rum and soda water to a collins glass with ice and stir until chilled. Top off the glass with soda water. Place the hollowed out lime on top, fill with 151 rum, and light the lime on fire.  
 
 ---
 
@@ -3575,7 +3582,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with blackberries.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with blackberries.  
 
 ---
 
@@ -3608,7 +3615,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass with cube ice and garnish with an orange twist.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass with cube ice and garnish with an orange twist.  
 
 ---
 
@@ -3642,7 +3649,7 @@ Method:
 
 Instructions:
 
-Muddle 3 basil leaves in a cocktail shaker. Add all ingredients to the cocktail shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and garnish with a basil leaf.
+Muddle 3 basil leaves in a cocktail shaker. Add all ingredients to the cocktail shaker with ice and shake until chilled. Double strain into a chilled cocktail glass and garnish with a basil leaf.  
 
 ---
 
@@ -3673,7 +3680,7 @@ Glass:
 
 Instructions:
 
-Add all ingredients except rum and angostura bitters to a collins glass with crushed ice and swizzle. Pour rum and angostura bitters over the top of the finished cocktail and garnish with a mint sprig.
+Add all ingredients except rum and angostura bitters to a collins glass with crushed ice and swizzle. Pour rum and angostura bitters over the top of the finished cocktail and garnish with a mint sprig.  
 
 ---
 
@@ -3706,7 +3713,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with star anise.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Double strain into an old fashioned glass with cube ice and garnish with star anise.  
 
 ---
 
@@ -3733,20 +3740,21 @@ Method:
 
 Instructions:
 
-Yield:  gallon (enough for 25 cocktails)
-step 1: the hot chocolate base
-1 gallon milk
-2 split vanilla beans
-4 blocks abuelita chocolate
-3 tablespoons cinnamon
-3 tablespoons nutmeg
-2 tablespoons cayenne pepper (season to taste)
-combine ingredients in a saucepan. Cook over medium heat until chocolate has melted and the mix is integrated. Step 2: the cocktail
-1.5 oz double rye
-0.5 oz coffee liqueur
-6 oz hot chocolate base
-whipped cream and cinnamon garnish
-combine double rye, coffee liqueur, and hot chocolate base in a mug and stir. Top with whipped cream and cinnamon sprinkle.
+Yield:  gallon (enough for 25 cocktails)  
+Step 1: the hot chocolate base  
+1 gallon milk  
+2 split vanilla beans  
+4 blocks abuelita chocolate  
+3 tablespoons cinnamon  
+3 tablespoons nutmeg  
+2 tablespoons cayenne pepper (season to taste)  
+Combine ingredients in a saucepan. Cook over medium heat until chocolate has melted and the mix is integrated.  
+Step 2: the cocktail  
+1.5 oz double rye  
+0.5 oz coffee liqueur  
+6 oz hot chocolate base  
+Whipped cream and cinnamon garnish  
+Combine double rye, coffee liqueur, and hot chocolate base in a mug and stir. Top with whipped cream and cinnamon sprinkle.  
 
 ---
 
@@ -3779,7 +3787,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a rocks glass over cubed ice and garnish with brandied cherries.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a rocks glass over cubed ice and garnish with brandied cherries.  
 
 ---
 
@@ -3814,7 +3822,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a coupe glass and garnish with a lemon twist.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a coupe glass and garnish with a lemon twist.  
 
 ---
 
@@ -3847,7 +3855,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a shaker with ice and shake until chilled. Strain into a rocks glass over cube ice and garnish with a grapefruit twist.
+Add all ingredients to a shaker with ice and shake until chilled. Strain into a rocks glass over cube ice and garnish with a grapefruit twist.  
 
 ---
 
@@ -3878,7 +3886,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a shaker with ice and shake until chilled. Strain into a collins glass over ice and top with tonic water. Garnish with 2 lime wheels.
+Add all ingredients to a shaker with ice and shake until chilled. Strain into a collins glass over ice and top with tonic water. Garnish with 2 lime wheels.  
 
 ---
 
@@ -3912,7 +3920,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a shaker with ice and shake until chilled. Strain into a coupe glass and garnish with star anise.
+Add all ingredients to a shaker with ice and shake until chilled. Strain into a coupe glass and garnish with star anise.  
 
 ---
 
@@ -3945,7 +3953,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a shaker with ice and shake until chilled. Strain into a collins glass over ice and top with soda water. Garnish with a mint sprig.
+Add all ingredients to a shaker with ice and shake until chilled. Strain into a collins glass over ice and top with soda water. Garnish with a mint sprig.  
 
 ---
 
@@ -3978,7 +3986,7 @@ Method:
 
 Instructions:
 
-Rinse a cocktail glass with absinthe. Add all ingredients to a shaker with ice and shake until chilled. Strain into the cocktail glass and garnish with a lemon twist wrapped around brandied cherries.
+Rinse a cocktail glass with absinthe. Add all ingredients to a shaker with ice and shake until chilled. Strain into the cocktail glass and garnish with a lemon twist wrapped around brandied cherries.  
 
 ---
 
@@ -4010,7 +4018,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a shaker with ice and shake until chilled. Strain into a coupe glass and garnish with fresh tarragon.
+Add all ingredients to a shaker with ice and shake until chilled. Strain into a coupe glass and garnish with fresh tarragon.  
 
 ---
 
@@ -4045,7 +4053,7 @@ Method:
 
 Instructions:
 
-Add all ingredients with ice to a cocktail shaker and shake until chilled. Double strain over 1x1" cubes in an old fashioned glass. Garnish with lemon peel.
+Add all ingredients with ice to a cocktail shaker and shake until chilled. Double strain over 1x1" cubes in an old fashioned glass. Garnish with lemon peel.  
 
 ---
 
@@ -4079,7 +4087,7 @@ Method:
 
 Instructions:
 
-Heat up a goblet glass with hot water. Discard hot water and add all ingredients and except whipping cream and stir. Pour cream on top of the cocktail. Garnish with grated chocolate.
+Heat up a goblet glass with hot water. Discard hot water and add all ingredients and except whipping cream and stir. Pour cream on top of the cocktail. Garnish with grated chocolate.  
 
 ---
 
@@ -4115,7 +4123,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with cubed ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled coupe glass. Garnish with a mint leaf.
+Add all ingredients to a cocktail shaker with cubed ice and shake until chilled. Strain back into the cocktail shaker and shake again with no ice (reverse dry shake). Double strain into a chilled coupe glass. Garnish with a mint leaf.  
 
 ---
 
@@ -4149,7 +4157,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except whipping cream and simple syrup into a mason jar add ice to chill. In a separate shaker, shake heavy whipping cream with simple syrup and float on top. Place a mason jar lid on the cocktail. Garnish with high west chocolate.
+Add all ingredients except whipping cream and simple syrup into a mason jar add ice to chill. In a separate shaker, shake heavy whipping cream with simple syrup and float on top. Place a mason jar lid on the cocktail. Garnish with high west chocolate.  
 
 ---
 
@@ -4183,7 +4191,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water to a shaker with ice and shake until chilled. Double strain into a collins glass over ice and top with soda water. Garnish with pear slices.
+Add all ingredients except soda water to a shaker with ice and shake until chilled. Double strain into a collins glass over ice and top with soda water. Garnish with pear slices.  
 
 ---
 
@@ -4216,7 +4224,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass over ice. Garnish with a flamed orange twist.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into an old fashioned glass over ice. Garnish with a flamed orange twist.  
 
 ---
 
@@ -4251,7 +4259,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water and rose to a shaker with ice and shake until chilled. Double strain into a wine glass over ice and top with soda water and rose. Garnish with a grapefruit twist.
+Add all ingredients except soda water and rose to a shaker with ice and shake until chilled. Double strain into a wine glass over ice and top with soda water and rose. Garnish with a grapefruit twist.  
 
 ---
 
@@ -4285,7 +4293,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain into a chilled mason jar glass. Garnish with microplaned pistachios.  
 
 ---
 
@@ -4321,7 +4329,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain over cubed ice. Garnish with fresh cucumber wheel.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Strain over cubed ice. Garnish with fresh cucumber wheel.  
 
 ---
 
@@ -4353,7 +4361,7 @@ Method:
 
 Instructions:
 
-Combine all ingredients in a mixing glass and stir until chilled. Strain into a rocks glass over ice. Garnish with jasmine pearls float and a lemon twist.
+Combine all ingredients in a mixing glass and stir until chilled. Strain into a rocks glass over ice. Garnish with jasmine pearls float and a lemon twist.  
 
 ---
 
@@ -4387,7 +4395,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a wine glass over cubed ice. Top with lindemans peche lambic and garnish with black salt.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a wine glass over cubed ice. Top with lindemans peche lambic and garnish with black salt.  
 
 ---
 
@@ -4419,7 +4427,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with cubed ice and stir until chilled. Strain in an old fashioned glass over cubed ice. Express orange peel over drink and discard. Garnish with a fresh raspberry.
+Add all ingredients to a mixing glass with cubed ice and stir until chilled. Strain in an old fashioned glass over cubed ice. Express orange peel over drink and discard. Garnish with a fresh raspberry.  
 
 ---
 
@@ -4450,7 +4458,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a coupe glass and garnish with luxardo cherries.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a coupe glass and garnish with luxardo cherries.  
 
 ---
 
@@ -4480,7 +4488,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour into a collins glass filled with crushed ice and top with fever tree sparkling lemon. Garnish with coconut salt.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour into a collins glass filled with crushed ice and top with fever tree sparkling lemon. Garnish with coconut salt.  
 
 ---
 
@@ -4512,7 +4520,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mason jar over crushed ice and place lid on mason jar. Shake to chill. Garnish with ritual chocolate pieces.
+Add all ingredients into a mason jar over crushed ice and place lid on mason jar. Shake to chill. Garnish with ritual chocolate pieces.  
 
 ---
 
@@ -4547,7 +4555,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a small mason jar glass over three cubes of ice. Garnish with mochi on mason jar lid.
+Add all ingredients to a mixing glass with ice and stir until chilled. Strain into a small mason jar glass over three cubes of ice. Garnish with mochi on mason jar lid.  
 
 ---
 
@@ -4583,7 +4591,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour into an old fashioned glass with cubed ice and garnish with a pineapple slice.
+Add all ingredients to a cocktail shaker with ice and shake until chilled. Pour into an old fashioned glass with cubed ice and garnish with a pineapple slice.  
 
 ---
 
@@ -4614,7 +4622,7 @@ Glass:
 
 Instructions:
 
-Add all ingredients except cream and hot chocolate into a heated goblet, add hot chocolate and finish with fresh whipped cream and grate chocolate over the top.
+Add all ingredients except cream and hot chocolate into a heated goblet, add hot chocolate and finish with fresh whipped cream and grate chocolate over the top.  
 
 ---
 
@@ -4643,7 +4651,7 @@ Glass:
 
 Instructions:
 
-Add all ingredients into a heated goblet, top off with boiling hot water.
+Add all ingredients into a heated goblet, top off with boiling hot water.  
 
 ---
 
@@ -4670,8 +4678,7 @@ Glass:
 
 Instructions:
 
-Lemon wheel
-add all ingredients into a heated goblet, top off with boiling hot water. Garnish with a lemon wheel.
+Add all ingredients into a heated goblet, top off with boiling hot water. Garnish with a lemon wheel.  
 
 ---
 
@@ -4706,7 +4713,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass, stir until chilled, strain into an old fashioned glass filled with 1x1 ice. Garnish with an orange and lemon twist.
+Add all ingredients into a mixing glass, stir until chilled, strain into an old fashioned glass filled with 1x1 ice. Garnish with an orange and lemon twist.  
 
 ---
 
@@ -4740,7 +4747,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into an old fashioned glass, add 1x1 ice, stir until chilled. Garnish with an grapefruit twist.
+Add all ingredients into an old fashioned glass, add 1x1 ice, stir until chilled. Garnish with an grapefruit twist.  
 
 ---
 
@@ -4774,7 +4781,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.
+Add all ingredients into a mixing glass, add 1x1 ice, stir until chilled, strain into a chilled small mason jar (no ice). Garnish with a lemon twist.  
 
 ---
 
@@ -4805,7 +4812,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass, stir until chilled, strain into a chilled coupe glass. Garnish with an orange and lemon twist.
+Add all ingredients into a mixing glass, stir until chilled, strain into a chilled coupe glass. Garnish with an orange and lemon twist.  
 
 ---
 
@@ -4839,7 +4846,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a cocktail shaker. Double strain into a chilled coupe glass.
+Add all ingredients into a cocktail shaker. Double strain into a chilled coupe glass.  
 
 ---
 
@@ -4874,7 +4881,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a cocktail shaker, shake until chilled. Double strain into a wine glass filled with pebble ice. Microplane nutmeg and orchid garnish.
+Add all ingredients into a cocktail shaker, shake until chilled. Double strain into a wine glass filled with pebble ice. Microplane nutmeg and orchid garnish.  
 
 ---
 
@@ -4900,7 +4907,7 @@ Garnish:
 
 Instructions:
 
-Mix in the glass of your choice and enjoy.
+Mix in the glass of your choice and enjoy.  
 
 ---
 
@@ -4935,7 +4942,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a cocktail shaker, shake until chilled. Double strain into a chilled coupe glass.
+Add all ingredients into a cocktail shaker, shake until chilled. Double strain into a chilled coupe glass.  
 
 ---
 
@@ -4969,7 +4976,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except sippin pretty into a cocktail shaker, shake until chilled, double strain into wine glass with 4 1x1 ice cubes. Top with sippin pretty.
+Add all ingredients except sippin pretty into a cocktail shaker, shake until chilled, double strain into wine glass with 4 1x1 ice cubes. Top with sippin pretty.  
 
 ---
 
@@ -5003,7 +5010,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except blood orange soda into a cocktail shaker, shake until chilled, double strain into a dead mans boots glass filled with pebble ice. Top with blood orange soda. Garnish with a blood orange wheel.
+Add all ingredients except blood orange soda into a cocktail shaker, shake until chilled, double strain into a dead mans boots glass filled with pebble ice. Top with blood orange soda. Garnish with a blood orange wheel.  
 
 ---
 
@@ -5035,7 +5042,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a cocktail shaker. Double strain into a chilled coupe glass. Garnish with a thyme sprig.
+Add all ingredients into a cocktail shaker. Double strain into a chilled coupe glass. Garnish with a thyme sprig.  
 
 ---
 
@@ -5069,7 +5076,7 @@ Method:
 
 Instructions:
 
-Add all ingredients except soda water into a cocktail shaker. Double strain into a collins glass with pebble ice and top with soda water. Garnish with a star anise.
+Add all ingredients except soda water into a cocktail shaker. Double strain into a collins glass with pebble ice and top with soda water. Garnish with a star anise.  
 
 ---
 
@@ -5102,7 +5109,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass with ice, stir until chilled, strain over 1x1 ice in an old fashioned glass. Garnish with an orange zest.
+Add all ingredients into a mixing glass with ice, stir until chilled, strain over 1x1 ice in an old fashioned glass. Garnish with an orange zest.  
 
 ---
 
@@ -5135,7 +5142,7 @@ Method:
 
 Instructions:
 
-Chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.
+Chill an old fashioned glass with ice. Meanwhile, add all ingredients to a mixing glass with ice, then stir until chilled. Discard the ice in your old fashioned glass, rinse the glass with absinthe, then strain in the cocktail with no ice. Express a lemon twist over the drink to garnish.  
 
 ---
 
@@ -5168,7 +5175,7 @@ Method:
 
 Instructions:
 
-Build in an old fashioned glass, add ice, stir until chilled thoroughly. Squeeze fresh lime coin in drink to garnish.
+Build in an old fashioned glass, add ice, stir until chilled thoroughly. Squeeze fresh lime coin in drink to garnish.  
 
 ---
 
@@ -5202,7 +5209,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin with ice, shake, double strain into mason jar filled with pebble ice. Top with topo chico lime, garnish with a bright red maraschino cherry.
+Add all ingredients to shaker tin with ice, shake, double strain into mason jar filled with pebble ice. Top with topo chico lime, garnish with a bright red maraschino cherry.  
 
 ---
 
@@ -5237,7 +5244,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin, shake with pebble ice, short shake, double strain into collins glass filled with pebble ice, top with soda. Garnish with a pineapple frond.
+Add all ingredients to shaker tin, shake with pebble ice, short shake, double strain into collins glass filled with pebble ice, top with soda. Garnish with a pineapple frond.  
 
 ---
 
@@ -5271,7 +5278,7 @@ Method:
 
 Instructions:
 
-Add all ingredients to shaker tin, shake with pebble ice, dirty dump into collins glass. Garnish with an edible orchid.
+Add all ingredients to shaker tin, shake with pebble ice, dirty dump into collins glass. Garnish with an edible orchid.  
 
 ---
 
@@ -5296,7 +5303,7 @@ Method:
 
 Instructions:
 
-Blend to combine. Cherries to garnish.
+Blend to combine. Cherries to garnish.  
 
 ---
 
@@ -5330,7 +5337,7 @@ Method:
 
 Instructions:
 
-Muddle watermelon in shaker tin, add remaining ingredients. Shake with ice then double strain into a coupe glass. Garnish with a fresh curry leaf.
+Muddle watermelon in shaker tin, add remaining ingredients. Shake with ice then double strain into a coupe glass. Garnish with a fresh curry leaf.  
 
 ---
 
@@ -5366,7 +5373,7 @@ Method:
 
 Instructions:
 
-Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnish with a pineapple wedge.
+Add all ingredients, but sour ale, into a shaker tin with ice. Shake, double strain into chilled old fashioned glass, top with sour ale, garnish with a pineapple wedge.  
 
 ---
 
@@ -5399,7 +5406,7 @@ Method:
 
 Instructions:
 
-Add all ingredients into a mixing glass with ice, stir until chilled, strain over 1x1 ice in 8 oz mason jar, garnish with ritual chocolate.
+Add all ingredients into a mixing glass with ice, stir until chilled, strain over 1x1 ice in 8 oz mason jar, garnish with ritual chocolate.  
 
 ---
 
@@ -5432,7 +5439,7 @@ Method:
 
 Instructions:
 
-Shake and double strain into chilled coupe glass, top with honey mascarpone foam, and sprinkle flakey salt on top.
+Shake and double strain into chilled coupe glass, top with honey mascarpone foam, and sprinkle flakey salt on top.  
 
 ---
 
@@ -5469,7 +5476,7 @@ Method:
 
 Instructions:
 
-Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.
+Add all ingredients but prosecco and soda to a shaker tin with ice, short shake, double strain into a wine glass. Add prosecco and soda, then ice. Garnish with a strawberry.  
 
 ---
 
@@ -5505,7 +5512,7 @@ Method:
 
 Instructions:
 
-Smoke sage under upside cocktail glass. While smoking, stir ingredients in mixing glass with cubed ice. Turn cocktail glass right-side up and fill with fresh cubed ice. Strain missing glass, and garnish with dried pina flower and sage leaf.
+Smoke sage under upside cocktail glass. While smoking, stir ingredients in mixing glass with cubed ice. Turn cocktail glass right-side up and fill with fresh cubed ice. Strain missing glass, and garnish with dried pina flower and sage leaf.  
 
 ---
 
@@ -5541,7 +5548,7 @@ Method:
 
 Instructions:
 
-Stir with ice, strain into chilled coupe with one side dipped in tajin.
+Stir with ice, strain into chilled coupe with one side dipped in tajin.  
 
 ---
 
@@ -5575,7 +5582,7 @@ Method:
 
 Instructions:
 
-Shake and strain into coupe glass. Kaffir lime leaf garnish.
+Shake and strain into coupe glass. Kaffir lime leaf garnish.  
 
 ---
 
@@ -5609,11 +5616,12 @@ Method:
 
 Instructions:
 
-Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe. Macha syrup
-1 cup sugar
-1 cup water
-2 spoon matcha
-combine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.
+Shake with ice, then dry shake, strain into frozen glass. Spritz with absinthe.  
+Macha syrup  
+1 cup sugar  
+1 cup water  
+2 spoon matcha  
+Combine in saucepan over medium heat. Stir until sugar is dissolved. Let cool, then pour into a glass container and seal tightly.  
 
 ---
 
@@ -5646,7 +5654,7 @@ Method:
 
 Instructions:
 
-Build in camp mug, garnish with biscoff cookie.
+Build in camp mug, garnish with biscoff cookie.  
 
 ---
 
@@ -5680,8 +5688,8 @@ Method:
 
 Instructions:
 
-Whip cream/ micro plane chocolate
-build in goblet
+Whip cream/ micro plane chocolate  
+Build in goblet  
 
 ---
 
@@ -5717,7 +5725,7 @@ Method:
 
 Instructions:
 
-Build in goblet. Spritz with cbd oil.
+Build in goblet. Spritz with cbd oil.  
 
 ---
 
@@ -5752,7 +5760,7 @@ Method:
 
 Instructions:
 
-Stir and strain into cocktail glass with cubed ice. Garnish with a bruleed banana.
+Stir and strain into cocktail glass with cubed ice. Garnish with a bruleed banana.  
 
 ---
 
@@ -5788,7 +5796,7 @@ Method:
 
 Instructions:
 
-Stir and strain into cocktail glass with cubed ice. Garnish with an orange peel.
+Stir and strain into cocktail glass with cubed ice. Garnish with an orange peel.  
 
 ---
 
@@ -5822,7 +5830,7 @@ Method:
 
 Instructions:
 
-Stir and strain into mason jar with cubed ice. Garnish with luxardo cherries.
+Stir and strain into mason jar with cubed ice. Garnish with luxardo cherries.  
 
 ---
 
@@ -5854,7 +5862,7 @@ Method:
 
 Instructions:
 
-Build in collins glass with cubed ice. Top with ginger beer. Garnish with cucumber ribbon and celery leaf bouquet.
+Build in collins glass with cubed ice. Top with ginger beer. Garnish with cucumber ribbon and celery leaf bouquet.  
 
 ---
 
@@ -5891,7 +5899,7 @@ Method:
 
 Instructions:
 
-Shake and strain into collins glass with cubed ice. Top of with topo chico grapefruit soda. Garnish with dehydrated grapefruit wheel.
+Shake and strain into collins glass with cubed ice. Top of with topo chico grapefruit soda. Garnish with dehydrated grapefruit wheel.  
 
 ---
 
@@ -5927,7 +5935,7 @@ Method:
 
 Instructions:
 
-Shake and strain into cocktail glass. Top with sour beer (kveik from shades of pale brewing).
+Shake and strain into cocktail glass. Top with sour beer (kveik from shades of pale brewing).  
 
 ---
 
@@ -5964,7 +5972,7 @@ Method:
 
 Instructions:
 
-Shake and strain into campfire washed coupe. Micro plane chocolate garnish.
+Shake and strain into campfire washed coupe. Micro plane chocolate garnish.  
 
 ---
 
@@ -6003,7 +6011,7 @@ Method:
 
 Instructions:
 
-Whip, shake, strain over popcorn ice in high west camping mug. Garnish with marigolds, grated nutmeg, and a rosemary sprig.
+Whip, shake, strain over popcorn ice in high west camping mug. Garnish with marigolds, grated nutmeg, and a rosemary sprig.  
 
 ---
 
@@ -6036,7 +6044,10 @@ Method:
 
 Instructions:
 
-Torch a rosemary sprig and close in upside down cocktail glass. Add ingredients to mixing glass with cubed ice and stir. Strain into smoked glass. Serve with cubed ice. Garnish with torched rosemary spring and expressed orange twist.
+Torch a rosemary sprig and close in upside down cocktail glass.  
+Add ingredients to mixing glass with cubed ice and stir.  
+Strain into smoked glass. Serve with cubed ice.  
+Garnish with torched rosemary spring and expressed orange twist.  
 
 ---
 
@@ -6070,7 +6081,7 @@ Method:
 
 Instructions:
 
-Stir and strain into cocktail glass with cubed ice. Express with a lemon peel and discard. Garnish with apple slices.
+Stir and strain into cocktail glass with cubed ice. Express with a lemon peel and discard. Garnish with apple slices.  
 
 ---
 
@@ -6108,7 +6119,7 @@ Method:
 
 Instructions:
 
-Dry shake ingredients. Then add ice and shake until chilled. Double strain into small mason jar. Finish with hibiscus and absinthe drops.
+Dry shake ingredients. Then add ice and shake until chilled. Double strain into small mason jar. Finish with hibiscus and absinthe drops.  
 
 ---
 
@@ -6143,7 +6154,7 @@ Method:
 
 Instructions:
 
-Shake and strain into chilled cocktail glass. Garnish with lavender sprig.
+Shake and strain into chilled cocktail glass. Garnish with lavender sprig.  
 
 ---
 
@@ -6178,7 +6189,8 @@ Method:
 
 Instructions:
 
-Combine in glass of your choice and enjoy. Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.
+Combine in glass of your choice and enjoy.  
+Shake with cubed ice. Double strain into small mason jar. Top with hazy i.p.a. Garnish with lychee candy on a clothespin.  
 
 ---
 
@@ -6213,7 +6225,7 @@ Method:
 
 Instructions:
 
-Shake and double strain into chilled coupe.
+Shake and double strain into chilled coupe.  
 
 ---
 
@@ -6248,7 +6260,7 @@ Method:
 
 Instructions:
 
-Shake and double strain into chilled wine glass with cubed ice. Top with half soda water and half prosecco. Garnish with a shiso leaf
+Shake and double strain into chilled wine glass with cubed ice. Top with half soda water and half prosecco. Garnish with a shiso leaf  
 
 ---
 
@@ -6281,7 +6293,7 @@ Method:
 
 Instructions:
 
-Shake and strain into absinthe rinsed cocktail glass. Garnish with a lemon peel.
+Shake and strain into absinthe rinsed cocktail glass. Garnish with a lemon peel.  
 
 ---
 
@@ -6317,12 +6329,14 @@ Method:
 
 Instructions:
 
-Shake and strain into colins glass with cubed ice. Top with soda. Thai basil sprig garnish. Agony syrup
-8 mint leaves
-8 basil leaves
-1 cup demerara sugar
-1 cup hot water
-combine sugar and hot water to make simple syrup. Steep mint and basil for 24 hours. Strain and refrigerate for cocktails up to 1 month. Makes enough for roughly 10 cocktails.
+Shake and strain into colins glass with cubed ice. Top with soda. Thai basil sprig garnish.  
+Agony syrup  
+8 mint leaves  
+8 basil leaves  
+1 cup demerara sugar  
+1 cup hot water  
+Combine sugar and hot water to make simple syrup. Steep mint and basil for 24 hours. Strain and refrigerate for cocktails up to 1 month.  
+Makes enough for roughly 10 cocktails.  
 
 ---
 
@@ -6358,7 +6372,7 @@ Method:
 
 Instructions:
 
-Short shake and strain over popcorn ice. Swizzle into collins glass. Garnish with edible orchid flower.
+Short shake and strain over popcorn ice. Swizzle into collins glass. Garnish with edible orchid flower.  
 
 ---
 

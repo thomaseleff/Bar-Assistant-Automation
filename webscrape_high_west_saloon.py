@@ -5,7 +5,7 @@ Name        : webscrape_high_west_saloon.py
 Location    : ~/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-27
+Revised on  : 2023-12-02
 
 Description
 ---------------------------------------------------------------------
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     # Create cocktail collection
     for category in list(hws.categories.keys()):
         collection = hws.create_cocktail_collection(
-            name=hws.title_case(str(category)),
+            name=str(category),
             cocktails=hws.categories[category]['path']
         )
 

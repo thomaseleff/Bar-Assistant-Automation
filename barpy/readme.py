@@ -5,7 +5,7 @@ Name        : readme.py
 Location    : ~/barpy/
 Author      : Tom Eleff
 Published   : 2023-10-16
-Revised on  : 2023-11-21
+Revised on  : 2023-12-02
 
 Description
 ---------------------------------------------------------------------
@@ -173,8 +173,8 @@ class Write():
                 if cocktail['instructions']:
                     self.write_line(string='Instructions:\n')
                     self.write_line(string='\n')
-                    for instruction in cocktail['instructions'].split('\n'):
-                        self.write_line(string='%s\n' % (instruction))
+                    for instruction in cocktail['instructions'].split('\n\n'):
+                        self.write_line(string='%s  \n' % (instruction))
                     self.write_line(string='\n')
                 self.write_line(string='%s\n' % ('-' * 3))
                 self.write_line(string='\n')

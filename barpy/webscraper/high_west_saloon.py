@@ -5,7 +5,7 @@ Name        : high_west_saloon.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-12-01
+Revised on  : 2023-12-02
 
 Description
 ---------------------------------------------------------------------
@@ -318,7 +318,7 @@ class HighWestSaloon(GenericWebscraper):
 
         # Create cocktail collection
         collection = self.Collection(
-            name=name
+            name=self.title_case(s=name)
         )
 
         # Add cocktails to cocktail collection
@@ -457,7 +457,9 @@ class HighWestSaloon(GenericWebscraper):
                     'LUXARDO CHERRIES',
                     'MUDDLE 4 CUBES OF WATERMELON',
                     'ABSINTHE RINSE',
-                    'SIMPLE ABUELITA CHOCOLATE'
+                    'SIMPLE ABUELITA CHOCOLATE',
+                    'LEMON WHEEL',
+                    'PINEAPPLE WEDGE'
                 ]
             )
 
@@ -586,10 +588,8 @@ class HighWestSaloon(GenericWebscraper):
 
             # Parse the cocktail recipe instructions
             if recipe[idx:]:
-                cocktail.instructions = self.proper_case(
-                    '\n'.join(
-                        recipe[idx:]
-                    )
+                cocktail.instructions = '\n\n'.join(
+                    [self.proper_case(s=line) for line in recipe[idx:]]
                 )
             else:
                 pass
