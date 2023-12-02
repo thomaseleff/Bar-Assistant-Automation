@@ -786,7 +786,7 @@ Ingredients:
 - 1.5 Oz High West Double Rye
 - 0.75 Oz Dry Vermouth
 - 0.25 Oz Maraschino Liqueur
-- 1 Barspoon Amer Picon Or - 2 Dashes Angostura Bitters
+- 1 Barspoon Amer Picon
 
 Garnish:
 
@@ -1867,7 +1867,7 @@ Ingredients:
 - 1 Oz Simple Syrup
 - 5 Leaves Mint
 - 2 Chunks Pineapple
-- 0.75 Oz Champagne Or Cava
+- 0.75 Oz Champagne
 
 Garnish:
 

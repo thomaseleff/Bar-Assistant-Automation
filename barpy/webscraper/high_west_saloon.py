@@ -5,7 +5,7 @@ Name        : high_west_saloon.py
 Location    : ~/barpy/webscraper/
 Author      : Tom Eleff
 Published   : 2023-10-23
-Revised on  : 2023-11-20
+Revised on  : 2023-12-01
 
 Description
 ---------------------------------------------------------------------
@@ -465,13 +465,13 @@ class HighWestSaloon(GenericWebscraper):
             for index, line in enumerate(recipe):
                 line = self.cleanse_trailing_period(s=line)
 
-                # Parse egg ingredients
+                # Parse default ingredients
                 if Patterns.match(
                     pattern=Patterns.default_ingredients(),
                     s=line
                 ):
 
-                    # Retrieve egg ingredient defaults
+                    # Retrieve ingredient defaults
                     defaults = Patterns.extract_ingredient_defaults(
                         pattern=Patterns.default_ingredients(),
                         s=line,
@@ -506,7 +506,11 @@ class HighWestSaloon(GenericWebscraper):
                     pattern=Patterns.all_ingredients(),
                     s=line
                 ):
-                    
+
+                    # Remove substitute ingredients
+                    if ' OR ' in line.upper():
+                        line = line.upper().split('OR')[0]
+                        
                     # Retrieve ingredient amount
                     amount = Patterns.extract_amount(
                         pattern=Patterns.all_amounts(),
