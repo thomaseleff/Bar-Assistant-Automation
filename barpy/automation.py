@@ -17,7 +17,7 @@ import requests
 import urllib.parse as up
 
 
-# Define post-related functions
+# Define the Barkeeper Class
 class Barkeeper():
 
     def __init__(
@@ -113,7 +113,7 @@ class Barkeeper():
         # Request authentication token
         self.workday.post(
             up.urljoin(self.api, operation),
-        ).status_code
+        )
 
     def create_cocktail(
         self,
@@ -130,7 +130,7 @@ class Barkeeper():
         <>
         """
 
-        return self.workday.post(
+        self.workday.post(
             up.urljoin(self.api, operation),
             json=json
         )
@@ -150,27 +150,7 @@ class Barkeeper():
         <>
         """
 
-        return self.workday.post(
-            up.urljoin(self.api, operation),
-            json=json
-        )
-
-    def remember_cocktail(
-        self,
-        json,
-        operation='cocktails'
-    ):
-        """
-        Variables
-        ---------------------------------------------------------------------
-        <>                      = <str>
-
-        Description
-        ---------------------------------------------------------------------
-        <>
-        """
-
-        return self.workday.post(
+        self.workday.post(
             up.urljoin(self.api, operation),
             json=json
         )

@@ -218,25 +218,31 @@ def generate_output_directory(
 
     if 'outputs' in config.keys():
 
-        # Create root output directory
-        os.mkdir(
-            os.path.join(
-                config['outputs']['path'],
-                config['outputs']['root']
-            )
-        )
+        if config['outputs']['root'] not in os.listdir(
+            config['outputs']['path']
+        ):
 
-        # Create output sub-directories
-        if 'subFolders' in config['outputs'].keys():
-
-            for folder in config['outputs']['subFolders']:
-                os.mkdir(
-                    os.path.join(
-                        config['outputs']['path'],
-                        config['outputs']['root'],
-                        folder
-                    )
+            # Create root output directory
+            os.mkdir(
+                os.path.join(
+                    config['outputs']['path'],
+                    config['outputs']['root']
                 )
+            )
+
+            # Create output sub-directories
+            if 'subFolders' in config['outputs'].keys():
+
+                for folder in config['outputs']['subFolders']:
+                    os.mkdir(
+                        os.path.join(
+                            config['outputs']['path'],
+                            config['outputs']['root'],
+                            folder
+                        )
+                    )
+        else:
+            pass
 
     else:
         raise KeyError(
